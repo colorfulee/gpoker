@@ -1,0 +1,51 @@
+{
+   "files": [
+      {
+         "id": "defaultAssets",
+         "convertToTexture": true,
+         "file": "assets/images/lobby/defaultAssets.png"
+      },
+      {
+         "id": "defaultAssetsXML",
+         "file": "assets/images/lobby/defaultAssets.xml"
+      },
+      {
+         "id": "lobbyBg",
+	  "convertToTexture": true,
+         "file": "assets/images/lobby/lobby_bg_bg.jpg"
+      },
+      {
+         "id": "lang",
+	  "convertToModel": true,
+         "file": "assets/common/language.xml"
+      },
+      {
+         "id": "tableBack",
+         "convertToTexture": true,
+         "file": "assets/images/table/table_bg_bg.jpg"
+      },
+      {
+         "id": "tableShadeBack",
+         "convertToTexture": true,
+         "file": "assets/images/table/table_bg_shade.png"
+      },
+      {
+         "id": "tableImg",
+         "convertToTexture": true,
+         "file": "assets/images/table/table_bg_table.png"
+      },{
+         "id": "tableSheet",
+         "convertToTexture": true,
+         "file": "assets/images/table/tableSheet.png"
+      },
+      {
+         "id": "tableSheetXML",
+         "file": "assets/images/table/tableSheet.xml"
+      },
+      {
+         "id": "table_config",
+	  "convertToModel": true,
+         "file": "assets/common/table_config.xml"
+      }
+   ]
+}

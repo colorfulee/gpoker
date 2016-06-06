@@ -1,0 +1,5 @@
+<TextureAtlas imagePath="winning10.png">
+  <SubTexture name="img_37" x="424" y="0" width="38" height="39" frameX="0" frameWidth="38" frameY="0" frameHeight="40"/>
+  <SubTexture name="img_31" x="0" y="0" width="352" height="32"/>
+  <SubTexture name="img_36" x="354" y="0" width="68" height="61" frameX="0" frameWidth="68" frameY="0" frameHeight="62"/>
+</TextureAtlas>

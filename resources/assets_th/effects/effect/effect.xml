@@ -1,0 +1,7 @@
+<TextureAtlas imagePath="effect.png">
+  <SubTexture name="img_texx" x="130" y="0" width="123" height="21"/>
+  <SubTexture name="img_t" x="170" y="23" width="16" height="15" frameX="0" frameWidth="16" frameY="0" frameHeight="16"/>
+  <SubTexture name="img_tx" x="130" y="23" width="38" height="39" frameX="0" frameWidth="38" frameY="0" frameHeight="40"/>
+  <SubTexture name="img_xxxxxxx" x="0" y="0" width="128" height="67"/>
+  <SubTexture name="img_tt" x="188" y="23" width="7" height="7" frameX="0" frameWidth="8" frameY="0" frameHeight="8"/>
+</TextureAtlas>

@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:934d88f8ff10227febee9d037d8a5d7a:4b05dcbd19b0ef7d094b8d017890ed30:bfa980af11c39e28b213c3b95cb95acc$ -->
+<TextureAtlas imagePath="defaultAssets.png">
+    <SubTexture name="MTT_bg_" x="446" y="758" width="32" height="77"/>
+    <SubTexture name="MTT_bg_count down" x="1380" y="672" width="160" height="84"/>
+    <SubTexture name="MTT_bg_game" x="2" y="1374" width="47" height="418"/>
+    <SubTexture name="MTT_bg_match" x="1561" y="246" width="400" height="55"/>
+    <SubTexture name="MTT_bg_not open" x="1191" y="255" width="197" height="59"/>
+    <SubTexture name="MTT_bg_pattern" x="955" y="883" width="41" height="21"/>
+    <SubTexture name="MTT_btn_back1" x="561" y="1555" width="63" height="63"/>
+    <SubTexture name="MTT_btn_back2" x="534" y="1490" width="63" height="63"/>
+    <SubTexture name="MTT_btn_cost description1" x="534" y="1719" width="68" height="54"/>
+    <SubTexture name="MTT_btn_cost description2" x="464" y="1499" width="68" height="54"/>
+    <SubTexture name="MTT_btn_mtt description1" x="446" y="1235" width="51" height="51"/>
+    <SubTexture name="MTT_btn_mtt description2" x="1105" y="594" width="51" height="51"/>
+    <SubTexture name="MTT_btn_sign up1" x="2" y="897" width="209" height="67"/>
+    <SubTexture name="MTT_btn_sign up2" x="2" y="828" width="209" height="67"/>
+    <SubTexture name="MTT_icon_a" x="2024" y="998" width="21" height="21"/>
+    <SubTexture name="MTT_icon_a1" x="246" y="1417" width="30" height="30"/>
+    <SubTexture name="MTT_icon_arrow" x="1167" y="501" width="17" height="19"/>
+    <SubTexture name="MTT_icon_chips" x="1889" y="518" width="34" height="34"/>
+    <SubTexture name="MTT_icon_copper" x="1103" y="799" width="78" height="61" frameX="0" frameY="-4" frameWidth="78" frameHeight="65"/>
+    <SubTexture name="MTT_icon_diamond" x="1105" y="647" width="78" height="65"/>
+    <SubTexture name="MTT_icon_gold" x="1105" y="714" width="78" height="61" frameX="0" frameY="-4" frameWidth="78" frameHeight="65"/>
+    <SubTexture name="MTT_icon_money" x="1889" y="482" width="34" height="34"/>
+    <SubTexture name="MTT_icon_number" x="1512" y="1183" width="28" height="34"/>
+    <SubTexture name="MTT_icon_r" x="2024" y="975" width="21" height="21"/>
+    <SubTexture name="MTT_icon_r1" x="246" y="1385" width="30" height="30"/>
+    <SubTexture name="MTT_icon_silver" x="1097" y="895" width="78" height="59" frameX="0" frameY="-5" frameWidth="78" frameHeight="65"/>
+    <SubTexture name="MTT_icon_time" x="1889" y="446" width="34" height="34"/>
+    <SubTexture name="MTT_lable_left1" x="1390" y="285" width="164" height="52"/>
+    <SubTexture name="MTT_lable_left2" x="1380" y="572" width="162" height="48" frameX="-1" frameY="-1" frameWidth="164" frameHeight="52"/>
+    <SubTexture name="MTT_lable_middle1" x="1383" y="468" width="162" height="52"/>
+    <SubTexture name="MTT_lable_middle2" x="1383" y="522" width="162" height="48" frameX="0" frameY="-1" frameWidth="162" frameHeight="52"/>
+    <SubTexture name="MTT_lable_right1" x="1383" y="414" width="163" height="52"/>
+    <SubTexture name="MTT_lable_right2" x="1380" y="622" width="161" height="48" frameX="0" frameY="-1" frameWidth="163" frameHeight="52"/>
+    <SubTexture name="MTT_lable_subhead" x="2008" y="2" width="38" height="44"/>
+    <SubTexture name="MTT_txt_0" x="213" y="866" width="26" height="36"/>
+    <SubTexture name="MTT_txt_1" x="1167" y="426" width="17" height="36"/>
+    <SubTexture name="MTT_txt_2" x="213" y="828" width="26" height="36"/>
+    <SubTexture name="MTT_txt_3" x="637" y="1907" width="25" height="36"/>
+    <SubTexture name="MTT_txt_4" x="674" y="1844" width="25" height="36"/>
+    <SubTexture name="MTT_txt_5" x="647" y="1844" width="25" height="36"/>
+    <SubTexture name="MTT_txt_6" x="620" y="1846" width="25" height="36"/>
+    <SubTexture name="MTT_txt_7" x="662" y="1711" width="25" height="36"/>
+    <SubTexture name="MTT_txt_8" x="612" y="1620" width="25" height="36"/>
+    <SubTexture name="MTT_txt_9" x="585" y="1620" width="25" height="36"/>
+    <SubTexture name="MTT_txt_match" x="1390" y="83" width="135" height="37"/>
+    <SubTexture name="MTT_txt_not open" x="560" y="2021" width="86" height="24"/>
+    <SubTexture name="MTT_txt_sign up1" x="302" y="914" width="59" height="25"/>
+    <SubTexture name="MTT_txt_sign up2" x="241" y="914" width="59" height="25"/>
+    <SubTexture name="MTT_txt_sign up3" x="689" y="1660" width="57" height="23"/>
+    <SubTexture name="MTT_txt_sign up4" x="688" y="1882" width="57" height="23"/>
+    <SubTexture name="MTT_txt_wait" x="291" y="1303" width="112" height="26"/>
+    <SubTexture name="RING GAME_btn_game1_1" x="501" y="878" width="149" height="147" frameX="-31" frameY="-34" frameWidth="193" frameHeight="181"/>
+    <SubTexture name="RING GAME_btn_game1_2" x="251" y="1794" width="193" height="181"/>
+    <SubTexture name="RING GAME_btn_game2_1" x="1378" y="758" width="149" height="147" frameX="-31" frameY="-34" frameWidth="193" frameHeight="181"/>
+    <SubTexture name="RING GAME_btn_game2_2" x="56" y="1794" width="193" height="181"/>
+    <SubTexture name="RING GAME_btn_game3_1" x="234" y="966" width="149" height="147" frameX="-31" frameY="-34" frameWidth="193" frameHeight="181"/>
+    <SubTexture name="RING GAME_btn_game3_2" x="51" y="1557" width="193" height="181"/>
+    <SubTexture name="RING GAME_btn_game4_1" x="1873" y="1225" width="149" height="147" frameX="-31" frameY="-34" frameWidth="193" frameHeight="181"/>
+    <SubTexture name="RING GAME_btn_game4_2" x="51" y="1374" width="193" height="181"/>
+    <SubTexture name="RING GAME_btn_game5_1" x="1873" y="1076" width="149" height="147" frameX="-31" frameY="-34" frameWidth="193" frameHeight="181"/>
+    <SubTexture name="RING GAME_btn_game5_2" x="1185" y="552" width="193" height="181"/>
+    <SubTexture name="RING GAME_btn_game6_1" x="1873" y="927" width="149" height="147" frameX="-31" frameY="-34" frameWidth="193" frameHeight="181"/>
+    <SubTexture name="RING GAME_btn_game6_2" x="1188" y="369" width="193" height="181"/>
+    <SubTexture name="S9_activity_bg_timeline" x="1880" y="635" width="42" height="72"/>
+    <SubTexture name="achievement_bg_light" x="2" y="1226" width="143" height="142"/>
+    <SubTexture name="achievement_txt_finish" x="955" y="948" width="40" height="21"/>
+    <SubTexture name="achievement_txt_title" x="1556" y="303" width="389" height="70"/>
+    <SubTexture name="activity_bg_pattern" x="1390" y="241" width="169" height="22"/>
+    <SubTexture name="activity_lable_notice1" x="292" y="1977" width="207" height="69" frameX="-7" frameY="-8" frameWidth="237" frameHeight="85"/>
+    <SubTexture name="activity_lable_notice2" x="2" y="741" width="237" height="85"/>
+    <SubTexture name="activity_txt_joy1" x="213" y="941" width="94" height="23"/>
+    <SubTexture name="activity_txt_joy2" x="1390" y="122" width="94" height="23"/>
+    <SubTexture name="activity_txt_title" x="1561" y="175" width="402" height="69"/>
+    <SubTexture name="common_able_buy1" x="791" y="663" width="206" height="69"/>
+    <SubTexture name="common_bg_highlight" x="405" y="1172" width="36" height="36"/>
+    <SubTexture name="common_bg_itembg" x="1986" y="88" width="60" height="54"/>
+    <SubTexture name="common_bg_light" x="147" y="1226" width="142" height="142" frameX="-4" frameY="-4" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="common_bg_pattern" x="2" y="2" width="790" height="509" frameX="-14" frameY="-1" frameWidth="804" frameHeight="527"/>
+    <SubTexture name="common_bg_popup1" x="1873" y="763" width="49" height="47"/>
+    <SubTexture name="common_bg_tips" x="2" y="648" width="239" height="91"/>
+    <SubTexture name="common_bg_tips1" x="2024" y="1043" width="20" height="18"/>
+    <SubTexture name="common_bg_tips2" x="648" y="2004" width="62" height="39"/>
+    <SubTexture name="common_bg_title" x="794" y="169" width="594" height="84"/>
+    <SubTexture name="common_btn_button1" x="1378" y="907" width="149" height="55"/>
+    <SubTexture name="common_btn_button2" x="501" y="1084" width="149" height="55"/>
+    <SubTexture name="common_btn_close1" x="505" y="1856" width="57" height="57"/>
+    <SubTexture name="common_btn_close2" x="501" y="1974" width="57" height="57"/>
+    <SubTexture name="common_icon_Scrollbar" x="1925" y="375" width="15" height="15"/>
+    <SubTexture name="common_icon_female" x="2" y="1130" width="94" height="94"/>
+    <SubTexture name="common_icon_male" x="405" y="513" width="94" height="94"/>
+    <SubTexture name="common_icon_unread" x="2024" y="952" width="21" height="21"/>
+    <SubTexture name="common_lable_buy2" x="72" y="1977" width="218" height="69"/>
+    <SubTexture name="details_bg_magicface" x="635" y="1202" width="106" height="106"/>
+    <SubTexture name="details_bg_scroll1" x="794" y="2" width="770" height="32"/>
+    <SubTexture name="details_bg_scroll2" x="1387" y="339" width="163" height="73"/>
+    <SubTexture name="details_bg_tips2" x="348" y="1531" width="24" height="18"/>
+    <SubTexture name="details_bg_title" x="446" y="658" width="302" height="75"/>
+    <SubTexture name="details_btn_addfriends1" x="1378" y="964" width="149" height="51"/>
+    <SubTexture name="details_btn_addfriends2" x="1177" y="948" width="149" height="51"/>
+    <SubTexture name="details_btn_myitem1" x="1183" y="813" width="191" height="76"/>
+    <SubTexture name="details_btn_myitem2" x="1185" y="735" width="191" height="76"/>
+    <SubTexture name="details_btn_password1" x="501" y="1027" width="149" height="55"/>
+    <SubTexture name="details_btn_password2" x="1180" y="891" width="149" height="55"/>
+    <SubTexture name="details_btn_recharge1" x="991" y="1176" width="90" height="40"/>
+    <SubTexture name="details_btn_recharge2" x="991" y="1134" width="90" height="40"/>
+    <SubTexture name="details_btn_vip1" x="1963" y="282" width="81" height="41" frameX="-3" frameY="0" frameWidth="87" frameHeight="43"/>
+    <SubTexture name="details_btn_vip2" x="989" y="1287" width="87" height="43"/>
+    <SubTexture name="details_btn_vip_gray1" x="1097" y="862" width="81" height="31" frameX="-3" frameY="-9" frameWidth="87" frameHeight="43"/>
+    <SubTexture name="details_btn_vip_gray2" x="496" y="1621" width="87" height="37" frameX="0" frameY="-6" frameWidth="87" frameHeight="43"/>
+    <SubTexture name="details_icon_female" x="1167" y="398" width="19" height="26"/>
+    <SubTexture name="details_icon_integration" x="703" y="1801" width="24" height="24"/>
+    <SubTexture name="details_icon_male" x="766" y="2003" width="26" height="26"/>
+    <SubTexture name="details_icon_right" x="37" y="2013" width="33" height="33"/>
+    <SubTexture name="details_icon_savebox1" x="405" y="966" width="94" height="73" frameX="-5" frameY="-5" frameWidth="104" frameHeight="83"/>
+    <SubTexture name="details_icon_savebox2" x="999" y="663" width="104" height="83"/>
+    <SubTexture name="details_icon_wrong" x="2" y="2013" width="33" height="33"/>
+    <SubTexture name="details_lable_save1-1" x="791" y="794" width="205" height="58"/>
+    <SubTexture name="details_lable_save1-2" x="749" y="966" width="203" height="54" frameX="-2" frameY="-2" frameWidth="205" frameHeight="58"/>
+    <SubTexture name="details_lable_save2-1" x="791" y="734" width="206" height="58"/>
+    <SubTexture name="details_lable_save2-2" x="749" y="910" width="204" height="54" frameX="-1" frameY="-2" frameWidth="206" frameHeight="58"/>
+    <SubTexture name="details_txt_Attention1" x="368" y="1141" width="73" height="29"/>
+    <SubTexture name="details_txt_Attention2" x="1301" y="1252" width="73" height="29"/>
+    <SubTexture name="details_txt_Bestresults" x="291" y="628" width="208" height="28"/>
+    <SubTexture name="details_txt_Trophy" x="274" y="1501" width="117" height="28"/>
+    <SubTexture name="details_txt_addfriends1" x="276" y="1471" width="117" height="28"/>
+    <SubTexture name="details_txt_addfriends2" x="278" y="1441" width="117" height="28"/>
+    <SubTexture name="details_txt_delfriends1" x="1924" y="824" width="118" height="28"/>
+    <SubTexture name="details_txt_delfriends2" x="1924" y="794" width="118" height="28"/>
+    <SubTexture name="details_txt_myitem1" x="869" y="1331" width="117" height="28"/>
+    <SubTexture name="details_txt_myitem2" x="1924" y="854" width="117" height="28"/>
+    <SubTexture name="details_txt_recharge" x="696" y="1981" width="47" height="21"/>
+    <SubTexture name="details_txt_recording1" x="1924" y="764" width="119" height="28"/>
+    <SubTexture name="details_txt_recording2" x="1924" y="734" width="119" height="28"/>
+    <SubTexture name="details_txt_savebox" x="1947" y="325" width="99" height="36"/>
+    <SubTexture name="friends_bg_mygiftsitems" x="734" y="1485" width="54" height="52"/>
+    <SubTexture name="friends_btn_invitefacebook1" x="1191" y="316" width="194" height="51" frameX="-4" frameY="-4" frameWidth="202" frameHeight="59"/>
+    <SubTexture name="friends_btn_invitefacebook2" x="749" y="1022" width="202" height="59"/>
+    <SubTexture name="friends_btn_mygifts1" x="1925" y="544" width="120" height="64" frameX="-6" frameY="-4" frameWidth="132" frameHeight="74"/>
+    <SubTexture name="friends_btn_mygifts2" x="501" y="1141" width="132" height="74"/>
+    <SubTexture name="friends_btn_receive1" x="997" y="945" width="97" height="87"/>
+    <SubTexture name="friends_btn_receive2" x="998" y="856" width="97" height="87"/>
+    <SubTexture name="friends_txt_cancel1" x="566" y="1775" width="47" height="52"/>
+    <SubTexture name="friends_txt_cancel2" x="1876" y="709" width="46" height="52"/>
+    <SubTexture name="friends_txt_given" x="620" y="1884" width="66" height="21"/>
+    <SubTexture name="friends_txt_invite" x="998" y="830" width="101" height="24"/>
+    <SubTexture name="friends_txt_invite1" x="697" y="1593" width="47" height="22"/>
+    <SubTexture name="friends_txt_invite2" x="689" y="1710" width="47" height="23"/>
+    <SubTexture name="friends_txt_join1" x="689" y="1685" width="48" height="23"/>
+    <SubTexture name="friends_txt_join2" x="309" y="941" width="48" height="23"/>
+    <SubTexture name="friends_txt_leave" x="989" y="1264" width="89" height="21"/>
+    <SubTexture name="friends_txt_mygifts" x="1301" y="1176" width="74" height="20"/>
+    <SubTexture name="friends_txt_sendgift1" x="989" y="1241" width="89" height="21"/>
+    <SubTexture name="friends_txt_sendgift2" x="991" y="1218" width="89" height="21"/>
+    <SubTexture name="friends_txt_title" x="791" y="594" width="312" height="67"/>
+    <SubTexture name="items_txt_items" x="2" y="513" width="285" height="65"/>
+    <SubTexture name="lobby_bg_Halo" x="1947" y="363" width="99" height="27"/>
+    <SubTexture name="lobby_bg_Personalinformation" x="1547" y="543" width="331" height="123"/>
+    <SubTexture name="lobby_bg_monkey" x="1542" y="738" width="329" height="486" frameX="-4" frameY="-6" frameWidth="335" frameHeight="496"/>
+    <SubTexture name="lobby_bg_player" x="291" y="513" width="112" height="113"/>
+    <SubTexture name="lobby_btn_Achievement1" x="691" y="1539" width="69" height="52"/>
+    <SubTexture name="lobby_btn_Achievement2" x="663" y="1485" width="69" height="52"/>
+    <SubTexture name="lobby_btn_Activity1" x="564" y="1850" width="54" height="55"/>
+    <SubTexture name="lobby_btn_Activity2" x="510" y="1793" width="54" height="55"/>
+    <SubTexture name="lobby_btn_Function1" x="794" y="496" width="371" height="96"/>
+    <SubTexture name="lobby_btn_Function2" x="794" y="398" width="371" height="96"/>
+    <SubTexture name="lobby_btn_Ranking1" x="508" y="1660" width="59" height="57"/>
+    <SubTexture name="lobby_btn_Ranking2" x="385" y="1041" width="59" height="57"/>
+    <SubTexture name="lobby_btn_Recharge1" x="316" y="1555" width="108" height="108"/>
+    <SubTexture name="lobby_btn_Recharge2" x="627" y="1375" width="108" height="108"/>
+    <SubTexture name="lobby_btn_addfriend1" x="501" y="590" width="288" height="60"/>
+    <SubTexture name="lobby_btn_addfriend2" x="501" y="528" width="288" height="60"/>
+    <SubTexture name="lobby_btn_friends1" x="446" y="1915" width="57" height="57"/>
+    <SubTexture name="lobby_btn_friends2" x="446" y="1856" width="57" height="57"/>
+    <SubTexture name="lobby_btn_game1" x="652" y="1137" width="90" height="63"/>
+    <SubTexture name="lobby_btn_game2" x="652" y="1072" width="90" height="63"/>
+    <SubTexture name="lobby_btn_item1" x="505" y="1915" width="63" height="55"/>
+    <SubTexture name="lobby_btn_item2" x="405" y="1736" width="63" height="55"/>
+    <SubTexture name="lobby_btn_message1" x="570" y="1907" width="65" height="47"/>
+    <SubTexture name="lobby_btn_message2" x="560" y="1972" width="65" height="47"/>
+    <SubTexture name="lobby_btn_mission1" x="291" y="1331" width="108" height="108"/>
+    <SubTexture name="lobby_btn_mission2" x="258" y="1115" width="108" height="108"/>
+    <SubTexture name="lobby_btn_setting1" x="306" y="1678" width="58" height="59"/>
+    <SubTexture name="lobby_btn_setting2" x="246" y="1678" width="58" height="59"/>
+    <SubTexture name="lobby_icon_Unread" x="1965" y="175" width="18" height="18"/>
+    <SubTexture name="lobby_icon_add" x="1167" y="522" width="17" height="17"/>
+    <SubTexture name="lobby_icon_arrow" x="1167" y="559" width="15" height="18"/>
+    <SubTexture name="lobby_icon_chips" x="680" y="1775" width="24" height="24"/>
+    <SubTexture name="lobby_icon_coin" x="680" y="1749" width="24" height="24"/>
+    <SubTexture name="lobby_icon_mtt" x="626" y="1554" width="63" height="53"/>
+    <SubTexture name="lobby_icon_playnow" x="1301" y="1198" width="73" height="52"/>
+    <SubTexture name="lobby_icon_ringgame" x="501" y="1345" width="124" height="57"/>
+    <SubTexture name="lobby_icon_sng" x="569" y="1660" width="69" height="53"/>
+    <SubTexture name="lobby_txt_MTT1" x="291" y="1225" width="55" height="18"/>
+    <SubTexture name="lobby_txt_MTT2" x="745" y="1981" width="62" height="20"/>
+    <SubTexture name="lobby_txt_Recharge" x="1103" y="777" width="79" height="20"/>
+    <SubTexture name="lobby_txt_Routine1" x="446" y="1288" width="51" height="25"/>
+    <SubTexture name="lobby_txt_Routine2" x="643" y="1814" width="58" height="28"/>
+    <SubTexture name="lobby_txt_SNG1" x="446" y="1141" width="52" height="18"/>
+    <SubTexture name="lobby_txt_SNG2" x="697" y="1617" width="60" height="20"/>
+    <SubTexture name="lobby_txt_mission" x="446" y="1387" width="49" height="20"/>
+    <SubTexture name="lobby_txt_play1" x="1323" y="1036" width="52" height="24"/>
+    <SubTexture name="lobby_txt_play2" x="1986" y="144" width="60" height="28"/>
+    <SubTexture name="lobby_txt_playnow1" x="575" y="735" width="111" height="21"/>
+    <SubTexture name="lobby_txt_playnow2" x="368" y="1115" width="130" height="24"/>
+    <SubTexture name="lobby_txt_ringgame1" x="446" y="735" width="127" height="21"/>
+    <SubTexture name="lobby_txt_ringgame2" x="1175" y="1001" width="148" height="24"/>
+    <SubTexture name="lobby_txt_sitandgo1" x="743" y="1319" width="124" height="16"/>
+    <SubTexture name="lobby_txt_sitandgo2" x="1175" y="1027" width="146" height="19"/>
+    <SubTexture name="lobby_txt_tournament1" x="1378" y="1017" width="143" height="16"/>
+    <SubTexture name="lobby_txt_tournament2" x="1390" y="265" width="167" height="18"/>
+    <SubTexture name="mailbox_btn_checkbox1" x="2024" y="1021" width="20" height="20"/>
+    <SubTexture name="mailbox_btn_checkbox2" x="1986" y="66" width="20" height="20"/>
+    <SubTexture name="mailbox_btn_confirm1" x="388" y="837" width="95" height="75"/>
+    <SubTexture name="mailbox_btn_confirm2" x="291" y="837" width="95" height="75"/>
+    <SubTexture name="mailbox_btn_delete1" x="878" y="1284" width="109" height="45"/>
+    <SubTexture name="mailbox_btn_delete2" x="878" y="1237" width="109" height="45"/>
+    <SubTexture name="mailbox_btn_deleteall1" x="1390" y="194" width="169" height="45"/>
+    <SubTexture name="mailbox_btn_deleteall2" x="1390" y="147" width="169" height="45"/>
+    <SubTexture name="mailbox_txt_confirm1" x="706" y="1759" width="48" height="22"/>
+    <SubTexture name="mailbox_txt_confirm2" x="739" y="1685" width="48" height="22"/>
+    <SubTexture name="mailbox_txt_ignore1" x="446" y="1363" width="49" height="22"/>
+    <SubTexture name="mailbox_txt_ignore2" x="1873" y="860" width="49" height="22"/>
+    <SubTexture name="mailbox_txt_mailbox" x="1566" y="66" width="418" height="70"/>
+    <SubTexture name="mailbox_txt_reward1" x="688" y="735" width="60" height="23"/>
+    <SubTexture name="mailbox_txt_reward2" x="1986" y="174" width="60" height="23"/>
+    <SubTexture name="mission_bg_data" x="446" y="1085" width="45" height="28"/>
+    <SubTexture name="mission_bg_jindutiao1" x="794" y="36" width="737" height="15"/>
+    <SubTexture name="mission_bg_jindutiao2" x="794" y="68" width="735" height="13" frameX="-1" frameY="-1" frameWidth="737" frameHeight="15"/>
+    <SubTexture name="mission_bg_light" x="291" y="658" width="112" height="112"/>
+    <SubTexture name="mission_bg_line" x="291" y="1246" width="109" height="11"/>
+    <SubTexture name="mission_bg_signin" x="1566" y="2" width="440" height="62"/>
+    <SubTexture name="mission_btn_explain1" x="1924" y="687" width="119" height="45"/>
+    <SubTexture name="mission_btn_explain2" x="1924" y="640" width="119" height="45"/>
+    <SubTexture name="mission_btn_reward1" x="501" y="1281" width="126" height="62"/>
+    <SubTexture name="mission_btn_reward2" x="501" y="1217" width="126" height="62"/>
+    <SubTexture name="mission_btn_signin" x="480" y="758" width="191" height="76"/>
+    <SubTexture name="mission_btn_signin1" x="228" y="1740" width="175" height="52"/>
+    <SubTexture name="mission_btn_signin2" x="51" y="1740" width="175" height="52"/>
+    <SubTexture name="mission_icon_giftbox1-1" x="744" y="1201" width="132" height="116"/>
+    <SubTexture name="mission_icon_giftbox1-2" x="744" y="1083" width="132" height="116"/>
+    <SubTexture name="mission_icon_giftbox2-1" x="1167" y="1166" width="132" height="116"/>
+    <SubTexture name="mission_icon_giftbox2-2" x="1378" y="1153" width="132" height="116"/>
+    <SubTexture name="mission_icon_giftbox3-1" x="1170" y="1048" width="132" height="116"/>
+    <SubTexture name="mission_icon_giftbox3-2" x="1378" y="1035" width="132" height="116"/>
+    <SubTexture name="mission_icon_signin" x="366" y="1665" width="70" height="69"/>
+    <SubTexture name="mission_txt_eight" x="739" y="2004" width="25" height="35"/>
+    <SubTexture name="mission_txt_five" x="696" y="1944" width="26" height="35"/>
+    <SubTexture name="mission_txt_four" x="712" y="2004" width="25" height="35"/>
+    <SubTexture name="mission_txt_login" x="1924" y="610" width="120" height="28"/>
+    <SubTexture name="mission_txt_mission" x="1543" y="668" width="331" height="68"/>
+    <SubTexture name="mission_txt_nine" x="724" y="1944" width="25" height="35"/>
+    <SubTexture name="mission_txt_one" x="1167" y="464" width="17" height="35"/>
+    <SubTexture name="mission_txt_reward" x="274" y="1531" width="72" height="22"/>
+    <SubTexture name="mission_txt_reward1" x="1304" y="1152" width="72" height="22"/>
+    <SubTexture name="mission_txt_seven" x="722" y="1907" width="25" height="35"/>
+    <SubTexture name="mission_txt_sign" x="1873" y="884" width="155" height="41"/>
+    <SubTexture name="mission_txt_signin1" x="438" y="1469" width="61" height="28"/>
+    <SubTexture name="mission_txt_signin2" x="878" y="1083" width="61" height="28"/>
+    <SubTexture name="mission_txt_signin3-1" x="1304" y="1122" width="72" height="28"/>
+    <SubTexture name="mission_txt_signin3-2" x="1304" y="1092" width="72" height="28"/>
+    <SubTexture name="mission_txt_signin3-3" x="1304" y="1062" width="72" height="28"/>
+    <SubTexture name="mission_txt_six" x="701" y="1844" width="26" height="35"/>
+    <SubTexture name="mission_txt_three" x="246" y="1518" width="26" height="35"/>
+    <SubTexture name="mission_txt_title" x="291" y="1259" width="112" height="42"/>
+    <SubTexture name="mission_txt_two" x="246" y="1481" width="26" height="35"/>
+    <SubTexture name="mission_txt_zero" x="213" y="904" width="26" height="35"/>
+    <SubTexture name="rank_btn_check" x="955" y="906" width="40" height="40"/>
+    <SubTexture name="rank_btn_unchecked" x="749" y="812" width="40" height="40"/>
+    <SubTexture name="rank_icon_copper" x="1083" y="1178" width="76" height="60"/>
+    <SubTexture name="rank_icon_gold" x="1089" y="1116" width="76" height="60"/>
+    <SubTexture name="rank_icon_silver" x="1082" y="1240" width="76" height="59"/>
+    <SubTexture name="rank_txt_title" x="1552" y="375" width="371" height="69"/>
+    <SubTexture name="recording_bg_bottom" x="1167" y="579" width="13" height="66"/>
+    <SubTexture name="recording_bg_playbtn" x="98" y="1130" width="88" height="91"/>
+    <SubTexture name="recording_bg_timeline1" x="794" y="53" width="735" height="13"/>
+    <SubTexture name="recording_bg_timeline3" x="1947" y="303" width="13" height="13"/>
+    <SubTexture name="recording_btn_close1" x="470" y="1730" width="62" height="61"/>
+    <SubTexture name="recording_btn_close2" x="446" y="1793" width="62" height="61"/>
+    <SubTexture name="recording_btn_play1" x="1091" y="1036" width="77" height="78"/>
+    <SubTexture name="recording_btn_play2" x="1096" y="956" width="77" height="78"/>
+    <SubTexture name="recording_btn_review1" x="1925" y="468" width="121" height="74"/>
+    <SubTexture name="recording_btn_review2" x="1925" y="392" width="121" height="74"/>
+    <SubTexture name="recording_btn_tips" x="363" y="914" width="76" height="50"/>
+    <SubTexture name="recording_icon_Pause" x="615" y="1814" width="26" height="30"/>
+    <SubTexture name="recording_icon_play" x="1533" y="36" width="31" height="35"/>
+    <SubTexture name="recording_txt_Review1" x="738" y="1710" width="58" height="22"/>
+    <SubTexture name="recording_txt_Review2" x="706" y="1735" width="58" height="22"/>
+    <SubTexture name="recording_txt_recording" x="794" y="327" width="392" height="69"/>
+    <SubTexture name="s9_" x="1328" y="986" width="48" height="48"/>
+    <SubTexture name="s9_1" x="426" y="1645" width="63" height="13"/>
+    <SubTexture name="s9_RINGGAME_bg_blind" x="664" y="1907" width="56" height="35"/>
+    <SubTexture name="s9_RINGGAME_bg_top" x="446" y="1041" width="52" height="42"/>
+    <SubTexture name="s9_achievement_bg_finish" x="955" y="854" width="41" height="27"/>
+    <SubTexture name="s9_common_bg_coin" x="794" y="2003" width="44" height="24"/>
+    <SubTexture name="s9_common_bg_inform" x="243" y="648" width="45" height="56"/>
+    <SubTexture name="s9_common_bg_popup" x="438" y="1409" width="61" height="58"/>
+    <SubTexture name="s9_common_bg_scroll1" x="2024" y="1063" width="12" height="31"/>
+    <SubTexture name="s9_common_bg_scroll2" x="2038" y="1063" width="8" height="11"/>
+    <SubTexture name="s9_details_bg_LVbar 2" x="501" y="513" width="290" height="13"/>
+    <SubTexture name="s9_details_bg_achieve1" x="743" y="1337" width="123" height="99"/>
+    <SubTexture name="s9_details_bg_achieve2" x="1548" y="446" width="339" height="95"/>
+    <SubTexture name="s9_details_bg_shurukuang" x="750" y="732" width="39" height="32"/>
+    <SubTexture name="s9_details_bg_tips1" x="640" y="1660" width="47" height="49"/>
+    <SubTexture name="s9_items_bg_itembox" x="673" y="760" width="74" height="136"/>
+    <SubTexture name="s9_lobby_bg_addfriends" x="402" y="1210" width="42" height="39"/>
+    <SubTexture name="s9_lobby_bg_bottom" x="749" y="854" width="204" height="54"/>
+    <SubTexture name="s9_lobby_bg_headportrait" x="1167" y="541" width="16" height="16"/>
+    <SubTexture name="s9_mailbox_bg_mails" x="426" y="1555" width="68" height="88"/>
+    <SubTexture name="s9_mailbox_normalbg_mails" x="188" y="1126" width="68" height="98"/>
+    <SubTexture name="s9_mission_bg_date1" x="405" y="1317" width="32" height="31"/>
+    <SubTexture name="s9_mission_bg_date2" x="405" y="1284" width="32" height="31"/>
+    <SubTexture name="s9_mission_bg_date3" x="405" y="1251" width="32" height="31"/>
+    <SubTexture name="s9_mission_bg_item" x="241" y="754" width="48" height="158"/>
+    <SubTexture name="s9_mission_bg_mission" x="246" y="1555" width="68" height="121"/>
+    <SubTexture name="s9_rank_bg_myself" x="1880" y="554" width="42" height="79"/>
+    <SubTexture name="s9_rank_bg_title" x="749" y="766" width="40" height="44"/>
+    <SubTexture name="s9_recording_bg_review" x="999" y="748" width="102" height="80"/>
+    <SubTexture name="s9_recording_bg_time" x="1486" y="122" width="35" height="23"/>
+    <SubTexture name="s9_recording_bg_timeline1" x="418" y="1100" width="23" height="13"/>
+    <SubTexture name="s9_recording_bg_timeline2" x="418" y="1100" width="23" height="13"/>
+    <SubTexture name="s9_store_bg_item" x="2" y="1794" width="52" height="217"/>
+    <SubTexture name="s9_table_bg_choose" x="1566" y="138" width="418" height="35"/>
+    <SubTexture name="s9_table_bg_liaotian" x="1531" y="73" width="33" height="72"/>
+    <SubTexture name="s9_table_bg_liaotiandi" x="954" y="971" width="37" height="38"/>
+    <SubTexture name="s9_table_bg_luyindi" x="1331" y="939" width="45" height="45"/>
+    <SubTexture name="s9_table_bg_shurukuang" x="1512" y="1035" width="28" height="62"/>
+    <SubTexture name="s9_table_bg_tips1" x="405" y="734" width="39" height="47"/>
+    <SubTexture name="s9_table_btn_speak" x="615" y="1766" width="63" height="46"/>
+    <SubTexture name="s9_table_btn_speakmyself" x="627" y="1956" width="67" height="46"/>
+    <SubTexture name="setting_btn_logout1" x="878" y="1175" width="111" height="60"/>
+    <SubTexture name="setting_btn_logout2" x="878" y="1113" width="111" height="60"/>
+    <SubTexture name="setting_btn_off" x="991" y="1084" width="96" height="48"/>
+    <SubTexture name="setting_btn_on" x="993" y="1034" width="96" height="48"/>
+    <SubTexture name="setting_btn_switch" x="2008" y="48" width="38" height="38"/>
+    <SubTexture name="setting_txt_go1" x="444" y="609" width="37" height="17"/>
+    <SubTexture name="setting_txt_go2" x="405" y="609" width="37" height="17"/>
+    <SubTexture name="setting_txt_logout1" x="446" y="1339" width="51" height="22"/>
+    <SubTexture name="setting_txt_logout2" x="446" y="1315" width="51" height="22"/>
+    <SubTexture name="setting_txt_title" x="794" y="255" width="395" height="70"/>
+    <SubTexture name="store_bg_numberbox" x="2030" y="884" width="12" height="45"/>
+    <SubTexture name="store_bg_title" x="794" y="83" width="594" height="84"/>
+    <SubTexture name="store_btn_add1" x="368" y="1209" width="32" height="35"/>
+    <SubTexture name="store_btn_add2" x="368" y="1172" width="32" height="35"/>
+    <SubTexture name="store_btn_addnumber1" x="1331" y="891" width="45" height="46"/>
+    <SubTexture name="store_btn_addnumber2" x="243" y="706" width="45" height="46"/>
+    <SubTexture name="store_icon_add1" x="405" y="1449" width="31" height="31"/>
+    <SubTexture name="store_icon_add2" x="405" y="1416" width="31" height="31"/>
+    <SubTexture name="store_icon_hot" x="737" y="1438" width="69" height="40"/>
+    <SubTexture name="store_icon_minus1" x="246" y="1370" width="31" height="13"/>
+    <SubTexture name="store_icon_minus2" x="385" y="1100" width="31" height="13"/>
+    <SubTexture name="store_icon_new" x="393" y="1513" width="69" height="40"/>
+    <SubTexture name="store_icon_sale" x="485" y="836" width="183" height="40"/>
+    <SubTexture name="store_txt_store" x="2" y="580" width="279" height="66"/>
+    <SubTexture name="table_bg_tips2" x="2024" y="931" width="22" height="19"/>
+    <SubTexture name="table_btn_@" x="441" y="914" width="50" height="50"/>
+    <SubTexture name="table_btn_chat1" x="604" y="1715" width="56" height="49"/>
+    <SubTexture name="table_btn_chat2" x="639" y="1609" width="56" height="49"/>
+    <SubTexture name="table_btn_delete" x="953" y="1075" width="36" height="36"/>
+    <SubTexture name="table_btn_expression1" x="62" y="966" width="58" height="162"/>
+    <SubTexture name="table_btn_expression2" x="122" y="966" width="54" height="160" frameX="-2" frameY="-1" frameWidth="58" frameHeight="162"/>
+    <SubTexture name="table_btn_history1" x="2" y="966" width="58" height="162"/>
+    <SubTexture name="table_btn_history2" x="178" y="966" width="54" height="158" frameX="-2" frameY="-2" frameWidth="58" frameHeight="162"/>
+    <SubTexture name="table_btn_invite" x="496" y="1555" width="63" height="64"/>
+    <SubTexture name="table_btn_microphone1" x="599" y="1490" width="62" height="62" frameX="-3" frameY="-3" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="table_btn_microphone2" x="438" y="1660" width="68" height="68" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="table_btn_send1" x="629" y="1310" width="112" height="63"/>
+    <SubTexture name="table_btn_send2" x="291" y="772" width="112" height="63"/>
+    <SubTexture name="table_icon_back1" x="246" y="1449" width="28" height="30"/>
+    <SubTexture name="table_icon_back2" x="1512" y="1219" width="28" height="30"/>
+    <SubTexture name="table_icon_box" x="1965" y="199" width="81" height="81"/>
+    <SubTexture name="table_icon_expression1" x="405" y="1383" width="31" height="31" frameX="-4" frameY="-4" frameWidth="39" frameHeight="39"/>
+    <SubTexture name="table_icon_expression2" x="405" y="783" width="39" height="39"/>
+    <SubTexture name="table_icon_history1" x="405" y="1350" width="31" height="31" frameX="-4" frameY="-4" frameWidth="39" frameHeight="39"/>
+    <SubTexture name="table_icon_history2" x="750" y="652" width="39" height="39"/>
+    <SubTexture name="table_icon_horn1" x="953" y="1043" width="37" height="30"/>
+    <SubTexture name="table_icon_horn2" x="954" y="1011" width="37" height="30"/>
+    <SubTexture name="table_icon_huatong" x="446" y="1161" width="51" height="72"/>
+    <SubTexture name="table_icon_microphone1" x="1512" y="1141" width="28" height="40"/>
+    <SubTexture name="table_icon_microphone2" x="1512" y="1099" width="28" height="40"/>
+    <SubTexture name="table_icon_shortcut1" x="405" y="1482" width="31" height="29" frameX="-4" frameY="-4" frameWidth="39" frameHeight="37"/>
+    <SubTexture name="table_icon_shortcut2" x="750" y="693" width="39" height="37"/>
+    <SubTexture name="table_icon_yinliang" x="405" y="658" width="39" height="74"/>
+    <SubTexture name="table_lable_normal1" x="501" y="1447" width="123" height="41"/>
+    <SubTexture name="table_lable_normal2" x="501" y="1404" width="123" height="41"/>
+    <SubTexture name="table_txt_send1" x="1873" y="836" width="49" height="22"/>
+    <SubTexture name="table_txt_send2" x="1873" y="812" width="49" height="22"/>
+    <SubTexture name="好友列表-拷贝_32" x="652" y="985" width="95" height="85"/>
+    <SubTexture name="好友列表-拷贝_32副本" x="652" y="898" width="95" height="85"/>
+</TextureAtlas>

@@ -1,0 +1,14 @@
+<TextureAtlas imagePath="50007.png">
+  <SubTexture name="img_ 4" x="212" y="32" width="31" height="15" frameX="0" frameWidth="32" frameY="0" frameHeight="16"/>
+  <SubTexture name="img_ 7" x="152" y="0" width="58" height="33" frameX="0" frameWidth="58" frameY="0" frameHeight="34"/>
+  <SubTexture name="img_ 13" x="232" y="66" width="20" height="7" frameX="0" frameWidth="20" frameY="0" frameHeight="8"/>
+  <SubTexture name="img_ 3" x="209" y="49" width="31" height="15" frameX="0" frameWidth="32" frameY="0" frameHeight="16"/>
+  <SubTexture name="img_ 10" x="90" y="0" width="60" height="32"/>
+  <SubTexture name="img_ 12" x="151" y="35" width="56" height="30"/>
+  <SubTexture name="img_ 11" x="90" y="34" width="59" height="31" frameX="0" frameWidth="60" frameY="0" frameHeight="32"/>
+  <SubTexture name="img_ 5" x="90" y="67" width="20" height="7" frameX="0" frameWidth="20" frameY="0" frameHeight="8"/>
+  <SubTexture name="img_ 14" x="209" y="66" width="21" height="6" frameX="0" frameWidth="22" frameY="0" frameHeight="6"/>
+  <SubTexture name="img_ 8" x="112" y="67" width="19" height="8" frameX="0" frameWidth="20" frameY="0" frameHeight="8"/>
+  <SubTexture name="img_ 6" x="0" y="0" width="88" height="94"/>
+  <SubTexture name="img_ 9" x="212" y="0" width="33" height="30" frameX="0" frameWidth="34" frameY="0" frameHeight="30"/>
+</TextureAtlas>

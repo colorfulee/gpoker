@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:2687b107870bf65cc071b1462328321f:0bcc0ef919be5ca8cbc6d05def7d00a5:12ce9feabfab4295b0438000ba08bc27$ -->
+<TextureAtlas imagePath="tableSheet.png">
+    <SubTexture name="Character" x="348" y="529" width="135" height="181"/>
+    <SubTexture name="cards-L_120" x="2" y="712" width="132" height="173" frameX="-9" frameY="-6" frameWidth="150" frameHeight="189"/>
+    <SubTexture name="s9_table_bg_chat" x="118" y="615" width="33" height="32"/>
+    <SubTexture name="s9_table_bg_countdown" x="260" y="543" width="48" height="49"/>
+    <SubTexture name="s9_table_bg_headportrait" x="488" y="123" width="18" height="17"/>
+    <SubTexture name="s9_table_bg_menu" x="310" y="449" width="37" height="37"/>
+    <SubTexture name="s9_table_bg_mychips" x="2" y="689" width="47" height="21"/>
+    <SubTexture name="s9_table_bg_myself" x="310" y="409" width="38" height="38"/>
+    <SubTexture name="s9_table_bg_player" x="136" y="711" width="31" height="29"/>
+    <SubTexture name="table_bg_cardtype1" x="350" y="311" width="108" height="22"/>
+    <SubTexture name="table_bg_cardtype2" x="51" y="689" width="106" height="20" frameX="-1" frameY="-1" frameWidth="108" frameHeight="22"/>
+    <SubTexture name="table_bg_checkbox" x="488" y="103" width="18" height="18"/>
+    <SubTexture name="table_bg_highlight" x="488" y="2" width="22" height="99"/>
+    <SubTexture name="table_bg_lever" x="2" y="2" width="484" height="223"/>
+    <SubTexture name="table_bg_pot" x="260" y="594" width="47" height="21"/>
+    <SubTexture name="table_btn_Fold1" x="156" y="485" width="152" height="56"/>
+    <SubTexture name="table_btn_Fold2" x="2" y="485" width="152" height="56"/>
+    <SubTexture name="table_btn_allin1" x="163" y="953" width="95" height="61"/>
+    <SubTexture name="table_btn_allin2" x="66" y="960" width="95" height="61"/>
+    <SubTexture name="table_btn_auto1" x="176" y="311" width="172" height="56"/>
+    <SubTexture name="table_btn_auto2" x="2" y="311" width="172" height="56"/>
+    <SubTexture name="table_btn_call1" x="349" y="471" width="152" height="56"/>
+    <SubTexture name="table_btn_call2" x="156" y="427" width="152" height="56"/>
+    <SubTexture name="table_btn_chat1" x="60" y="632" width="56" height="49"/>
+    <SubTexture name="table_btn_chat2" x="2" y="632" width="56" height="49"/>
+    <SubTexture name="table_btn_invite" x="115" y="887" width="63" height="64"/>
+    <SubTexture name="table_btn_lever" x="2" y="227" width="463" height="82"/>
+    <SubTexture name="table_btn_menu1" x="2" y="543" width="71" height="37"/>
+    <SubTexture name="table_btn_menu2" x="180" y="691" width="71" height="37"/>
+    <SubTexture name="table_btn_pot1" x="2" y="427" width="152" height="56"/>
+    <SubTexture name="table_btn_pot2" x="350" y="413" width="152" height="56"/>
+    <SubTexture name="table_btn_raise1" x="156" y="369" width="152" height="56"/>
+    <SubTexture name="table_btn_raise2" x="2" y="369" width="152" height="56"/>
+    <SubTexture name="table_btn_raise3" x="350" y="355" width="152" height="56"/>
+    <SubTexture name="table_btn_sitdown" x="2" y="887" width="56" height="73"/>
+    <SubTexture name="table_icon_changetable1" x="467" y="310" width="38" height="43"/>
+    <SubTexture name="table_icon_changetable2" x="467" y="265" width="38" height="43"/>
+    <SubTexture name="table_icon_chips" x="485" y="529" width="24" height="21"/>
+    <SubTexture name="table_icon_choose" x="136" y="742" width="28" height="27"/>
+    <SubTexture name="table_icon_dealer" x="313" y="713" width="29" height="25"/>
+    <SubTexture name="table_icon_return" x="467" y="227" width="41" height="36"/>
+    <SubTexture name="table_icon_standup" x="310" y="369" width="38" height="38"/>
+    <SubTexture name="table_icon_task" x="2" y="962" width="62" height="59"/>
+    <SubTexture name="table_txt_1xpot1" x="180" y="567" width="75" height="22"/>
+    <SubTexture name="table_txt_1xpot2" x="180" y="543" width="75" height="22"/>
+    <SubTexture name="table_txt_3xbigblind1" x="75" y="567" width="91" height="22"/>
+    <SubTexture name="table_txt_3xbigblind2" x="255" y="689" width="91" height="22"/>
+    <SubTexture name="table_txt_4xbigblind1" x="75" y="591" width="80" height="22"/>
+    <SubTexture name="table_txt_4xbigblind2" x="75" y="543" width="80" height="22"/>
+    <SubTexture name="table_txt_allin1" x="260" y="653" width="83" height="34"/>
+    <SubTexture name="table_txt_allin2" x="260" y="617" width="83" height="34"/>
+    <SubTexture name="table_txt_autocall1" x="159" y="666" width="94" height="23"/>
+    <SubTexture name="table_txt_autocall2" x="159" y="641" width="94" height="23"/>
+    <SubTexture name="table_txt_autocheck1" x="159" y="616" width="94" height="23"/>
+    <SubTexture name="table_txt_call1" x="180" y="755" width="51" height="23"/>
+    <SubTexture name="table_txt_call2" x="180" y="730" width="51" height="23"/>
+    <SubTexture name="table_txt_check2" x="159" y="591" width="94" height="23"/>
+    <SubTexture name="table_txt_checkorfold1" x="2" y="607" width="71" height="23"/>
+    <SubTexture name="table_txt_checkorfold2" x="2" y="582" width="71" height="23"/>
+    <SubTexture name="table_txt_fold1" x="453" y="712" width="50" height="23"/>
+    <SubTexture name="table_txt_fold2" x="401" y="712" width="50" height="23"/>
+    <SubTexture name="table_txt_rase1" x="260" y="738" width="51" height="23"/>
+    <SubTexture name="table_txt_rase2" x="260" y="713" width="51" height="23"/>
+    <SubTexture name="table_txt_rase3" x="348" y="712" width="51" height="23"/>
+    <SubTexture name="zhuozi_bg_poker" x="60" y="887" width="53" height="71"/>
+    <SubTexture name="zhuozi_icon_pokercaohua" x="310" y="488" width="36" height="36"/>
+    <SubTexture name="zhuozi_icon_pokerfangkuai" x="118" y="649" width="30" height="35"/>
+    <SubTexture name="zhuozi_icon_pokerheitao" x="310" y="562" width="35" height="36"/>
+    <SubTexture name="zhuozi_icon_pokerhongtao" x="310" y="526" width="36" height="34"/>
+</TextureAtlas>

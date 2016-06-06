@@ -1,0 +1,4807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+    <item id="seat">
+        <en_us><![CDATA[座位]]></en_us>
+        <th_th><![CDATA[座位]]></th_th>
+        <zh_tw><![CDATA[座位]]></zh_tw>
+    </item>
+    <item id="Paris">
+        <en_us><![CDATA[Paris]]></en_us>
+        <th_th><![CDATA[กรุงเทพฯ]]></th_th>
+        <zh_tw><![CDATA[巴黎]]></zh_tw>
+    </item>
+    <item id="Boston">
+        <en_us><![CDATA[Boston]]></en_us>
+        <th_th><![CDATA[อยุธยา]]></th_th>
+        <zh_tw><![CDATA[波士頓]]></zh_tw>
+    </item>
+    <item id="Philadelphia">
+        <en_us><![CDATA[Philadelphia]]></en_us>
+        <th_th><![CDATA[เชียงใหม่]]></th_th>
+        <zh_tw><![CDATA[費城]]></zh_tw>
+    </item>
+    <item id="London">
+        <en_us><![CDATA[London]]></en_us>
+        <th_th><![CDATA[อุดรธานี]]></th_th>
+        <zh_tw><![CDATA[倫敦]]></zh_tw>
+    </item>
+    <item id="Lyon">
+        <en_us><![CDATA[Lyon]]></en_us>
+        <th_th><![CDATA[ขอนแก่น]]></th_th>
+        <zh_tw><![CDATA[里昂]]></zh_tw>
+    </item>
+    <item id="Rome">
+        <en_us><![CDATA[Rome]]></en_us>
+        <th_th><![CDATA[ระยอง]]></th_th>
+        <zh_tw><![CDATA[羅馬]]></zh_tw>
+    </item>
+    <item id="California">
+        <en_us><![CDATA[California]]></en_us>
+        <th_th><![CDATA[กาญจนบุรี]]></th_th>
+        <zh_tw><![CDATA[加利福尼亞]]></zh_tw>
+    </item>
+    <item id="Marseille">
+        <en_us><![CDATA[Marseille]]></en_us>
+        <th_th><![CDATA[สุราษฎร์ธานี]]></th_th>
+        <zh_tw><![CDATA[馬賽]]></zh_tw>
+    </item>
+    <item id="Macau">
+        <en_us><![CDATA[Macau]]></en_us>
+        <th_th><![CDATA[นครราชสีมา]]></th_th>
+        <zh_tw><![CDATA[澳門]]></zh_tw>
+    </item>
+    <item id="Las Vegas">
+        <en_us><![CDATA[Las Vegas]]></en_us>
+        <th_th><![CDATA[กระบี่]]></th_th>
+        <zh_tw><![CDATA[拉斯維加斯]]></zh_tw>
+    </item>
+    <item id="Shanghai">
+        <en_us><![CDATA[Shanghai]]></en_us>
+        <th_th><![CDATA[เลย]]></th_th>
+        <zh_tw><![CDATA[上海]]></zh_tw>
+    </item>
+    <item id="10001">
+        <en_us><![CDATA[此id号不存在 ]]></en_us>
+        <th_th><![CDATA[此id号不存在 ]]></th_th>
+        <zh_tw><![CDATA[此id號不存在 ]]></zh_tw>
+    </item>
+    <item id="10002">
+        <en_us><![CDATA[此id号已被使用]]></en_us>
+        <th_th><![CDATA[此id号已被使用]]></th_th>
+        <zh_tw><![CDATA[此id號已被使用]]></zh_tw>
+    </item>
+    <item id="10003">
+        <en_us><![CDATA[你已经坐下]]></en_us>
+        <th_th><![CDATA[你已经坐下]]></th_th>
+        <zh_tw><![CDATA[你已經坐下]]></zh_tw>
+    </item>
+    <item id="10004">
+        <en_us><![CDATA[此座位已经有人]]></en_us>
+        <th_th><![CDATA[此座位已经有人]]></th_th>
+        <zh_tw><![CDATA[此座位已經有人]]></zh_tw>
+    </item>
+    <item id="10005">
+        <en_us><![CDATA[你不可以进行当前的行为]]></en_us>
+        <th_th><![CDATA[คุณไม่สามารถทำเช่นนี้]]></th_th>
+        <zh_tw><![CDATA[你不可以進行當前的行為]]></zh_tw>
+    </item>
+    <item id="10006">
+        <en_us><![CDATA[ 还没有轮到你操作]]></en_us>
+        <th_th><![CDATA[ 还没有轮到你操作]]></th_th>
+        <zh_tw><![CDATA[ 還沒有輪到你操作]]></zh_tw>
+    </item>
+    <item id="10201">
+        <en_us><![CDATA[ 访问数据库出错]]></en_us>
+        <th_th><![CDATA[ 访问数据库出错]]></th_th>
+        <zh_tw><![CDATA[ 訪問數據庫出錯]]></zh_tw>
+    </item>
+    <item id="10202">
+        <en_us><![CDATA[ 没有这张桌子]]></en_us>
+        <th_th><![CDATA[ 没有这张桌子]]></th_th>
+        <zh_tw><![CDATA[ 沒有找到這張牌桌]]></zh_tw>
+    </item>
+    <item id="10203">
+        <en_us><![CDATA[ 没有登录]]></en_us>
+        <th_th><![CDATA[ 没有登录]]></th_th>
+        <zh_tw><![CDATA[ 沒有登錄]]></zh_tw>
+    </item>
+    <item id="10204">
+        <en_us><![CDATA[ 没有此座位]]></en_us>
+        <th_th><![CDATA[ 没有此座位]]></th_th>
+        <zh_tw><![CDATA[ 沒有此座位]]></zh_tw>
+    </item>
+    <item id="10205">
+        <en_us><![CDATA[ 没有钱了]]></en_us>
+        <th_th><![CDATA[ เงินไม่เพียงพอที่จะซื้อ]]></th_th>
+        <zh_tw><![CDATA[ 沒有足夠的籌碼/金幣]]></zh_tw>
+    </item>
+    <item id="10206">
+        <en_us><![CDATA[ 你还没有坐下]]></en_us>
+        <th_th><![CDATA[ ฟังก์ชั่นดังกล่าวจะสามารถใช้ได้เมื่อคุณนั่งลงแล้ว]]></th_th>
+        <zh_tw><![CDATA[ 您還沒有坐下]]></zh_tw>
+    </item>
+    <item id="10207">
+        <en_us><![CDATA[ 桌子已经坐满人了（Sit and Go，桌子已经坐满人/正在游戏中） ]]></en_us>
+        <th_th><![CDATA[ 桌子已经坐满人了（Sit and Go，桌子已经坐满人/正在游戏中） ]]></th_th>
+        <zh_tw><![CDATA[ 桌子已經坐滿人了（Sit and Go，桌子已經坐滿人/正在遊戲中） ]]></zh_tw>
+    </item>
+    <item id="10208">
+        <en_us><![CDATA[ 现在不能玩老虎机（访问slot-server异常）]]></en_us>
+        <th_th><![CDATA[ 现在不能玩老虎机（访问slot-server异常）]]></th_th>
+        <zh_tw><![CDATA[ 現在不能玩老虎機（訪問slot-server異常）]]></zh_tw>
+    </item>
+    <item id="10209">
+        <en_us><![CDATA[ 玩家没有该道具（或该道具已用完）]]></en_us>
+        <th_th><![CDATA[ ไอเทม/ของขวัญไม่เพียงพอ กรุณาไปยังร้านค้า]]></th_th>
+        <zh_tw><![CDATA[ 沒有足夠的道具]]></zh_tw>
+    </item>
+    <item id="10210">
+        <en_us><![CDATA[ Can't get the rewards now, please wait ]]></en_us>
+        <th_th><![CDATA[ ยังไม่ถึงเวลารับรางวัล กรุณารอสักครู่]]></th_th>
+        <zh_tw><![CDATA[ 請靜待領獎時間到 ]]></zh_tw>
+    </item>
+    <item id="10211">
+        <en_us><![CDATA[ 桌子不能容纳更多的旁观者了]]></en_us>
+        <th_th><![CDATA[ โต๊ะนี้ไม่สามารถรองรับผู้ชมเพิ่มได้แล้ว]]></th_th>
+        <zh_tw><![CDATA[ 桌子不能容納更多的旁觀者了]]></zh_tw>
+    </item>
+    <item id="10212">
+        <en_us><![CDATA[ 这台server上现在没有举办MTT比赛（或比赛已经结束了）]]></en_us>
+        <th_th><![CDATA[ เกมจะจบลง]]></th_th>
+        <zh_tw><![CDATA[ 這台server上現在沒有舉辦MTT比賽（或比賽已經結束了）]]></zh_tw>
+    </item>
+    <item id="10213">
+        <en_us><![CDATA[ 锦标赛已经开始了，现在不能再参加了]]></en_us>
+        <th_th><![CDATA[ เกมที่ได้เริ่มขึ้นแล้ว]]></th_th>
+        <zh_tw><![CDATA[ 錦標賽已經開始，現在不能參加了]]></zh_tw>
+    </item>
+    <item id="10214">
+        <en_us><![CDATA[ 该玩家不在锦标赛中（可能已经被淘汰）]]></en_us>
+        <th_th><![CDATA[ ผู้เล่นท่านนี้ไม่ได้อยู่ในห้องแข่งขัน]]></th_th>
+        <zh_tw><![CDATA[ 該玩家不在錦標賽中（可能已經被淘汰）]]></zh_tw>
+    </item>
+    <item id="10215">
+        <en_us><![CDATA[ 金币不足]]></en_us>
+        <th_th><![CDATA[ เหรียญไม่พอ]]></th_th>
+        <zh_tw><![CDATA[ 金币不足]]></zh_tw>
+    </item>
+    <item id="10216">
+        <en_us><![CDATA[ 这台server升现在没有举办SpecialMTT比赛（或比赛已经结束了）]]></en_us>
+        <th_th><![CDATA[ การแข่งสิ้นสุดแล้ว]]></th_th>
+        <zh_tw><![CDATA[ 比賽已經結束了]]></zh_tw>
+    </item>
+    
+    <item id="10301">
+        <en_us><![CDATA[ 關閉當前連接]]></en_us>
+        <th_th><![CDATA[ ปิดการเชื่อมต่อปัจจุบัน]]></th_th>
+        <zh_tw><![CDATA[ 關閉當前連接]]></zh_tw>
+    </item>
+    <item id="10302">
+        <en_us><![CDATA[ 這張桌子已經關閉]]></en_us>
+        <th_th><![CDATA[ โต๊ะนี้ปิดแล้ว]]></th_th>
+        <zh_tw><![CDATA[ 這張桌子已經關閉]]></zh_tw>
+    </item>
+    <item id="10510">
+        <en_us><![CDATA[ 您没有选桌子 ]]></en_us>
+        <th_th><![CDATA[ ไม่พบโต๊ะที่เหมาะสม ]]></th_th>
+        <zh_tw><![CDATA[ 您沒有選桌子 ]]></zh_tw>
+    </item>
+    <item id="20510">
+        <en_us><![CDATA[ 已经在同一张桌子 ]]></en_us>
+        <th_th><![CDATA[ คุณอยู่ในห้องดังกล่าวแล้ว ]]></th_th>
+        <zh_tw><![CDATA[ 已經在同一張牌桌 ]]></zh_tw>
+    </item>
+    <item id="10511">
+        <en_us><![CDATA[The gift has been received.]]></en_us>
+        <th_th><![CDATA[ท่านได้ส่งของรางวัลเรียบร้อยแล้ว.]]></th_th>
+        <zh_tw><![CDATA[禮物贈送成功]]></zh_tw>
+    </item>
+    <item id="346654">
+        <en_us><![CDATA[]]></en_us>
+        <th_th><![CDATA[invalid_match_status]]></th_th>
+        <zh_tw><![CDATA[invalid_match_status]]></zh_tw>
+    </item>
+    <item id="382802">
+        <en_us><![CDATA[invalid_shop_item_or_empty_friend_uid]]></en_us>
+        <th_th><![CDATA[invalid_shop_item_or_empty_friend_uid]]></th_th>
+        <zh_tw><![CDATA[invalid_shop_item_or_empty_friend_uid]]></zh_tw>
+    </item>
+    <item id="799994">
+        <en_us><![CDATA[invalid_shop_item_data]]></en_us>
+        <th_th><![CDATA[invalid_shop_item_data]]></th_th>
+        <zh_tw><![CDATA[invalid_shop_item_data]]></zh_tw>
+    </item>
+    <item id="1336574">
+        <en_us><![CDATA[error_daily_login_bonus]]></en_us>
+        <th_th><![CDATA[error_daily_login_bonus]]></th_th>
+        <zh_tw><![CDATA[error_daily_login_bonus]]></zh_tw>
+    </item>
+    <item id="1527147">
+        <en_us><![CDATA[invalid_message_id]]></en_us>
+        <th_th><![CDATA[invalid_message_id]]></th_th>
+        <zh_tw><![CDATA[invalid_message_id]]></zh_tw>
+    </item>
+    <item id="1732873">
+        <en_us><![CDATA[friend_not_exist]]></en_us>
+        <th_th><![CDATA[friend_not_exist]]></th_th>
+        <zh_tw><![CDATA[friend_not_exist]]></zh_tw>
+    </item>
+    <item id="1825442">
+        <en_us><![CDATA[max_player_sign]]></en_us>
+        <th_th><![CDATA[max_player_sign]]></th_th>
+        <zh_tw><![CDATA[max_player_sign]]></zh_tw>
+    </item>
+    <item id="1845623">
+        <en_us><![CDATA[not_reach_bonus_day]]></en_us>
+        <th_th><![CDATA[not_reach_bonus_day]]></th_th>
+        <zh_tw><![CDATA[not_reach_bonus_day]]></zh_tw>
+    </item>
+    <item id="2930092">
+        <en_us><![CDATA[draw_card_failed]]></en_us>
+        <th_th><![CDATA[draw_card_failed]]></th_th>
+        <zh_tw><![CDATA[draw_card_failed]]></zh_tw>
+    </item>
+    <item id="4005243">
+        <en_us><![CDATA[invalid_params]]></en_us>
+        <th_th><![CDATA[invalid_params]]></th_th>
+        <zh_tw><![CDATA[invalid_params]]></zh_tw>
+    </item>
+    <item id="4043083">
+        <en_us><![CDATA[Please refresh your browser to update the game]]></en_us>
+        <th_th><![CDATA[คลิกยืนยันเพื่อรีเฟรชหน้าเกม]]></th_th>
+        <zh_tw><![CDATA[版本已更新，請刷新遊戲]]></zh_tw>
+    </item>
+    <item id="4149665">
+        <en_us><![CDATA[]]></en_us>
+        <th_th><![CDATA[guide_already_finished_or_bonused]]></th_th>
+        <zh_tw><![CDATA[guide_already_finished_or_bonused]]></zh_tw>
+    </item>
+    <item id="4596246">
+        <en_us><![CDATA[invalid_static_daily_bonus_data]]></en_us>
+        <th_th><![CDATA[invalid_static_daily_bonus_data]]></th_th>
+        <zh_tw><![CDATA[invalid_static_daily_bonus_data]]></zh_tw>
+    </item>
+    <item id="6049398">
+        <en_us><![CDATA[not_enough_resource]]></en_us>
+        <th_th><![CDATA[ชิปของคุณไม่พอกรุณาไปเติมด้วยค่ะ]]></th_th>
+        <zh_tw><![CDATA[您的籌碼不足]]></zh_tw>
+    </item>
+    <item id="6097695">
+        <en_us><![CDATA[invalid_message]]></en_us>
+        <th_th><![CDATA[invalid_message]]></th_th>
+        <zh_tw><![CDATA[invalid_message]]></zh_tw>
+    </item>
+    <item id="6119792">
+        <en_us><![CDATA[no_lucky_wheel_times]]></en_us>
+        <th_th><![CDATA[มักจะเพียงพอ]]></th_th>
+        <zh_tw><![CDATA[邀請好友，獲得更多轉盤次數]]></zh_tw>
+    </item>
+    <item id="6325551">
+        <en_us><![CDATA[invalid_shop_item]]></en_us>
+        <th_th><![CDATA[invalid_shop_item]]></th_th>
+        <zh_tw><![CDATA[invalid_shop_item]]></zh_tw>
+    </item>
+    <item id="6465499">
+        <en_us><![CDATA[system_error]]></en_us>
+        <th_th><![CDATA[system_error]]></th_th>
+        <zh_tw><![CDATA[system_error]]></zh_tw>
+    </item>
+    <item id="6521049">
+        <en_us><![CDATA[]]></en_us>
+        <th_th><![CDATA[account_not_exist]]></th_th>
+        <zh_tw><![CDATA[account_not_exist]]></zh_tw>
+    </item>
+    <item id="6812568">
+        <en_us><![CDATA[already_signed]]></en_us>
+        <th_th><![CDATA[already_signed]]></th_th>
+        <zh_tw><![CDATA[報名成功]]></zh_tw>
+    </item>
+    <item id="8467888">
+        <en_us><![CDATA[empty_raw_input]]></en_us>
+        <th_th><![CDATA[empty_raw_input]]></th_th>
+        <zh_tw><![CDATA[empty_raw_input]]></zh_tw>
+    </item>
+    <item id="8732971">
+        <en_us><![CDATA[]]></en_us>
+        <th_th><![CDATA[guide_not_finished_or_bonused]]></th_th>
+        <zh_tw><![CDATA[guide_not_finished_or_bonused]]></zh_tw>
+    </item>
+    <item id="10754905">
+        <en_us><![CDATA[invalid_static_player_level]]></en_us>
+        <th_th><![CDATA[invalid_static_player_level]]></th_th>
+        <zh_tw><![CDATA[invalid_static_player_level]]></zh_tw>
+    </item>
+    <item id="10908283">
+        <en_us><![CDATA[invalid_shop_item_cost]]></en_us>
+        <th_th><![CDATA[invalid_shop_item_cost]]></th_th>
+        <zh_tw><![CDATA[invalid_shop_item_cost]]></zh_tw>
+    </item>
+    <item id="11009891">
+        <en_us><![CDATA[invalid_uid]]></en_us>
+        <th_th><![CDATA[invalid_uid]]></th_th>
+        <zh_tw><![CDATA[invalid_uid]]></zh_tw>
+    </item>
+    <item id="11793380">
+        <en_us><![CDATA[daily_login_already_bonused]]></en_us>
+        <th_th><![CDATA[daily_login_already_bonused]]></th_th>
+        <zh_tw><![CDATA[daily_login_already_bonused]]></zh_tw>
+    </item>
+    <item id="11916101">
+        <en_us><![CDATA[not_friend]]></en_us>
+        <th_th><![CDATA[not_friend]]></th_th>
+        <zh_tw><![CDATA[not_friend]]></zh_tw>
+    </item>
+    <item id="13046517">
+        <en_us><![CDATA[not_enough_item]]></en_us>
+        <th_th><![CDATA[คุณมีไอเทมไม่พอ]]></th_th>
+        <zh_tw><![CDATA[您沒有足夠的道具]]></zh_tw>
+    </item>
+    <item id="13566002">
+        <en_us><![CDATA[system_maintenance]]></en_us>
+        <th_th><![CDATA[System Maintenance]]></th_th>
+        <zh_tw><![CDATA[System Maintenance]]></zh_tw>
+    </item>
+    <item id="13783526">
+        <en_us><![CDATA[invalid_parameter]]></en_us>
+        <th_th><![CDATA[invalid_parameter]]></th_th>
+        <zh_tw><![CDATA[invalid_parameter]]></zh_tw>
+    </item>
+    <item id="13964066">
+        <en_us><![CDATA[invalid_hot_version]]></en_us>
+        <th_th><![CDATA[invalid_hot_version]]></th_th>
+        <zh_tw><![CDATA[invalid_hot_version]]></zh_tw>
+    </item>
+    <item id="14135219">
+        <en_us><![CDATA[]]></en_us>
+        <th_th><![CDATA[message_not_exist]]></th_th>
+        <zh_tw><![CDATA[message_not_exist]]></zh_tw>
+    </item>
+    <item id="14162306">
+        <en_us><![CDATA[]]></en_us>
+        <th_th><![CDATA[mtt_not_init_or_expired]]></th_th>
+        <zh_tw><![CDATA[mtt_not_init_or_expired]]></zh_tw>
+    </item>
+    <item id="14870602">
+        <en_us><![CDATA[player_not_exist]]></en_us>
+        <th_th><![CDATA[player_not_exist]]></th_th>
+        <zh_tw><![CDATA[player_not_exist]]></zh_tw>
+    </item>
+    <item id="15155124">
+        <en_us><![CDATA[Please refresh browser and make sure you do not login in other windows.]]></en_us>
+        <th_th><![CDATA[กรุณาอย่าใช้บัญชีเดียวกันล็อคอินซ้ำซ้อน กรุณารีเฟรชเกม]]></th_th>
+        <zh_tw><![CDATA[請勿以同一帳號重複登入遊戲, 請刷新頁面.]]></zh_tw>
+    </item>
+    <item id="15393483">
+        <en_us><![CDATA[]]></en_us>
+        <th_th><![CDATA[static_series_login_error]]></th_th>
+        <zh_tw><![CDATA[static_series_login_error]]></zh_tw>
+    </item>
+    <item id="15481192">
+        <en_us><![CDATA[decrypt_failed]]></en_us>
+        <th_th><![CDATA[decrypt_failed]]></th_th>
+        <zh_tw><![CDATA[decrypt_failed]]></zh_tw>
+    </item>
+    <item id="15622732">
+        <en_us><![CDATA[not_login_enough_days]]></en_us>
+        <th_th><![CDATA[not_login_enough_days]]></th_th>
+        <zh_tw><![CDATA[not_login_enough_days]]></zh_tw>
+    </item>
+    <item id="15678835">
+        <en_us><![CDATA[]]></en_us>
+        <th_th><![CDATA[invalid_mtt_id]]></th_th>
+        <zh_tw><![CDATA[invalid_mtt_id]]></zh_tw>
+    </item>
+    <item id="16379128">
+        <en_us><![CDATA[json_decode_failed]]></en_us>
+        <th_th><![CDATA[json_decode_failed]]></th_th>
+        <zh_tw><![CDATA[json_decode_failed]]></zh_tw>
+    </item>
+    <item id="16556974">
+        <en_us><![CDATA[]]></en_us>
+        <th_th><![CDATA[already_bonused]]></th_th>
+        <zh_tw><![CDATA[already_bonused]]></zh_tw>
+    </item>
+    <item id="26556974">
+        <en_us><![CDATA[您的積分不足]]></en_us>
+        <th_th><![CDATA[แต้มของคุณไม่พอ]]></th_th>
+        <zh_tw><![CDATA[您的積分不足]]></zh_tw>
+    </item>
+    <item id="800801">
+        <en_us><![CDATA[%]]></en_us>
+        <th_th><![CDATA[%]]></th_th>
+        <zh_tw><![CDATA[%]]></zh_tw>
+    </item>
+    <item id="800802">
+        <en_us><![CDATA[Coins]]></en_us>
+        <th_th><![CDATA[Coin]]></th_th>
+        <zh_tw><![CDATA[金幣數]]></zh_tw>
+    </item>
+    <item id="800803">
+        <en_us><![CDATA[Chips]]></en_us>
+        <th_th><![CDATA[ชิป]]></th_th>
+        <zh_tw><![CDATA[籌碼]]></zh_tw>
+    </item>
+    <!--     系统消息类型 -->
+    <item id="100001">
+        <en_us><![CDATA[【系统消息】您已經參與了超級大樂透！扣除{0}籌碼]]></en_us>
+        <th_th><![CDATA[【ข้อความระบบ】ท่านเข้าร่วม Jackpot แล้ว! หักชิป {0}ชิป]]></th_th>
+        <zh_tw><![CDATA[【系统消息】您已經參與了超級大樂透！扣除{0}籌碼]]></zh_tw>
+    </item>
+    <item id="100002">
+        <en_us><![CDATA[【系统消息】由於您的籌碼不足，無法參加超級大樂透！]]></en_us>
+        <th_th><![CDATA[【ข้อความระบบ】เนื่องจากชิปของท่านไม่เพียงพอ ไม่สามารถสมัคร Jackpot ได้]]></th_th>
+        <zh_tw><![CDATA[【系统消息】由於您的籌碼不足，無法參加超級大樂透！]]></zh_tw>
+    </item>
+<!--     game -->
+    <item id="200001">
+        <en_us><![CDATA[初级场]]></en_us>
+        <th_th><![CDATA[初级场]]></th_th>
+        <zh_tw><![CDATA[初級場]]></zh_tw>
+    </item>
+    <item id="200002">
+        <en_us><![CDATA[中级场]]></en_us>
+        <th_th><![CDATA[中级场]]></th_th>
+        <zh_tw><![CDATA[中級場]]></zh_tw>
+    </item>
+    <item id="200011">
+        <en_us><![CDATA[ID]]></en_us>
+        <th_th><![CDATA[ID]]></th_th>
+        <zh_tw><![CDATA[ID]]></zh_tw>
+    </item>
+    <item id="200012">
+        <en_us><![CDATA[Table]]></en_us>
+        <th_th><![CDATA[โต๊ะ]]></th_th>
+        <zh_tw><![CDATA[房間]]></zh_tw>
+    </item>
+    <item id="200013">
+        <en_us><![CDATA[Blinds]]></en_us>
+        <th_th><![CDATA[บลายด์]]></th_th>
+        <zh_tw><![CDATA[盲注]]></zh_tw>
+    </item>
+    <item id="200014">
+        <en_us><![CDATA[Online]]></en_us>
+        <th_th><![CDATA[เพื่อนออนไลน์]]></th_th>
+        <zh_tw><![CDATA[在線人數]]></zh_tw>
+    </item>
+    <item id="200015">
+        <en_us><![CDATA[Min Buy in]]></en_us>
+        <th_th><![CDATA[เดิมพันต่ำสุด]]></th_th>
+        <zh_tw><![CDATA[最小攜帶]]></zh_tw>
+    </item>
+    <item id="200016">
+        <en_us><![CDATA[Max Buy in]]></en_us>
+        <th_th><![CDATA[เดิมพันสูงสุด]]></th_th>
+        <zh_tw><![CDATA[最大攜帶]]></zh_tw>
+    </item>
+    <item id="200017">
+        <en_us><![CDATA[Join]]></en_us>
+        <th_th><![CDATA[เข้าร่วม]]></th_th>
+        <zh_tw><![CDATA[加入]]></zh_tw>
+    </item>
+    <item id="200101">
+        <en_us><![CDATA[Champion Prize]]></en_us>
+        <th_th><![CDATA[รางวัล Champion]]></th_th>
+        <zh_tw><![CDATA[比賽類型]]></zh_tw>
+    </item>
+    <item id="200102">
+        <en_us><![CDATA[Attendance Fee]]></en_us>
+        <th_th><![CDATA[ค่าเข้าร่วม]]></th_th>
+        <zh_tw><![CDATA[參賽費用]]></zh_tw>
+    </item>
+    <item id="200103">
+        <en_us><![CDATA[Serive Fee]]></en_us>
+        <th_th><![CDATA[ค่าบริการ]]></th_th>
+        <zh_tw><![CDATA[系統抽成]]></zh_tw>
+    </item>
+    <item id="200104">
+        <en_us><![CDATA[Kick-off time]]></en_us>
+        <th_th><![CDATA[เวลาเริ่มแข่งขัน]]></th_th>
+        <zh_tw><![CDATA[開賽人數]]></zh_tw>
+    </item>
+    <item id="200105">
+        <en_us><![CDATA[Sign up now]]></en_us>
+        <th_th><![CDATA[สมัครเลย]]></th_th>
+        <zh_tw><![CDATA[報名]]></zh_tw>
+    </item>
+    <item id="200106">
+        <en_us><![CDATA[Signup Confirmation-SNG]]></en_us>
+        <th_th><![CDATA[ยืนยันการลงทะเบียน-SNG]]></th_th>
+        <zh_tw><![CDATA[確認報名-SNG]]></zh_tw>
+    </item>
+    <item id="200107">
+        <en_us><![CDATA[Confirm]]></en_us>
+        <th_th><![CDATA[ยืนยัน]]></th_th>
+        <zh_tw><![CDATA[確定]]></zh_tw>
+    </item>
+    <item id="200108">
+        <en_us><![CDATA[You need {0} more player to start the game.]]></en_us>
+        <th_th><![CDATA[คุณต้อง {0} ผู้เล่นมากขึ้นในการเริ่มต้นเกม]]></th_th>
+        <zh_tw><![CDATA[報名成功，還差{0}人即可開賽..]]></zh_tw>
+    </item>
+    <item id="200109">
+        <en_us><![CDATA[Sign up Fee:]]></en_us>
+        <th_th><![CDATA[สมัครเลย:]]></th_th>
+        <zh_tw><![CDATA[報名費用:]]></zh_tw>
+    </item>
+    <item id="200110">
+        <en_us><![CDATA[Service Fee:]]></en_us>
+        <th_th><![CDATA[ค่าบริการ:]]></th_th>
+        <zh_tw><![CDATA[服務費用:]]></zh_tw>
+    </item>
+    <item id="200111">
+        <en_us><![CDATA[TOP 1]]></en_us>
+        <th_th><![CDATA[อันดับที่ 1]]></th_th>
+        <zh_tw><![CDATA[TOP 1]]></zh_tw>
+    </item>
+    <item id="200112">
+        <en_us><![CDATA[TOP 2]]></en_us>
+        <th_th><![CDATA[อันดับที่ 2]]></th_th>
+        <zh_tw><![CDATA[TOP 2]]></zh_tw>
+    </item>
+    <item id="200113">
+        <en_us><![CDATA[TOP 3]]></en_us>
+        <th_th><![CDATA[อันดับที่ 3]]></th_th>
+        <zh_tw><![CDATA[TOP 3]]></zh_tw>
+    </item>
+    <item id="200114">
+        <en_us><![CDATA[Sign up]]></en_us>
+        <th_th><![CDATA[สมัครเลย]]></th_th>
+        <zh_tw><![CDATA[報名]]></zh_tw>
+    </item>
+    <item id="200115">
+        <en_us><![CDATA[Rewards]]></en_us>
+        <th_th><![CDATA[รางวัล]]></th_th>
+        <zh_tw><![CDATA[獎勵]]></zh_tw>
+    </item>
+    <item id="200116">
+        <en_us><![CDATA[Requirements]]></en_us>
+        <th_th><![CDATA[เงื่อนไข]]></th_th>
+        <zh_tw><![CDATA[參賽條件]]></zh_tw>
+    </item>
+    <item id="200117">
+        <en_us><![CDATA[Kick-off time]]></en_us>
+        <th_th><![CDATA[เวลาเริ่มแข่งขัน]]></th_th>
+        <zh_tw><![CDATA[開賽時間]]></zh_tw>
+    </item>
+    <item id="200118">
+        <en_us><![CDATA[Competitors]]></en_us>
+        <th_th><![CDATA[ผู้แข่งขัน]]></th_th>
+        <zh_tw><![CDATA[報名人數]]></zh_tw>
+    </item>
+    <item id="200119">
+        <en_us><![CDATA[Status]]></en_us>
+        <th_th><![CDATA[สเตตัส]]></th_th>
+        <zh_tw><![CDATA[狀態]]></zh_tw>
+    </item>
+    <item id="200120">
+        <en_us><![CDATA[Invite + 100K]]></en_us>
+        <th_th><![CDATA[เชิญชวน + 100K]]></th_th>
+        <zh_tw><![CDATA[邀請 + 100K]]></zh_tw>
+    </item>
+    <item id="200121">
+        <en_us><![CDATA[Like + {0} Chips]]></en_us>
+        <th_th><![CDATA[Like + {0} Chips]]></th_th>
+        <zh_tw><![CDATA[Like + {0} 籌碼]]></zh_tw>
+    </item>
+    <item id="202001">
+        <en_us><![CDATA[Captial    :]]></en_us>
+        <th_th><![CDATA[เงินทุน    :]]></th_th>
+        <zh_tw><![CDATA[資產    :]]></zh_tw>
+    </item>
+    <item id="202002">
+        <en_us><![CDATA[Winning    :]]></en_us>
+        <th_th><![CDATA[ชนะ    :]]></th_th>
+        <zh_tw><![CDATA[勝率    :]]></zh_tw>
+    </item>
+    <item id="202003">
+        <en_us><![CDATA[Location   :]]></en_us>
+        <th_th><![CDATA[ตำแหน่ง   :]]></th_th>
+        <zh_tw><![CDATA[城市   :]]></zh_tw>
+    </item>
+    <item id="202004">
+        <en_us><![CDATA[Blinds: ]]></en_us>
+        <th_th><![CDATA[บลายด์: ]]></th_th>
+        <zh_tw><![CDATA[盲注: ]]></zh_tw>
+    </item>
+    <item id="202005">
+        <en_us><![CDATA[Table: ]]></en_us>
+        <th_th><![CDATA[โต๊ะ: ]]></th_th>
+        <zh_tw><![CDATA[房名: ]]></zh_tw>
+    </item>
+    <item id="202006">
+        <en_us><![CDATA[Blinds will raise to {0}]]></en_us>
+        <th_th><![CDATA[บลายด์จะเพิ่มขึ้นเป็น {0} จนกว่าจะถึงรอบถัดไป]]></th_th>
+        <zh_tw><![CDATA[盲注即將變更 {0}]]></zh_tw>
+    </item>
+    <item id="202008">
+        <en_us><![CDATA[Life consists not in holding good cards but in playing those you hold well.]]></en_us>
+        <th_th><![CDATA[กรุณารอรอบต่อไป]]></th_th>
+        <zh_tw><![CDATA[沒有什麼不可能，底牌是不是好牌，是由莊家發給的那五張決定的！]]></zh_tw>
+    </item>
+    <item id="202009">
+        <en_us><![CDATA[Auto buy-in when used up]]></en_us>
+        <th_th><![CDATA[ซื้อเข้าชิปอัตโนมัติเมื่อชิปหมด]]></th_th>
+        <zh_tw><![CDATA[自動重買：籌碼為零時自動買入]]></zh_tw>
+    </item>
+    <item id="202010">
+        <en_us><![CDATA[Buy in {0} chips]]></en_us>
+        <th_th><![CDATA[ซื้อเข้า {0} ชิป]]></th_th>
+        <zh_tw><![CDATA[買入 {0} 籌碼]]></zh_tw>
+    </item>
+    <item id="202011">
+        <en_us><![CDATA[Change]]></en_us>
+        <th_th><![CDATA[เปลี่ยนเจ้ามือ]]></th_th>
+        <zh_tw><![CDATA[更換荷官]]></zh_tw>
+    </item>
+    <item id="202012">
+        <en_us><![CDATA[Give a tip]]></en_us>
+        <th_th><![CDATA[ให้ทิป]]></th_th>
+        <zh_tw><![CDATA[小費]]></zh_tw>
+    </item>
+    <item id="202013">
+        <en_us><![CDATA[Buddies]]></en_us>
+        <th_th><![CDATA[เพื่อน]]></th_th>
+        <zh_tw><![CDATA[好友]]></zh_tw>
+    </item>
+    <item id="202014">
+        <en_us><![CDATA[Mute Chat]]></en_us>
+        <th_th><![CDATA[ปิดเสียง]]></th_th>
+        <zh_tw><![CDATA[遮蔽聊天]]></zh_tw>
+    </item>
+    <item id="202015">
+        <en_us><![CDATA[Seen by all tables]]></en_us>
+        <th_th><![CDATA[ส่งถึงทุกห้อง]]></th_th>
+        <zh_tw><![CDATA[所有房間可見]]></zh_tw>
+    </item>
+    <item id="202016">
+        <en_us><![CDATA[Balance]]></en_us>
+        <th_th><![CDATA[คงเหลือ]]></th_th>
+        <zh_tw><![CDATA[剩餘數量]]></zh_tw>
+    </item>
+    <item id="202017">
+        <en_us><![CDATA[Buy now > >]]></en_us>
+        <th_th><![CDATA[ซื้อเลย> >]]></th_th>
+        <zh_tw><![CDATA[購買 > >]]></zh_tw>
+    </item>
+    <item id="202018">
+        <en_us><![CDATA[Note]]></en_us>
+        <th_th><![CDATA[หมายเหตุ]]></th_th>
+        <zh_tw><![CDATA[提示訊息]]></zh_tw>
+    </item>
+    <item id="202019">
+        <en_us><![CDATA[上傳圖片]]></en_us>
+        <th_th><![CDATA[อัพโหลดรูปภาพ]]></th_th>
+        <zh_tw><![CDATA[上傳圖片]]></zh_tw>
+    </item>
+    <item id="202020">
+        <en_us><![CDATA[Join]]></en_us>
+        <th_th><![CDATA[เข้าร่วม]]></th_th>
+        <zh_tw><![CDATA[加入]]></zh_tw>
+    </item>
+    <item id="202021">
+        <en_us><![CDATA[Ok]]></en_us>
+        <th_th><![CDATA[Ok]]></th_th>
+        <zh_tw><![CDATA[Ok]]></zh_tw>
+    </item>
+    <item id="202022">
+        <en_us><![CDATA[Congrats to {0} win Slots]]></en_us>
+        <th_th><![CDATA[ยินดีด้วย {0} ชนะสล็อต]]></th_th>
+        <zh_tw><![CDATA[恭喜 {0} 贏得老虎機]]></zh_tw>
+    </item>
+    <item id="202023">
+        <en_us><![CDATA[Are you sure you want to stand up and give up this round?]]></en_us>
+        <th_th><![CDATA[ยืนยันต้องการยืนขึ้นและออกจากรอบดังกล่าวหรือไม่?]]></th_th>
+        <zh_tw><![CDATA[牌局尚未結束,現在站起已下注的籌碼將不會返還，是否站起？]]></zh_tw>
+    </item>
+    <item id="202301">
+        <en_us><![CDATA[Not enough chips!]]></en_us>
+        <th_th><![CDATA[ชิปไม่เพียงพอ!]]></th_th>
+        <zh_tw><![CDATA[提示訊息]]></zh_tw>
+    </item>
+    <item id="202302">
+        <en_us><![CDATA[You don’t have enough chips!]]></en_us>
+        <th_th><![CDATA[คุณมีชิปไม่เพียงพอ!]]></th_th>
+        <zh_tw><![CDATA[對不起,您持有的金幣（籌碼）不足！]]></zh_tw>
+    </item>
+    <item id="202303">
+        <en_us><![CDATA[Add some]]></en_us>
+        <th_th><![CDATA[เติมเพิ่ม]]></th_th>
+        <zh_tw><![CDATA[確認]]></zh_tw>
+    </item>
+    <item id="202304">
+        <en_us><![CDATA[Cancel]]></en_us>
+        <th_th><![CDATA[ยกเลิก]]></th_th>
+        <zh_tw><![CDATA[取消]]></zh_tw>
+    </item>
+    <item id="202305">
+        <en_us><![CDATA[{0}邀请你去{1}一起游戏！]]></en_us>
+        <th_th><![CDATA[{0} เชิญคุณไปเล่นเกมที่ {1} ด้วยกัน!]]></th_th>
+        <zh_tw><![CDATA[{0}邀請你去{1}一起遊戲！]]></zh_tw>
+    </item>
+    <item id="202306">
+        <en_us><![CDATA[Buddy added！]]></en_us>
+        <th_th><![CDATA[เพิ่มเพื่อนแล้ว]]></th_th>
+        <zh_tw><![CDATA[好友添加！]]></zh_tw>
+    </item>
+    <item id="202307">
+        <en_us><![CDATA[Buddy delete！]]></en_us>
+        <th_th><![CDATA[ลบเพื่อนแล้ว]]></th_th>
+        <zh_tw><![CDATA[好友刪除！]]></zh_tw>
+    </item>
+    <item id="202308">
+        <en_us><![CDATA[Stand up]]></en_us>
+        <th_th><![CDATA[ลุกขึ้นยืน]]></th_th>
+        <zh_tw><![CDATA[站起來]]></zh_tw>
+    </item>
+    <item id="202309">
+        <en_us><![CDATA[Search Friend]]></en_us>
+        <th_th><![CDATA[ค้นหาเพื่อน]]></th_th>
+        <zh_tw><![CDATA[搜尋好友]]></zh_tw>
+    </item>
+    <item id="202310">
+        <en_us><![CDATA[Table ID]]></en_us>
+        <th_th><![CDATA[ID ตาราง]]></th_th>
+        <zh_tw><![CDATA[房間ID]]></zh_tw>
+    </item>
+    <item id="202311">
+        <en_us><![CDATA[Play now]]></en_us>
+        <th_th><![CDATA[เริ่มทันท]]></th_th>
+        <zh_tw><![CDATA[開始遊戲]]></zh_tw>
+    </item>
+    <item id="202312">
+        <en_us><![CDATA[Mini Buy in]]></en_us>
+        <th_th><![CDATA[เดิมพันน้อยสุด]]></th_th>
+        <zh_tw><![CDATA[最小買入]]></zh_tw>
+    </item>
+    <item id="202313">
+        <en_us><![CDATA[Max Buy in]]></en_us>
+        <th_th><![CDATA[เดิมพันมากสุด]]></th_th>
+        <zh_tw><![CDATA[最大買入]]></zh_tw>
+    </item>
+    <item id="202314">
+        <en_us><![CDATA[Buy in]]></en_us>
+        <th_th><![CDATA[เดิมพัน]]></th_th>
+        <zh_tw><![CDATA[買入]]></zh_tw>
+    </item>
+    <item id="202315">
+        <en_us><![CDATA[Remaining chips]]></en_us>
+        <th_th><![CDATA[ชิปที่เหลืออยู่]]></th_th>
+        <zh_tw><![CDATA[當前籌碼]]></zh_tw>
+    </item>
+    <item id="202316">
+        <en_us><![CDATA[Auto Buy Remaining chips]]></en_us>
+        <th_th><![CDATA[เดิมพันอัตโนมัติทุกรอบ]]></th_th>
+        <zh_tw><![CDATA[籌碼不足時自動買入]]></zh_tw>
+    </item>
+    <item id="202317">
+        <en_us><![CDATA[Change Table]]></en_us>
+        <th_th><![CDATA[เปลี่ยนไพ่]]></th_th>
+        <zh_tw><![CDATA[更換牌桌]]></zh_tw>
+    </item>
+    <item id="300001">
+        <en_us><![CDATA[Now,Let's play a hand.]]></en_us>
+        <th_th><![CDATA[มาเริ่มเล่นกันเลย.]]></th_th>
+        <zh_tw><![CDATA[讓我們開始遊戲吧！]]></zh_tw>
+    </item>
+    <item id="300002">
+        <en_us><![CDATA[When you enter the table,click “Sit down” to start the game.]]></en_us>
+        <th_th><![CDATA[เมื่อคุณเข้าสู่โต๊ะ คลิก "นั่ง"\nเพื่อเริ่มเกม]]></th_th>
+        <zh_tw><![CDATA[當你進入房間後，按下"坐下"開始遊戲.]]></zh_tw>
+    </item>
+    <item id="300003">
+        <en_us><![CDATA[Your Buy-in,the max number you can bet for this round.]]></en_us>
+        <th_th><![CDATA[คุณเดิมพันจำนวนสูงสุดสำหรับรอบนี้.]]></th_th>
+        <zh_tw><![CDATA[您的參賽金是這一局您可以下注的最大數值.]]></zh_tw>
+    </item>
+    <item id="300004">
+        <en_us><![CDATA[Two hole cards are dealt to every players.]]></en_us>
+        <th_th><![CDATA[ไพ่โฮล 2 ใบถูกแจกให้กับ\nผู้เล่นทุกคน]]></th_th>
+        <zh_tw><![CDATA[發給每個玩家兩張底牌.]]></zh_tw>
+    </item>
+    <item id="300005">
+        <en_us><![CDATA[Dealer marked here.]]></en_us>
+        <th_th><![CDATA[นี่คือเจ้ามือ.]]></th_th>
+        <zh_tw><![CDATA[發牌人會在此標記.]]></zh_tw>
+    </item>
+    <item id="300007">
+        <en_us><![CDATA[The player sit by the Dealer's left is called'Small Blind'.]]></en_us>
+        <th_th><![CDATA[ผู้เล่นที่นั่งด้านซ้ายมือของ\nเจ้ามือจะถูกเรียกว่า\n"สมอลบลายด์(Small Blind)"]]></th_th>
+        <zh_tw><![CDATA[坐在發牌人左手的旁邊的玩家，成為小盲.]]></zh_tw>
+    </item>
+    <item id="300008">
+        <en_us><![CDATA[Big Blind sits followed by Small Blind.]]></en_us>
+        <th_th><![CDATA[ผู้เล่นบิ๊กบลายด์(Big Blind)\nจะนั่งถัดจากสมอลบลายด์.]]></th_th>
+        <zh_tw><![CDATA[大盲會緊跟小盲.]]></zh_tw>
+    </item>
+    <item id="300009">
+        <en_us><![CDATA[At the begining,the Small Blind is forced to bet chips,number varying according to rules of the table.]]></en_us>
+        <th_th><![CDATA[เมื่อเริ่มต้นเกม ผู้เล่นสมอล\nบลายด์จะถูกบังคับให้เดิมพันชิป \nโดยจำนวนนั้นจะขึ้นอยู่กับกติกา\nของโต๊ะ]]></th_th>
+        <zh_tw><![CDATA[剛開始，小盲必須下注，下注多少根據牌桌的設定.]]></zh_tw>
+    </item>
+    <item id="300010">
+        <en_us><![CDATA[Big Blind should then bet by doubling Small Blind.]]></en_us>
+        <th_th><![CDATA[ผู้เล่นบิ๊กบลายด์จะต้องเดิมพัน\nเป็น 2 เท่าของผู้เล่น\nสมอลบลาดย์]]></th_th>
+        <zh_tw><![CDATA[大盲的下注額是小盲的雙倍.]]></zh_tw>
+    </item>
+    <item id="300011">
+        <en_us><![CDATA[You can also follow the bet by the same number of chips.]]></en_us>
+        <th_th><![CDATA[คุณสามารถเดินพันได้ด้วยจำนวน\nเดียวกัน]]></th_th>
+        <zh_tw><![CDATA[您也可以跟著下注一樣的籌碼數值.]]></zh_tw>
+    </item>
+    <item id="300012">
+        <en_us><![CDATA[It's your turn,let's see your cards.]]></en_us>
+        <th_th><![CDATA[ถึงตาของคุณแล้ว ลองดูไพ\nของคุณสิ]]></th_th>
+        <zh_tw><![CDATA[輪到您了，請看牌.]]></zh_tw>
+    </item>
+    <item id="300013">
+        <en_us><![CDATA[Just continue and "CALL"]]></en_us>
+        <th_th><![CDATA[เล่นต่อและกด "สู้"]]></th_th>
+        <zh_tw><![CDATA[點選"跟注"]]></zh_tw>
+    </item>
+    <item id="300014">
+        <en_us><![CDATA[Wow,you have a nice hand with same suits,let's Follow！]]></en_us>
+        <th_th><![CDATA[ว้าว คุณได้ไพ่ที่ค่อนข้างดีเลยนะ ตามเลยสิ！]]></th_th>
+        <zh_tw><![CDATA[哇塞，您現在有一組同花色，跟牌吧！]]></zh_tw>
+    </item>
+    <item id="300015">
+        <en_us><![CDATA[If one player stop betting we call he/she Folds.]]></en_us>
+        <th_th><![CDATA[หากมีผู้เล่นคนหนึ่งหยุดเล่นพวกเราเรียกว่าเขาหมอบ.]]></th_th>
+        <zh_tw><![CDATA[若玩家停止下注，叫做棄牌]]></zh_tw>
+    </item>
+    <item id="300016">
+        <en_us><![CDATA[The first deal ends after every players stop betting.]]></en_us>
+        <th_th><![CDATA[การแจกไพ่ครั้งแรกจะ\nสิ้นสุดเมื่อผู้เล่นทุกคน\nเดิมพันครบแล้ว]]></th_th>
+        <zh_tw><![CDATA[當所有玩家停止下注後結束第一輪.]]></zh_tw>
+    </item>
+    <item id="300017">
+        <en_us><![CDATA[Croupier will deal 3 flop cards.]]></en_us>
+        <th_th><![CDATA[เจ้ามือจะแจกไพ่ฟล็อป 3 ใบ.]]></th_th>
+        <zh_tw><![CDATA[接著將會發出三張公共牌.]]></zh_tw>
+    </item>
+    <item id="300018">
+        <en_us><![CDATA[During each round after that ,Small Blind will have right to first bet.]]></en_us>
+        <th_th><![CDATA[ทุกรอบหลังจากนั้น สมอล\nบลายด์จะได้รับสิทธิ์ในการ\nเดิมพันก่อน]]></th_th>
+        <zh_tw><![CDATA[在每一輪發牌結束後，小盲有權先下注.]]></zh_tw>
+    </item>
+    <item id="300019">
+        <en_us><![CDATA[Big Blind add more chips which we call "Raise".]]></en_us>
+        <th_th><![CDATA[บิ๊กบลายด์จะเพิ่มชิปหรือ\nที่เรียกว่า "เก"]]></th_th>
+        <zh_tw><![CDATA[大盲加進去更多的籌碼，叫做"加注".]]></zh_tw>
+    </item>
+    <item id="300020">
+        <en_us><![CDATA[Players can not bring back the chips bet in the pot.	]]></en_us>
+        <th_th><![CDATA[ผู้เล่นไม่สามารถขอชิปที่เดิมพันในเงินกองกลางคืนได้.	]]></th_th>
+        <zh_tw><![CDATA[玩家不能拿回底池裡的籌碼.	]]></zh_tw>
+    </item>
+    <item id="300021">
+        <en_us><![CDATA[Now with flop cards and your hold cards,you have one pair of "J"]]></en_us>
+        <th_th><![CDATA[ไพ่หงายและไพ่ของคุณ คุณมี "J" 1 คู่]]></th_th>
+        <zh_tw><![CDATA[現在您的底牌和公共牌是一對「J"]]></zh_tw>
+    </item>
+    <item id="300022">
+        <en_us><![CDATA[Besides,you will have change to win by "Flush" ,coz your already have 4 in same suit.]]></en_us>
+        <th_th><![CDATA[นอกจากนี้ คุณยังมีโอกาสชนะด้วย "เปี่ยม" เนื่องจากคุณมีไพ่ 4 ใบในชุด.]]></th_th>
+        <zh_tw><![CDATA[另外，您將有機會以"同花"勝出，因為您現有四張同花色.]]></zh_tw>
+    </item>
+    <item id="300023">
+        <en_us><![CDATA[Everything goes well,let's "CALL"]]></en_us>
+        <th_th><![CDATA[ทุกอย่างเป็นไปได้ด้วยดี "สู้" เลยสิ]]></th_th>
+        <zh_tw><![CDATA[看起來還不錯，請"跟注"]]></zh_tw>
+    </item>
+    <item id="300024">
+        <en_us><![CDATA[You need to see the latest card before making decision.]]></en_us>
+        <th_th><![CDATA[คุณต้องดูไพ่ใบสุดท้ายก่อนถึงจะสามารถตัดสินใจได้.]]></th_th>
+        <zh_tw><![CDATA[最好看一下最後一張卡再做出決定.]]></zh_tw>
+    </item>
+    <item id="300025">
+        <en_us><![CDATA[One more diamond!Wow,let's CALL.]]></en_us>
+        <th_th><![CDATA[ไพ่ดีอีกแล้ว! "สู้" ต่อสิ.]]></th_th>
+        <zh_tw><![CDATA[是方塊牌！太好了跟注吧！]]></zh_tw>
+    </item>
+    <item id="300026">
+        <en_us><![CDATA[The play dare to raise,let's calm down and think what he may have in hand.]]></en_us>
+        <th_th><![CDATA[ผู้เล่นอื่นเกทับ ลองคิดดูสิว่าเขาจะมีไพ่อะไรในมือ.]]></th_th>
+        <zh_tw><![CDATA[對手加注了，冷靜想一想他可能會有什麼牌.]]></zh_tw>
+    </item>
+    <item id="300027">
+        <en_us><![CDATA[Ok,it is time for the river card.]]></en_us>
+        <th_th><![CDATA[โอเค ถึงเวลาของไพ่ริเวอร์แล้ว.]]></th_th>
+        <zh_tw><![CDATA[好吧，此時該河牌了.]]></zh_tw>
+    </item>
+    <item id="300028">
+        <en_us><![CDATA[Aha,in the end he only has two pairs,You Win.]]></en_us>
+        <th_th><![CDATA[ฮ่าๆ เขามีแค่ 2 คู่ คุณชนะแล้ว.]]></th_th>
+        <zh_tw><![CDATA[啊哈，他最後的兩張牌只是一對，您贏了.]]></zh_tw>
+    </item>
+    <item id="300029">
+        <en_us><![CDATA[Congrats!you'are a qualified player now. let's ACE a real!hand now.]]></en_us>
+        <th_th><![CDATA[ยินดีด้วย! คุณเป็นผู้เล่นที่มี\nประสบการณ์แล้ว ไปลอง\nของจริงเลยสิ!]]></th_th>
+        <zh_tw><![CDATA[恭喜！您現在是合格玩家了。進入實戰吧！.]]></zh_tw>
+    </item>
+    <item id="300030">
+        <en_us><![CDATA[Congrats!you'are a qualified player now. let's ACE a real!hand now.]]></en_us>
+        <th_th><![CDATA[Congrats!you'are a qualified player now. let's ACE a real!hand now.]]></th_th>
+        <zh_tw><![CDATA[恭喜！您現在是合格玩家了。進入實戰吧！.]]></zh_tw>
+    </item>
+    <item id="300051">
+        <en_us><![CDATA[At beginning,every players will get 2 cards,and there will be 5 public cards on table]]></en_us>
+        <th_th><![CDATA[ขณะเริ่มต้น ผู้เล่นจะได้รับไพ่โฮล 2 ใบ และจะมีไพ่กลางโต๊ะอีก 5 ใบ]]></th_th>
+        <zh_tw><![CDATA[牌局開始時，每名玩家將獲得2張手牌，牌桌上會發出5張公共牌]]></zh_tw>
+    </item>
+    <item id="300052">
+        <en_us><![CDATA[The best hand you have now is Three of a Kind: selected from 5 public cards and your private cards]]></en_us>
+        <th_th><![CDATA[ไพ่ที่ดีที่สุดของคุณคือ ตอง: เลือกจากไพ่กลาง 5 ใบและไพ่โฮลของคุณ]]></th_th>
+        <zh_tw><![CDATA[在自己的手牌與公共牌中選其中5張，組成最強牌型圖中玩家A組成的牌型是三條]]></zh_tw>
+    </item>
+    <item id="300053">
+        <en_us><![CDATA[Player B get straight,bigger than Player A and B wins]]></en_us>
+        <th_th><![CDATA[ผู้เล่น B ได้ สเตรท ซึ่งสูงกว่าผู้เล่น A จึงถือว่าผู้เล่น B ชนะ]]></th_th>
+        <zh_tw><![CDATA[圖中玩家B組成的牌型是順子，順子大於三條，玩家B取得勝利]]></zh_tw>
+    </item>
+    <item id="300061">
+        <en_us><![CDATA[Raise]]></en_us>
+        <th_th><![CDATA[เก]]></th_th>
+        <zh_tw><![CDATA[加注]]></zh_tw>
+    </item>
+    <item id="300062">
+        <en_us><![CDATA[Raising chips can always show your courage and belief in your hand!]]></en_us>
+        <th_th><![CDATA[การเกนั้นจะช่วยแสดงความมั่นใจ\nในไพ่ของคุณเอง!]]></th_th>
+        <zh_tw><![CDATA[加注籌碼可以顯示玩家的膽量也是玩家對自己持有的牌組的信心!]]></zh_tw>
+    </item>
+    <item id="300063">
+        <en_us><![CDATA[Fight Cards]]></en_us>
+        <th_th><![CDATA[สู้ไพ่]]></th_th>
+        <zh_tw><![CDATA[比牌]]></zh_tw>
+    </item>
+    <item id="300064">
+        <en_us><![CDATA[When at least reach river(last public cards on table),you will be required to fight cards with your competitors.The biggest combination win.]]></en_us>
+        <th_th><![CDATA[มื่อถึงไพ่ริเวอร์แล้ว\n(การ์ดกลางโต๊ะใบสุดท้าย)\nคุณจะต้องสู้ไพ่กับผู้เข้าแข่งขันคนอื่น\nผู้ที่มีไพ่สูงสุดจะชนะ]]></th_th>
+        <zh_tw><![CDATA[到河牌時（桌上最後一張牌），玩家必須跟對手比牌。成牌最大的玩家取勝。.]]></zh_tw>
+    </item>
+    <item id="300065">
+        <en_us><![CDATA[Here is your reward of 10,000 chips!]]></en_us>
+        <th_th><![CDATA[ได้รับเงินทุนตั้งต้น 10000 ชิป]]></th_th>
+        <zh_tw><![CDATA[獲得10000籌碼啟動資金]]></zh_tw>
+    </item>
+    <item id="300066">
+        <en_us><![CDATA[You have successfully completed the tutorial!]]></en_us>
+        <th_th><![CDATA[คุณสำเร็จการแนะนำแล้ว!]]></th_th>
+        <zh_tw><![CDATA[玩家成功完成學程！]]></zh_tw>
+    </item>
+    <item id="300067">
+        <en_us><![CDATA[Congratulations]]></en_us>
+        <th_th><![CDATA[ยินดีด้วย]]></th_th>
+        <zh_tw><![CDATA[恭喜]]></zh_tw>
+    </item>
+    <item id="300070">
+        <en_us><![CDATA[Fight Cards detail]]></en_us>
+        <th_th><![CDATA[ข้อมูลการสู้ไพ่]]></th_th>
+        <zh_tw><![CDATA[比牌詳細]]></zh_tw>
+    </item>
+    <item id="300071">
+        <en_us><![CDATA[Two ways to win]]></en_us>
+        <th_th><![CDATA[2 วิธีที่จะชนะ]]></th_th>
+        <zh_tw><![CDATA[兩種方法獲勝]]></zh_tw>
+    </item>
+    <item id="300072">
+        <en_us><![CDATA[Next Step]]></en_us>
+        <th_th><![CDATA[ถัดไป]]></th_th>
+        <zh_tw><![CDATA[下一步]]></zh_tw>
+    </item>
+    <item id="300073">
+        <en_us><![CDATA[Pre Step]]></en_us>
+        <th_th><![CDATA[ก่อนหน้า]]></th_th>
+        <zh_tw><![CDATA[上一步]]></zh_tw>
+    </item>
+    <item id="300074">
+        <en_us><![CDATA[Preview]]></en_us>
+        <th_th><![CDATA[ดูซ้ำ]]></th_th>
+        <zh_tw><![CDATA[回顧牌型大小]]></zh_tw>
+    </item>
+    <item id="300101">
+        <en_us><![CDATA[Royal Flush]]></en_us>
+        <th_th><![CDATA[รอยัลสเตรทฟลัช]]></th_th>
+        <zh_tw><![CDATA[皇家同花順]]></zh_tw>
+    </item>
+    <item id="300102">
+        <en_us><![CDATA[Straight Flush]]></en_us>
+        <th_th><![CDATA[สเตรทฟลัช]]></th_th>
+        <zh_tw><![CDATA[同花順]]></zh_tw>
+    </item>
+    <item id="300103">
+        <en_us><![CDATA[Four of a Kind]]></en_us>
+        <th_th><![CDATA[โฟร์การ์ด]]></th_th>
+        <zh_tw><![CDATA[四條]]></zh_tw>
+    </item>
+    <item id="300104">
+        <en_us><![CDATA[Full House]]></en_us>
+        <th_th><![CDATA[ฟูลเฮ้าส์]]></th_th>
+        <zh_tw><![CDATA[葫蘆]]></zh_tw>
+    </item>
+    <item id="300105">
+        <en_us><![CDATA[Flush]]></en_us>
+        <th_th><![CDATA[ฟลัช]]></th_th>
+        <zh_tw><![CDATA[同花]]></zh_tw>
+    </item>
+    <item id="300106">
+        <en_us><![CDATA[Straight]]></en_us>
+        <th_th><![CDATA[สเตรท]]></th_th>
+        <zh_tw><![CDATA[順子]]></zh_tw>
+    </item>
+    <item id="300107">
+        <en_us><![CDATA[Three of a Kind]]></en_us>
+        <th_th><![CDATA[ตอง]]></th_th>
+        <zh_tw><![CDATA[三條]]></zh_tw>
+    </item>
+    <item id="300108">
+        <en_us><![CDATA[Two Parts]]></en_us>
+        <th_th><![CDATA[2 คู่]]></th_th>
+        <zh_tw><![CDATA[兩對]]></zh_tw>
+    </item>
+    <item id="300109">
+        <en_us><![CDATA[One Parts]]></en_us>
+        <th_th><![CDATA[1 คู่s]]></th_th>
+        <zh_tw><![CDATA[一對]]></zh_tw>
+    </item>
+    <item id="300110">
+        <en_us><![CDATA[High Cards]]></en_us>
+        <th_th><![CDATA[ไพ่สูง]]></th_th>
+        <zh_tw><![CDATA[高牌]]></zh_tw>
+    </item>
+    <item id="300111">
+        <en_us><![CDATA[Quit]]></en_us>
+        <th_th><![CDATA[ออก]]></th_th>
+        <zh_tw><![CDATA[退出]]></zh_tw>
+    </item>
+    <item id="300112">
+        <en_us><![CDATA[Strong]]></en_us>
+        <th_th><![CDATA[แกร่ง]]></th_th>
+        <zh_tw><![CDATA[大]]></zh_tw>
+    </item>
+    <item id="300113">
+        <en_us><![CDATA[Weak]]></en_us>
+        <th_th><![CDATA[อ่อน]]></th_th>
+        <zh_tw><![CDATA[小]]></zh_tw>
+    </item>
+    <item id="300151">
+        <en_us><![CDATA[Royal Flush]]></en_us>
+        <th_th><![CDATA[รอยัลสเตรทฟลัช]]></th_th>
+        <zh_tw><![CDATA[皇家同花順]]></zh_tw>
+    </item>
+    <item id="300152">
+        <en_us><![CDATA[Straight Flush]]></en_us>
+        <th_th><![CDATA[สเตรทฟลัช]]></th_th>
+        <zh_tw><![CDATA[同花順]]></zh_tw>
+    </item>
+    <item id="300153">
+        <en_us><![CDATA[Four of a Kind]]></en_us>
+        <th_th><![CDATA[โฟร์การ์ด]]></th_th>
+        <zh_tw><![CDATA[四條]]></zh_tw>
+    </item>
+    <item id="300154">
+        <en_us><![CDATA[Full House]]></en_us>
+        <th_th><![CDATA[ฟูลเฮ้าส์]]></th_th>
+        <zh_tw><![CDATA[葫蘆]]></zh_tw>
+    </item>
+    <item id="300155">
+        <en_us><![CDATA[Flush]]></en_us>
+        <th_th><![CDATA[ฟลัช]]></th_th>
+        <zh_tw><![CDATA[同花]]></zh_tw>
+    </item>
+    <item id="300156">
+        <en_us><![CDATA[Straight]]></en_us>
+        <th_th><![CDATA[สเตรท]]></th_th>
+        <zh_tw><![CDATA[順子]]></zh_tw>
+    </item>
+    <item id="300157">
+        <en_us><![CDATA[Three of a Kind]]></en_us>
+        <th_th><![CDATA[ตอง]]></th_th>
+        <zh_tw><![CDATA[三條]]></zh_tw>
+    </item>
+    <item id="300158">
+        <en_us><![CDATA[Two Parts]]></en_us>
+        <th_th><![CDATA[2 คู่]]></th_th>
+        <zh_tw><![CDATA[兩對]]></zh_tw>
+    </item>
+    <item id="300159">
+        <en_us><![CDATA[One Parts]]></en_us>
+        <th_th><![CDATA[1 คู่s]]></th_th>
+        <zh_tw><![CDATA[一對]]></zh_tw>
+    </item>
+    <item id="300160">
+        <en_us><![CDATA[High Cards]]></en_us>
+        <th_th><![CDATA[ไพ่สูง]]></th_th>
+        <zh_tw><![CDATA[高牌]]></zh_tw>
+    </item>
+    <item id="300161">
+        <en_us><![CDATA[Quit]]></en_us>
+        <th_th><![CDATA[เลิก]]></th_th>
+        <zh_tw><![CDATA[退出]]></zh_tw>
+    </item>
+    <item id="300201">
+        <en_us><![CDATA[(Straight Flush with 10 to A)]]></en_us>
+        <th_th><![CDATA[(สเตรทฟลัชเรียง 10 ถึง A)]]></th_th>
+        <zh_tw><![CDATA[(同壹花色最大的順子)]]></zh_tw>
+    </item>
+    <item id="300202">
+        <en_us><![CDATA[(Straight with same suit)]]></en_us>
+        <th_th><![CDATA[(สเตรทไพ่ดอกเดียวกัน)]]></th_th>
+        <zh_tw><![CDATA[(同壹花色順子)]]></zh_tw>
+    </item>
+    <item id="300203">
+        <en_us><![CDATA[(Four of a kind+one Card)]]></en_us>
+        <th_th><![CDATA[(โฟร์การ์ด + ไพ่อีก 1 ใบ)]]></th_th>
+        <zh_tw><![CDATA[(四張相同+單張)]]></zh_tw>
+    </item>
+    <item id="300204">
+        <en_us><![CDATA[(Three of a kind+One Pair)]]></en_us>
+        <th_th><![CDATA[(ตอง + ไพ่อีก 1 คู่)]]></th_th>
+        <zh_tw><![CDATA[(三張相同+對子)]]></zh_tw>
+    </item>
+    <item id="300205">
+        <en_us><![CDATA[(Cards with same suit)]]></en_us>
+        <th_th><![CDATA[(ไพ่ดอกเดียวกัน)]]></th_th>
+        <zh_tw><![CDATA[(同壹花色]]></zh_tw>
+    </item>
+    <item id="300206">
+        <en_us><![CDATA[(Straight with different suit)]]></en_us>
+        <th_th><![CDATA[(สเตรทไพ่คนละดอก)]]></th_th>
+        <zh_tw><![CDATA[(花色不壹樣的順子)]]></zh_tw>
+    </item>
+    <item id="300207">
+        <en_us><![CDATA[(Three of a kind+Two cards with different value)]]></en_us>
+        <th_th><![CDATA[(ตอง + ไพ่ 2 ใบที่ไม่เหมือนกัน)]]></th_th>
+        <zh_tw><![CDATA[(三張相同+兩張單牌)]]></zh_tw>
+    </item>
+    <item id="300208">
+        <en_us><![CDATA[(Two Pairs)]]></en_us>
+        <th_th><![CDATA[(สองคู่)]]></th_th>
+        <zh_tw><![CDATA[(兩個對子)]]></zh_tw>
+    </item>
+    <item id="300209">
+        <en_us><![CDATA[(One Pairs)]]></en_us>
+        <th_th><![CDATA[(หนึ่งคู่)]]></th_th>
+        <zh_tw><![CDATA[(壹對)]]></zh_tw>
+    </item>
+    <item id="300210">
+        <en_us><![CDATA[(None of a above)]]></en_us>
+        <th_th><![CDATA[(อื่นๆ)]]></th_th>
+        <zh_tw><![CDATA[(雜牌)]]></zh_tw>
+    </item>
+    <item id="300211">
+        <en_us><![CDATA[]]></en_us>
+        <th_th><![CDATA[]]></th_th>
+        <zh_tw><![CDATA[]]></zh_tw>
+    </item>
+    <item id="300301">
+        <en_us><![CDATA[Note:Combination Rate-How possible you can get the hand you want Pot Odds-pot odds are the ratio of the current size of the pot to the cost of a contemplated call.]]></en_us>
+        <th_th><![CDATA[หมายเหตุ:อัตราชุดไพ่ - ความเป็นไปได้ที่จะได้รับชุดไพ่ที่คุณต้องการอัตราเงินกองกลาง - อัตราเงินกองกลางนั้นคืออัตราเปรียบเทียบระหว่างเงินกองกลางปัจจุบันและจำนวนเงินที่ต้องลงในรอบนั้นๆ]]></th_th>
+        <zh_tw><![CDATA[注：組成率-是指湊成某種能夠獲得牌型的可能性。]]></zh_tw>
+    </item>
+    <item id="300302">
+        <en_us><![CDATA[If you have:]]></en_us>
+        <th_th><![CDATA[หากคุณมี:]]></th_th>
+        <zh_tw><![CDATA[若您有：]]></zh_tw>
+    </item>
+    <item id="300303">
+        <en_us><![CDATA[1) more than 17.4% anticipated combination rate.]]></en_us>
+        <th_th><![CDATA[1) หากมีอัตราชุดไพ่ที่ต้องการสูงกว่า  17.4%]]></th_th>
+        <zh_tw><![CDATA[1）大於17.4%的預計組成率]]></zh_tw>
+    </item>
+    <item id="300304">
+        <en_us><![CDATA[2) Pot odds is less than 12.5%.]]></en_us>
+        <th_th><![CDATA[2) อัตราเงินกองกลางน้อยกว่า 12.5%.]]></th_th>
+        <zh_tw><![CDATA[2）底池賠率小於12.5%]]></zh_tw>
+    </item>
+    <item id="300305">
+        <en_us><![CDATA[Just Raise!]]></en_us>
+        <th_th><![CDATA[เพิ่มเงินเดิมพันเลยสิ!]]></th_th>
+        <zh_tw><![CDATA[可以加注！]]></zh_tw>
+    </item>
+    <item id="300306">
+        <en_us><![CDATA[Possibility of anticipated hands]]></en_us>
+        <th_th><![CDATA[อัตราชุดไพ่ที่ต้องการ]]></th_th>
+        <zh_tw><![CDATA[預計牌組的可能性]]></zh_tw>
+    </item>
+    <item id="300307">
+        <en_us><![CDATA[Pot Odds]]></en_us>
+        <th_th><![CDATA[อัตราเงินกองกลาง]]></th_th>
+        <zh_tw><![CDATA[底池賠率]]></zh_tw>
+    </item>
+    <item id="300308">
+        <en_us><![CDATA[Simple Judging Method]]></en_us>
+        <th_th><![CDATA[วิธีการตัดสินแสนง่าย]]></th_th>
+        <zh_tw><![CDATA[簡單判斷方法]]></zh_tw>
+    </item>
+    <item id="300309">
+        <en_us><![CDATA[Player A's]]></en_us>
+        <th_th><![CDATA[ไพ่ผู้เล่น A ]]></th_th>
+        <zh_tw><![CDATA[玩家A]]></zh_tw>
+    </item>
+    <item id="300311">
+        <en_us><![CDATA[Player B's]]></en_us>
+        <th_th><![CDATA[ไพ่ผู้เล่น B]]></th_th>
+        <zh_tw><![CDATA[玩家B]]></zh_tw>
+    </item>
+    <item id="300312">
+        <en_us><![CDATA[higher than]]></en_us>
+        <th_th><![CDATA[สูงกว่า]]></th_th>
+        <zh_tw><![CDATA[大於]]></zh_tw>
+    </item>
+    <item id="300313">
+        <en_us><![CDATA[Raise Call]]></en_us>
+        <th_th><![CDATA[เก]]></th_th>
+        <zh_tw><![CDATA[加注 跟注]]></zh_tw>
+    </item>
+    <item id="300314">
+        <en_us><![CDATA[Probabilty]]></en_us>
+        <th_th><![CDATA[ความน่าจะเป็น]]></th_th>
+        <zh_tw><![CDATA[概率]]></zh_tw>
+    </item>
+    <item id="300315">
+        <en_us><![CDATA[Help]]></en_us>
+        <th_th><![CDATA[ช่วย]]></th_th>
+        <zh_tw><![CDATA[新手幫助]]></zh_tw>
+    </item>
+    <item id="300316">
+        <en_us><![CDATA[Play A's hold card]]></en_us>
+        <th_th><![CDATA[ไพ่ผู้เล่น A hold card]]></th_th>
+        <zh_tw><![CDATA[玩家A手牌]]></zh_tw>
+    </item>
+    <item id="300317">
+        <en_us><![CDATA[Play B's hold card]]></en_us>
+        <th_th><![CDATA[ไพ่ผู้เล่น B hold card]]></th_th>
+        <zh_tw><![CDATA[玩家B手牌]]></zh_tw>
+    </item>
+    <item id="300318">
+        <en_us><![CDATA[Current Pot]]></en_us>
+        <th_th><![CDATA[หม้อปัจจุบัน]]></th_th>
+        <zh_tw><![CDATA[當前底池]]></zh_tw>
+    </item>
+    <item id="300319">
+        <en_us><![CDATA[Odds]]></en_us>
+        <th_th><![CDATA[ราคาต่อรอง]]></th_th>
+        <zh_tw><![CDATA[賠率]]></zh_tw>
+    </item>
+    <item id="300310">
+        <en_us><![CDATA[Buy-in]]></en_us>
+        <th_th><![CDATA[เดิมพัน]]></th_th>
+        <zh_tw><![CDATA[買入]]></zh_tw>
+    </item>
+    <item id="300320">
+        <en_us><![CDATA[continue]]></en_us>
+        <th_th><![CDATA[สานต่อ]]></th_th>
+        <zh_tw><![CDATA[繼續]]></zh_tw>
+    </item>
+    <item id="300321">
+        <en_us><![CDATA[Each player will get {0} Hole Cards at the beginniing.]]></en_us>
+        <th_th><![CDATA[เมื่อเริ่มต้นเกมผู้เล่นทุกคนจะได้รับไพ่โฮล {0} ใบ.]]></th_th>
+        <zh_tw><![CDATA[剛開始，每個玩家會有兩張底牌.]]></zh_tw>
+    </item>
+    <item id="300322">
+        <en_us><![CDATA[Then {0} community cards are dealt in succession.]]></en_us>
+        <th_th><![CDATA[และไพ่กองกลาง {0} ใบจะถูกเปิดที่กลางโต๊ะ.]]></th_th>
+        <zh_tw><![CDATA[然後會陸續有五張公共牌.]]></zh_tw>
+    </item>
+    <item id="300323">
+        <en_us><![CDATA[The best {0} combination is the winner.]]></en_us>
+        <th_th><![CDATA[ผู้เล่นที่ได้รับชุดไพ่สูงสุดจะเป็นผู้ชนะ.]]></th_th>
+        <zh_tw><![CDATA[最好的五張牌組勝出]]></zh_tw>
+    </item>
+    <item id="300330">
+        <en_us><![CDATA[Auto buy in , auto buy in after each round]]></en_us>
+        <th_th><![CDATA[เดิมพันอัตโนมัติทุกรอบ]]></th_th>
+        <zh_tw><![CDATA[自動買入：籌碼為零時自動買入]]></zh_tw>
+    </item>
+    <item id="300331">
+        <en_us><![CDATA[Entry fee [money]+service fee [smoney],buy in?]]></en_us>
+        <th_th><![CDATA[ค่าเข้าร่วม [1]+ ค่าบริการ [1] เดิมพันหรือไม่?]]></th_th>
+        <zh_tw><![CDATA[Entry fee [money]+service fee [smoney],buy in?]]></zh_tw>
+    </item>
+    <item id="300401">
+        <en_us><![CDATA[Add Friends]]></en_us>
+        <th_th><![CDATA[เพิ่มเพื่อน]]></th_th>
+        <zh_tw><![CDATA[添加好友]]></zh_tw>
+    </item>
+    <item id="300402">
+        <en_us><![CDATA[Skip]]></en_us>
+        <th_th><![CDATA[ข้าม]]></th_th>
+        <zh_tw><![CDATA[忽略]]></zh_tw>
+    </item>
+    <item id="300403">
+        <en_us><![CDATA[adds you as his/her buddy.]]></en_us>
+        <th_th><![CDATA[เพิ่มคุณเป็นเพื่อน.]]></th_th>
+        <zh_tw><![CDATA[是否添加對方為好友.]]></zh_tw>
+    </item>
+    <item id="300404">
+        <en_us><![CDATA[[New Buddy]]]></en_us>
+        <th_th><![CDATA[[เพื่อนใหม่]]]></th_th>
+        <zh_tw><![CDATA[[新的好友]]]></zh_tw>
+    </item>
+    <item id="300405">
+        <en_us><![CDATA[Mark as read]]></en_us>
+        <th_th><![CDATA[ตั้งเป็นอ่านแล้ว]]></th_th>
+        <zh_tw><![CDATA[標記為已讀]]></zh_tw>
+    </item>
+    <item id="300406">
+        <en_us><![CDATA[Delete]]></en_us>
+        <th_th><![CDATA[ลบ]]></th_th>
+        <zh_tw><![CDATA[刪除]]></zh_tw>
+    </item>
+    <item id="300407">
+        <en_us><![CDATA[Select All]]></en_us>
+        <th_th><![CDATA[เลือกทั้งหมด]]></th_th>
+        <zh_tw><![CDATA[全選]]></zh_tw>
+    </item>
+    <item id="300408">
+        <en_us><![CDATA[[playerName] sent you a gift,come on to view it now!]]></en_us>
+        <th_th><![CDATA[[playerName] มอบของขวัญให้คุณ รีบเข้ามาชมเลยสิ!!]]></th_th>
+        <zh_tw><![CDATA[[playerName] 對方送了你一個禮物，趕緊去看看!]]></zh_tw>
+    </item>
+    <item id="300409">
+        <en_us><![CDATA[[playerName] claimed the gifts ,which worth <cost_chips/coins>,will you send it to him/her? ]]></en_us>
+        <th_th><![CDATA[[playerName] รับของขวัญ มีมูลค่า <cost_chips/coins> ต้องการส่งคืนให้เขาหรือไม่?]]></th_th>
+        <zh_tw><![CDATA[[playerName] 對方向你索要禮物 ,價值 <cost_chips/coins>,是否要贈送給對方? ]]></zh_tw>
+    </item>
+    <item id="300410">
+        <en_us><![CDATA[accept]]></en_us>
+        <th_th><![CDATA[รับ]]></th_th>
+        <zh_tw><![CDATA[接受]]></zh_tw>
+    </item>
+    <item id="300411">
+        <en_us><![CDATA[send gift]]></en_us>
+        <th_th><![CDATA[ส่งของขวัญ]]></th_th>
+        <zh_tw><![CDATA[送出禮物]]></zh_tw>
+    </item>
+    <item id="300412">
+        <en_us><![CDATA[Message Center]]></en_us>
+        <th_th><![CDATA[ศูนย์ข้อมูล]]></th_th>
+        <zh_tw><![CDATA[消息中心]]></zh_tw>
+    </item>
+    <item id="300413">
+        <en_us><![CDATA[You have unclaimed bonus, are you sure you want to delete it? ]]></en_us>
+        <th_th><![CDATA[คุณมีโบนัสที่ยังไม่ได้รับ ยืนยันต้องการลบหรือไม่? ]]></th_th>
+        <zh_tw><![CDATA[ 您有禮物尚未領取,確定要刪除此條訊息? ]]></zh_tw>
+    </item>
+    <item id="300414">
+        <en_us><![CDATA[MTT Start ]]></en_us>
+        <th_th><![CDATA[เริ่ม MTT ]]></th_th>
+        <zh_tw><![CDATA[錦標賽已經開始 ]]></zh_tw>
+    </item>
+    <item id="300420">
+        <en_us><![CDATA[【Tournament】You have successfully signed up 「{0}」!]]></en_us>
+        <th_th><![CDATA[คุณสมัคร 「{0}」สำเร็จแล้ว!!]]></th_th>
+        <zh_tw><![CDATA[【錦標賽】您已經成功報名！ 「{0}」!]]></zh_tw>
+    </item>
+    <item id="300421">
+        <en_us><![CDATA[【Rank】Your Rank is {0}! You rewards are: {1} ! ]]></en_us>
+        <th_th><![CDATA[【อันดับ】อันดับของคุณคือ {0}! คุณได้รับรางวัล: ]]></th_th>
+        <zh_tw><![CDATA[【排名】你的排名是 {0}! 獲得以下獎勵: {1} ! ]]></zh_tw>
+    </item>
+    <item id="300422">
+        <en_us><![CDATA[你在比赛中获得<rank_list>,奖励<Chips_num><scores_num><item_num>]]></en_us>
+        <th_th><![CDATA[ในการแข่งขันคุณได้อันดับที่ <rank_list> รางวัลคือ <Chips_num><scores_num><item_num>]]></th_th>
+        <zh_tw><![CDATA[您在比賽中獲得<rank_list>,獎勵<Chips_num><scores_num><item_num>]]></zh_tw>
+    </item>
+    <item id="300423">
+        <en_us><![CDATA[恭喜你！升到{0}，获得等级礼包!]]></en_us>
+        <th_th><![CDATA[ยืนดีด้วย！อัพถึง Lv {0} ได้รับรางวัล Lv!]]></th_th>
+        <zh_tw><![CDATA[恭喜您！升到{0}，獲得等級獎勵!]]></zh_tw>
+    </item>
+    <item id="300424">
+        <en_us><![CDATA[[Redeem]You have successfully redeemed {0} chips]]></en_us>
+        <th_th><![CDATA[[ด้านบน] คุณประสบความสำเร็จได้ไถ่ {0} ชิป]]></th_th>
+        <zh_tw><![CDATA[【充值】充值成功，獲得 {0}籌碼]]></zh_tw>
+    </item>
+    <item id="300425">
+        <en_us><![CDATA[[Redeem]You have successfully redeemed {0} coins]]></en_us>
+        <th_th><![CDATA[[ด้านบน] คุณประสบความสำเร็จได้ไถ่ {0} เหรียญ]]></th_th>
+        <zh_tw><![CDATA[【充值】充值成功，獲得 {0}金幣]]></zh_tw>
+    </item>
+    <item id="300501">
+        <en_us><![CDATA[Empty]]></en_us>
+        <th_th><![CDATA[ว่าง]]></th_th>
+        <zh_tw><![CDATA[空房]]></zh_tw>
+    </item>
+    <item id="300502">
+        <en_us><![CDATA[Full]]></en_us>
+        <th_th><![CDATA[เต็ม]]></th_th>
+        <zh_tw><![CDATA[滿房]]></zh_tw>
+    </item>
+    <item id="300505">
+        <en_us><![CDATA[Treasure Rank:]]></en_us>
+        <th_th><![CDATA[อันดับทรัพย์สิน:]]></th_th>
+        <zh_tw><![CDATA[資產排名:]]></zh_tw>
+    </item>
+    <item id="300506">
+        <en_us><![CDATA[Title:]]></en_us>
+        <th_th><![CDATA[ชื่อผู้เล่น:]]></th_th>
+        <zh_tw><![CDATA[玩家稱號:]]></zh_tw>
+    </item>
+    <item id="300507">
+        <en_us><![CDATA[Treasure:]]></en_us>
+        <th_th><![CDATA[ทรัพย์สินขณะนี้:]]></th_th>
+        <zh_tw><![CDATA[當前總資產:]]></zh_tw>
+    </item>
+    <item id="300508">
+        <en_us><![CDATA[Games Played:]]></en_us>
+        <th_th><![CDATA[จำนวนเกม:]]></th_th>
+        <zh_tw><![CDATA[遊戲場次:]]></zh_tw>
+    </item>
+    <item id="300509">
+        <en_us><![CDATA[Win Rate:]]></en_us>
+        <th_th><![CDATA[อัตราชนะ:]]></th_th>
+        <zh_tw><![CDATA[勝率:]]></zh_tw>
+    </item>
+    <item id="300510">
+        <en_us><![CDATA[Best Hand:]]></en_us>
+        <th_th><![CDATA[ไพ่ดีที่สุด:]]></th_th>
+        <zh_tw><![CDATA[最大牌型:]]></zh_tw>
+    </item>
+    <item id="300511">
+        <en_us><![CDATA[Most Chips Won:]]></en_us>
+        <th_th><![CDATA[ชนะเงินกองกลางสูงสุด:]]></th_th>
+        <zh_tw><![CDATA[最大贏取:]]></zh_tw>
+    </item>
+    <item id="300512">
+        <en_us><![CDATA[Level rules]]></en_us>
+        <th_th><![CDATA[กติกา Lv]]></th_th>
+        <zh_tw><![CDATA[等級規則]]></zh_tw>
+    </item>
+    <item id="300513">
+        <en_us><![CDATA[Hide:]]></en_us>
+        <th_th><![CDATA[ปิดบัง:]]></th_th>
+        <zh_tw><![CDATA[隱藏:]]></zh_tw>
+    </item>
+    <item id="300601">
+        <en_us><![CDATA[Details]]></en_us>
+        <th_th><![CDATA[รายละเอียด]]></th_th>
+        <zh_tw><![CDATA[個人訊息]]></zh_tw>
+    </item>
+    <item id="300602">
+        <en_us><![CDATA[Required Mission:]]></en_us>
+        <th_th><![CDATA[ภารกิจที่ต้องการ:]]></th_th>
+        <zh_tw><![CDATA[任務目標:]]></zh_tw>
+    </item>
+    <item id="300603">
+        <en_us><![CDATA[Rewards]]></en_us>
+        <th_th><![CDATA[รางวัล]]></th_th>
+        <zh_tw><![CDATA[獎勵]]></zh_tw>
+    </item>
+    <item id="300604">
+        <en_us><![CDATA[Description:]]></en_us>
+        <th_th><![CDATA[รายละเอียด:]]></th_th>
+        <zh_tw><![CDATA[任務描述:]]></zh_tw>
+    </item>
+    <item id="300605">
+        <en_us><![CDATA[Share]]></en_us>
+        <th_th><![CDATA[แบ่งปัน]]></th_th>
+        <zh_tw><![CDATA[分享]]></zh_tw>
+    </item>
+    <item id="300606">
+        <en_us><![CDATA[Ok]]></en_us>
+        <th_th><![CDATA[Ok]]></th_th>
+        <zh_tw><![CDATA[Ok]]></zh_tw>
+    </item>
+    <item id="300607">
+        <en_us><![CDATA[Winner List]]></en_us>
+        <th_th><![CDATA[รายชื่อผู้ชนะ]]></th_th>
+        <zh_tw><![CDATA[名單]]></zh_tw>
+    </item>
+    <item id="300608">
+        <en_us><![CDATA[Join]]></en_us>
+        <th_th><![CDATA[เข้าร่วม]]></th_th>
+        <zh_tw><![CDATA[加入]]></zh_tw>
+    </item>
+    <item id="300609">
+        <en_us><![CDATA[Claim]]></en_us>
+        <th_th><![CDATA[รับ]]></th_th>
+        <zh_tw><![CDATA[領取]]></zh_tw>
+    </item>
+    <item id="300610">
+        <en_us><![CDATA[Recent Achievement]]></en_us>
+        <th_th><![CDATA[ความสำเร็จล่าสุด]]></th_th>
+        <zh_tw><![CDATA[最新成就]]></zh_tw>
+    </item>
+    <item id="300611">
+        <en_us><![CDATA[Achievement Statics]]></en_us>
+        <th_th><![CDATA[สถิติความสำเร็จ]]></th_th>
+        <zh_tw><![CDATA[成就統計]]></zh_tw>
+    </item>
+    <item id="300612">
+        <en_us><![CDATA[Champion Path]]></en_us>
+        <th_th><![CDATA[เส้นทางแชมเปี้ยน]]></th_th>
+        <zh_tw><![CDATA[冠軍之路]]></zh_tw>
+    </item>
+    <item id="300613">
+        <en_us><![CDATA[Poker World]]></en_us>
+        <th_th><![CDATA[โลกโป๊กเกอร์]]></th_th>
+        <zh_tw><![CDATA[撲克世界]]></zh_tw>
+    </item>
+    <item id="300614">
+        <en_us><![CDATA[Win]]></en_us>
+        <th_th><![CDATA[ชนะ]]></th_th>
+        <zh_tw><![CDATA[勝利]]></zh_tw>
+    </item>
+    <item id="300615">
+        <en_us><![CDATA[Poker World]]></en_us>
+        <th_th><![CDATA[โลกโป๊กเกอร์]]></th_th>
+        <zh_tw><![CDATA[玩牌]]></zh_tw>
+    </item>
+    <item id="300616">
+        <en_us><![CDATA[Strong Wind]]></en_us>
+        <th_th><![CDATA[ลมพายุ]]></th_th>
+        <zh_tw><![CDATA[堅強意志]]></zh_tw>
+    </item>
+    <item id="300617">
+        <en_us><![CDATA[Buddies]]></en_us>
+        <th_th><![CDATA[เพื่อน]]></th_th>
+        <zh_tw><![CDATA[好友]]></zh_tw>
+    </item>
+    <item id="300618">
+        <en_us><![CDATA[Gifts]]></en_us>
+        <th_th><![CDATA[ของขวัญ]]></th_th>
+        <zh_tw><![CDATA[禮物]]></zh_tw>
+    </item>
+    <item id="300619">
+        <en_us><![CDATA[Missions]]></en_us>
+        <th_th><![CDATA[ภารกิจ]]></th_th>
+        <zh_tw><![CDATA[任務]]></zh_tw>
+    </item>
+    <item id="300701">
+        <en_us><![CDATA[Store]]></en_us>
+        <th_th><![CDATA[ร้านค้า]]></th_th>
+        <zh_tw><![CDATA[商店]]></zh_tw>
+    </item>
+    <item id="300702">
+        <en_us><![CDATA[It costs {0} to buy {1},deal?]]></en_us>
+        <th_th><![CDATA[ต้องใช้ {0} เพื่อซื้อ {1} ยืนยันหรือไม่?]]></th_th>
+        <zh_tw><![CDATA[購買 「{1}」需支付{0},確認購買嗎?]]></zh_tw>
+    </item>
+    <item id="300703">
+        <en_us><![CDATA[My Gifts]]></en_us>
+        <th_th><![CDATA[ของขวัญ]]></th_th>
+        <zh_tw><![CDATA[我的飾品]]></zh_tw>
+    </item>
+    <item id="300704">
+        <en_us><![CDATA[My Items]]></en_us>
+        <th_th><![CDATA[ไอเทม]]></th_th>
+        <zh_tw><![CDATA[我的道具]]></zh_tw>
+    </item>
+    <item id="300705">
+        <en_us><![CDATA[Add Cash]]></en_us>
+        <th_th><![CDATA[เติมเงิน]]></th_th>
+        <zh_tw><![CDATA[儲值]]></zh_tw>
+    </item>
+    <item id="300706">
+        <en_us><![CDATA[Great , you get it now!]]></en_us>
+        <th_th><![CDATA[เยี่ยมเลย ซื้อของสำเร็จ!]]></th_th>
+        <zh_tw><![CDATA[恭喜你獲得了此物品!]]></zh_tw>
+    </item>
+    <item id="300707">
+        <en_us><![CDATA[Buy Gifts]]></en_us>
+        <th_th><![CDATA[ซื้อของขวัญ]]></th_th>
+        <zh_tw><![CDATA[裝飾品]]></zh_tw>
+    </item>
+    <item id="300708">
+        <en_us><![CDATA[All]]></en_us>
+        <th_th><![CDATA[ทั้งหมด]]></th_th>
+        <zh_tw><![CDATA[全部]]></zh_tw>
+    </item>
+    <item id="300709">
+        <en_us><![CDATA[Cash]]></en_us>
+        <th_th><![CDATA[Coin]]></th_th>
+        <zh_tw><![CDATA[金幣]]></zh_tw>
+    </item>
+    <item id="300710">
+        <en_us><![CDATA[Chips]]></en_us>
+        <th_th><![CDATA[ชิป]]></th_th>
+        <zh_tw><![CDATA[籌碼]]></zh_tw>
+    </item>
+    <item id="300711">
+        <en_us><![CDATA[Food]]></en_us>
+        <th_th><![CDATA[อาหาร]]></th_th>
+        <zh_tw><![CDATA[食物]]></zh_tw>
+    </item>
+    <item id="300712">
+        <en_us><![CDATA[Characters]]></en_us>
+        <th_th><![CDATA[มาสคอต]]></th_th>
+        <zh_tw><![CDATA[人物]]></zh_tw>
+    </item>
+    <item id="300713">
+        <en_us><![CDATA[Decoration]]></en_us>
+        <th_th><![CDATA[ตกแต่ง]]></th_th>
+        <zh_tw><![CDATA[裝飾品]]></zh_tw>
+    </item>
+    <item id="300714">
+        <en_us><![CDATA[Fun]]></en_us>
+        <th_th><![CDATA[บันเทิง]]></th_th>
+        <zh_tw><![CDATA[娛樂]]></zh_tw>
+    </item>
+    <item id="300715">
+        <en_us><![CDATA[Others]]></en_us>
+        <th_th><![CDATA[อื่น]]></th_th>
+        <zh_tw><![CDATA[其他]]></zh_tw>
+    </item>
+    <item id="300716">
+        <en_us><![CDATA[Send]]></en_us>
+        <th_th><![CDATA[ส่ง ]]></th_th>
+        <zh_tw><![CDATA[贈送]]></zh_tw>
+    </item>
+    <item id="300717">
+        <en_us><![CDATA[Note]]></en_us>
+        <th_th><![CDATA[หมายเหตุ]]></th_th>
+        <zh_tw><![CDATA[提示訊息]]></zh_tw>
+    </item>
+    <item id="300718">
+        <en_us><![CDATA[Buy]]></en_us>
+        <th_th><![CDATA[ซื้อ]]></th_th>
+        <zh_tw><![CDATA[購買]]></zh_tw>
+    </item>
+    <item id="300801">
+        <en_us><![CDATA[Wear]]></en_us>
+        <th_th><![CDATA[สวมใส่]]></th_th>
+        <zh_tw><![CDATA[裝備]]></zh_tw>
+    </item>
+    <item id="300802">
+        <en_us><![CDATA[Buy Items]]></en_us>
+        <th_th><![CDATA[ซื้อไอเทม]]></th_th>
+        <zh_tw><![CDATA[購買道具]]></zh_tw>
+    </item>
+    <item id="300803">
+        <en_us><![CDATA[All Gifts]]></en_us>
+        <th_th><![CDATA[ของขวัญทั้งหมด]]></th_th>
+        <zh_tw><![CDATA[購買禮物]]></zh_tw>
+    </item>
+    <item id="300804">
+        <en_us><![CDATA[Common Gifts]]></en_us>
+        <th_th><![CDATA[ของขวัญทั่วไป]]></th_th>
+        <zh_tw><![CDATA[Common Gifts]]></zh_tw>
+    </item>
+    <item id="300805">
+        <en_us><![CDATA[Achievement Gifts]]></en_us>
+        <th_th><![CDATA[ของขวัญความสำเร็จ]]></th_th>
+        <zh_tw><![CDATA[Achievement Gifts]]></zh_tw>
+    </item>
+    <item id="300806">
+        <en_us><![CDATA[Expired Gifts]]></en_us>
+        <th_th><![CDATA[ของขวัญหมดอายุ]]></th_th>
+        <zh_tw><![CDATA[Expired Gifts]]></zh_tw>
+    </item>
+    <item id="300807">
+        <en_us><![CDATA[Statistics:]]></en_us>
+        <th_th><![CDATA[สถิติ:]]></th_th>
+        <zh_tw><![CDATA[統計範圍:]]></zh_tw>
+    </item>
+    <item id="300808">
+        <en_us><![CDATA[times]]></en_us>
+        <th_th><![CDATA[จำนวนครั้ง]]></th_th>
+        <zh_tw><![CDATA[次數]]></zh_tw>
+    </item>
+    <item id="300827">
+        <en_us><![CDATA[Use]]></en_us>
+        <th_th><![CDATA[ใช้]]></th_th>
+        <zh_tw><![CDATA[使用]]></zh_tw>
+    </item>
+    <item id="300809">
+        <en_us><![CDATA[Recent 6 months]]></en_us>
+        <th_th><![CDATA[6 เดือนล่าสุด]]></th_th>
+        <zh_tw><![CDATA[最近半年]]></zh_tw>
+    </item>
+    <item id="300810">
+        <en_us><![CDATA[Recent 3 months]]></en_us>
+        <th_th><![CDATA[3 เดือนล่าสุด]]></th_th>
+        <zh_tw><![CDATA[最近三個月]]></zh_tw>
+    </item>
+    <item id="300811">
+        <en_us><![CDATA[Recent months]]></en_us>
+        <th_th><![CDATA[เดือนล่าสุด]]></th_th>
+        <zh_tw><![CDATA[最近一個月]]></zh_tw>
+    </item>
+    <item id="300812">
+        <en_us><![CDATA[Recent week]]></en_us>
+        <th_th><![CDATA[สัปดาห์ล่าสุด]]></th_th>
+        <zh_tw><![CDATA[最近一周]]></zh_tw>
+    </item>
+    <item id="300813">
+        <en_us><![CDATA[Recent 2 days]]></en_us>
+        <th_th><![CDATA[2 วันก่อน]]></th_th>
+        <zh_tw><![CDATA[最近兩天]]></zh_tw>
+    </item>
+    <item id="300814">
+        <en_us><![CDATA[Today]]></en_us>
+        <th_th><![CDATA[วันนี้]]></th_th>
+        <zh_tw><![CDATA[今天]]></zh_tw>
+    </item>
+    <item id="300815">
+        <en_us><![CDATA[Recent Achievement]]></en_us>
+        <th_th><![CDATA[ความสำเร็จล่าสุด]]></th_th>
+        <zh_tw><![CDATA[最新成就]]></zh_tw>
+    </item>
+    <item id="300816">
+        <en_us><![CDATA[Recent Gift]]></en_us>
+        <th_th><![CDATA[ของขวัญล่าสุด]]></th_th>
+        <zh_tw><![CDATA[最新禮物]]></zh_tw>
+    </item>
+    <item id="300817">
+        <en_us><![CDATA[View All]]></en_us>
+        <th_th><![CDATA[ดูทั้งหมด]]></th_th>
+        <zh_tw><![CDATA[查看全部]]></zh_tw>
+    </item>
+    <item id="300818">
+        <en_us><![CDATA[Confirm]]></en_us>
+        <th_th><![CDATA[ยืนยัน]]></th_th>
+        <zh_tw><![CDATA[確定]]></zh_tw>
+    </item>
+    <item id="300819">
+        <en_us><![CDATA[Cancel]]></en_us>
+        <th_th><![CDATA[ยกเลิก]]></th_th>
+        <zh_tw><![CDATA[取消]]></zh_tw>
+    </item>
+    <item id="300820">
+        <en_us><![CDATA[It will costs you {0}]]></en_us>
+        <th_th><![CDATA[จะต้องเสียทั้งสิ้น  {0}]]></th_th>
+        <zh_tw><![CDATA[你需要支付 {0}]]></zh_tw>
+    </item>
+    <item id="300821">
+        <en_us><![CDATA[Overview]]></en_us>
+        <th_th><![CDATA[สรุปรวม]]></th_th>
+        <zh_tw><![CDATA[概況]]></zh_tw>
+    </item>
+    <item id="300822">
+        <en_us><![CDATA[Social Statistics]]></en_us>
+        <th_th><![CDATA[สถิติสังคม]]></th_th>
+        <zh_tw><![CDATA[特殊統計]]></zh_tw>
+    </item>
+    <item id="300823">
+        <en_us><![CDATA[Round Statistics]]></en_us>
+        <th_th><![CDATA[สถิติรอบ]]></th_th>
+        <zh_tw><![CDATA[牌局統計]]></zh_tw>
+    </item>
+    <item id="300824">
+        <en_us><![CDATA[Wins Statistics]]></en_us>
+        <th_th><![CDATA[สถิติชนะ]]></th_th>
+        <zh_tw><![CDATA[贏牌統計]]></zh_tw>
+    </item>
+    <item id="300825">
+        <en_us><![CDATA[Action Statistics]]></en_us>
+        <th_th><![CDATA[สถิติดำเนินการ]]></th_th>
+        <zh_tw><![CDATA[操作統計]]></zh_tw>
+    </item>
+    <item id="300826">
+        <en_us><![CDATA[Fold Statistics]]></en_us>
+        <th_th><![CDATA[สถิติหมอบ]]></th_th>
+        <zh_tw><![CDATA[棄牌統計]]></zh_tw>
+    </item>
+    <item id="300828">
+        <en_us><![CDATA[Recent Year]]></en_us>
+        <th_th><![CDATA[ปีล่าสุด]]></th_th>
+        <zh_tw><![CDATA[最近一年]]></zh_tw>
+    </item>
+    <item id="300830">
+        <en_us><![CDATA[Player ID:]]></en_us>
+        <th_th><![CDATA[Player ID:]]></th_th>
+        <zh_tw><![CDATA[玩家 ID:]]></zh_tw>
+    </item>
+    <item id="300831">
+        <en_us><![CDATA[Chips]]></en_us>
+        <th_th><![CDATA[ชิป]]></th_th>
+        <zh_tw><![CDATA[籌碼]]></zh_tw>
+    </item>
+    <item id="300832">
+        <en_us><![CDATA[Achievements]]></en_us>
+        <th_th><![CDATA[ผลงาน]]></th_th>
+        <zh_tw><![CDATA[成就]]></zh_tw>
+    </item>
+    <item id="300833">
+        <en_us><![CDATA[Ranking]]></en_us>
+        <th_th><![CDATA[อันดับ]]></th_th>
+        <zh_tw><![CDATA[最終排行榜]]></zh_tw>
+    </item>
+    <item id="300834">
+        <en_us><![CDATA[LV Ranking]]></en_us>
+        <th_th><![CDATA[LV อันดับ]]></th_th>
+        <zh_tw><![CDATA[等級排行]]></zh_tw>
+    </item>
+    <item id="300835">
+        <en_us><![CDATA[Chips Ranking]]></en_us>
+        <th_th><![CDATA[อันดับชิป]]></th_th>
+        <zh_tw><![CDATA[籌碼排行]]></zh_tw>
+    </item>
+    <item id="300836">
+        <en_us><![CDATA[Achievements]]></en_us>
+        <th_th><![CDATA[ผลงานs]]></th_th>
+        <zh_tw><![CDATA[成就排行]]></zh_tw>
+    </item>
+    <item id="300837">
+        <en_us><![CDATA[Highest Chips]]></en_us>
+        <th_th><![CDATA[ชิปสูงสุด]]></th_th>
+        <zh_tw><![CDATA[歷史最高資產]]></zh_tw>
+    </item>
+    <item id="300838">
+        <en_us><![CDATA[Biggest Pot Won]]></en_us>
+        <th_th><![CDATA[ชนะเงินกองกลางสูงสุด:]]></th_th>
+        <zh_tw><![CDATA[贏得最大獎池]]></zh_tw>
+    </item>
+    <item id="300839">
+        <en_us><![CDATA[Best Hand]]></en_us>
+        <th_th><![CDATA[ไพ่ดีที่สุด:]]></th_th>
+        <zh_tw><![CDATA[最佳手牌]]></zh_tw>
+    </item>
+    <item id="300840">
+        <en_us><![CDATA[Winning Rounds/Playing Rounds]]></en_us>
+        <th_th><![CDATA[รอบชนะ/รอบเล่น]]></th_th>
+        <zh_tw><![CDATA[勝利局數/玩牌局數]]></zh_tw>
+    </item>
+    <item id="300841">
+        <en_us><![CDATA[Winning Rate]]></en_us>
+        <th_th><![CDATA[อัตราชนะ]]></th_th>
+        <zh_tw><![CDATA[勝率]]></zh_tw>
+    </item>
+    <item id="300842">
+        <en_us><![CDATA[Champions/Toumaments]]></en_us>
+        <th_th><![CDATA[แชมเปี้ยน/การแข่งขัน]]></th_th>
+        <zh_tw><![CDATA[奪冠次數/錦標賽次數]]></zh_tw>
+    </item>
+    <item id="300843">
+        <en_us><![CDATA[Buddies]]></en_us>
+        <th_th><![CDATA[เพื่อน]]></th_th>
+        <zh_tw><![CDATA[好友總數]]></zh_tw>
+    </item>
+    <item id="300844">
+        <en_us><![CDATA[First Login]]></en_us>
+        <th_th><![CDATA[ล็อคอินครั้งแรก]]></th_th>
+        <zh_tw><![CDATA[加入遊戲時間]]></zh_tw>
+    </item>
+    <item id="300845">
+        <en_us><![CDATA[Recent Login]]></en_us>
+        <th_th><![CDATA[ล็อคอินล่าสุด]]></th_th>
+        <zh_tw><![CDATA[最後登錄時間]]></zh_tw>
+    </item>
+    <item id="300846">
+        <en_us><![CDATA[expired: {0} days]]></en_us>
+        <th_th><![CDATA[หมดอายุ: {0} วัน]]></th_th>
+        <zh_tw><![CDATA[過期: {0} 天]]></zh_tw>
+    </item>
+    <item id="300901">
+        <en_us><![CDATA[Hands]]></en_us>
+        <th_th><![CDATA[จำนวนเกม]]></th_th>
+        <zh_tw><![CDATA[牌局總數]]></zh_tw>
+    </item>
+    <item id="300902">
+        <en_us><![CDATA[Wins]]></en_us>
+        <th_th><![CDATA[จำนวนชนะ]]></th_th>
+        <zh_tw><![CDATA[勝利總數]]></zh_tw>
+    </item>
+    <item id="300903">
+        <en_us><![CDATA[All in]]></en_us>
+        <th_th><![CDATA[จำนวน All in]]></th_th>
+        <zh_tw><![CDATA[All in]]></zh_tw>
+    </item>
+    <item id="300904">
+        <en_us><![CDATA[All in wins]]></en_us>
+        <th_th><![CDATA[ชนะ All in]]></th_th>
+        <zh_tw><![CDATA[All in 獲勝]]></zh_tw>
+    </item>
+    <item id="300905">
+        <en_us><![CDATA[Folds]]></en_us>
+        <th_th><![CDATA[หมอบ]]></th_th>
+        <zh_tw><![CDATA[棄牌總數]]></zh_tw>
+    </item>
+    <item id="300906">
+        <en_us><![CDATA[Flop Cards]]></en_us>
+        <th_th><![CDATA[ไพ่ฟล็อป]]></th_th>
+        <zh_tw><![CDATA[看頭三張]]></zh_tw>
+    </item>
+    <item id="300907">
+        <en_us><![CDATA[Turn Cards]]></en_us>
+        <th_th><![CDATA[ไพ่เทิร์น]]></th_th>
+        <zh_tw><![CDATA[轉牌圈]]></zh_tw>
+    </item>
+    <item id="300908">
+        <en_us><![CDATA[River Cards]]></en_us>
+        <th_th><![CDATA[ไพ่ริเวอร์]]></th_th>
+        <zh_tw><![CDATA[河牌圈]]></zh_tw>
+    </item>
+    <item id="300909">
+        <en_us><![CDATA[Show Hands]]></en_us>
+        <th_th><![CDATA[เปิดไพ่เปรียบ]]></th_th>
+        <zh_tw><![CDATA[比牌圈]]></zh_tw>
+    </item>
+    <item id="300910">
+        <en_us><![CDATA[Win by Blinds]]></en_us>
+        <th_th><![CDATA[ชนะก่อนฟล็อป]]></th_th>
+        <zh_tw><![CDATA[頭三張之前獲勝]]></zh_tw>
+    </item>
+    <item id="300911">
+        <en_us><![CDATA[Win by Flop Cards]]></en_us>
+        <th_th><![CDATA[ชนะในฟล็อป]]></th_th>
+        <zh_tw><![CDATA[頭三張獲勝]]></zh_tw>
+    </item>
+    <item id="300912">
+        <en_us><![CDATA[Win by Turn Cards]]></en_us>
+        <th_th><![CDATA[ชนะในเทิร์น]]></th_th>
+        <zh_tw><![CDATA[轉牌獲勝]]></zh_tw>
+    </item>
+    <item id="300913">
+        <en_us><![CDATA[Win by River Cards]]></en_us>
+        <th_th><![CDATA[ชนะในริเวอร์]]></th_th>
+        <zh_tw><![CDATA[河牌獲勝]]></zh_tw>
+    </item>
+    <item id="300914">
+        <en_us><![CDATA[Win by Show Hands]]></en_us>
+        <th_th><![CDATA[ชนะเปรียบใบ]]></th_th>
+        <zh_tw><![CDATA[比牌獲勝]]></zh_tw>
+    </item>
+    <item id="300915">
+        <en_us><![CDATA[Fold]]></en_us>
+        <th_th><![CDATA[หมอบ]]></th_th>
+        <zh_tw><![CDATA[棄牌]]></zh_tw>
+    </item>
+    <item id="300916">
+        <en_us><![CDATA[Check]]></en_us>
+        <th_th><![CDATA[ผ่าน]]></th_th>
+        <zh_tw><![CDATA[看牌]]></zh_tw>
+    </item>
+    <item id="300917">
+        <en_us><![CDATA[Call]]></en_us>
+        <th_th><![CDATA[สู้]]></th_th>
+        <zh_tw><![CDATA[跟注]]></zh_tw>
+    </item>
+    <item id="300918">
+        <en_us><![CDATA[Raise]]></en_us>
+        <th_th><![CDATA[เก]]></th_th>
+        <zh_tw><![CDATA[加注]]></zh_tw>
+    </item>
+    <item id="300919">
+        <en_us><![CDATA[ReRaise]]></en_us>
+        <th_th><![CDATA[เกกลับ]]></th_th>
+        <zh_tw><![CDATA[反加注]]></zh_tw>
+    </item>
+    <item id="300920">
+        <en_us><![CDATA[No fold util the ends]]></en_us>
+        <th_th><![CDATA[ไม่หมอบในเกม]]></th_th>
+        <zh_tw><![CDATA[整局無棄牌]]></zh_tw>
+    </item>
+    <item id="300921">
+        <en_us><![CDATA[Fold by Blinds]]></en_us>
+        <th_th><![CDATA[หมอบก่อนฟล็อป]]></th_th>
+        <zh_tw><![CDATA[頭三張之前棄牌]]></zh_tw>
+    </item>
+    <item id="300922">
+        <en_us><![CDATA[Fold by Flop Cards]]></en_us>
+        <th_th><![CDATA[หมอบตอนฟล็อป]]></th_th>
+        <zh_tw><![CDATA[頭三張棄牌]]></zh_tw>
+    </item>
+    <item id="300923">
+        <en_us><![CDATA[Fold by Turn Cards]]></en_us>
+        <th_th><![CDATA[หมอบในเทิร์น]]></th_th>
+        <zh_tw><![CDATA[轉牌棄牌]]></zh_tw>
+    </item>
+    <item id="300924">
+        <en_us><![CDATA[Fold by River Cards]]></en_us>
+        <th_th><![CDATA[หมอบในริเวอร์]]></th_th>
+        <zh_tw><![CDATA[河牌棄牌]]></zh_tw>
+    </item>
+    <item id="300925">
+        <en_us><![CDATA[Waiting]]></en_us>
+        <th_th><![CDATA[ที่รอ]]></th_th>
+        <zh_tw><![CDATA[等待]]></zh_tw>
+    </item>
+    <item id="300926">
+        <en_us><![CDATA[Big Blinds]]></en_us>
+        <th_th><![CDATA[Big Blinds]]></th_th>
+        <zh_tw><![CDATA[大盲注]]></zh_tw>
+    </item>
+    <item id="300927">
+        <en_us><![CDATA[Small Blinds]]></en_us>
+        <th_th><![CDATA[Small Blinds]]></th_th>
+        <zh_tw><![CDATA[小盲注]]></zh_tw>
+    </item>
+    <item id="300928">
+        <en_us><![CDATA[Three Flop Cards]]></en_us>
+        <th_th><![CDATA[ไพ่ฟล็อป 3 ใบ]]></th_th>
+        <zh_tw><![CDATA[三張公共牌]]></zh_tw>
+    </item>
+    <item id="300929">
+        <en_us><![CDATA[Auto Check]]></en_us>
+        <th_th><![CDATA[ผ่านอัตโนมัติ]]></th_th>
+        <zh_tw><![CDATA[自動看牌]]></zh_tw>
+    </item>
+    <item id="300930">
+        <en_us><![CDATA[Fold / Check]]></en_us>
+        <th_th><![CDATA[ผ่าน/หมอบ]]></th_th>
+        <zh_tw><![CDATA[棄牌 / 看牌]]></zh_tw>
+    </item>
+    <item id="300931">
+        <en_us><![CDATA[AutoCall]]></en_us>
+        <th_th><![CDATA[สู้อัตโนมัติ]]></th_th>
+        <zh_tw><![CDATA[跟任何注]]></zh_tw>
+    </item>
+    <item id="300932">
+        <en_us><![CDATA[AutoFold]]></en_us>
+        <th_th><![CDATA[หมอบอัตโนมัติ]]></th_th>
+        <zh_tw><![CDATA[自動棄牌]]></zh_tw>
+    </item>
+    <item id="300933">
+        <en_us><![CDATA[3 Bet]]></en_us>
+        <th_th><![CDATA[3 Bet]]></th_th>
+        <zh_tw><![CDATA[3 Bet]]></zh_tw>
+    </item>
+    <item id="300934">
+        <en_us><![CDATA[1/2Pot]]></en_us>
+        <th_th><![CDATA[1/2Pot]]></th_th>
+        <zh_tw><![CDATA[1/2Pot]]></zh_tw>
+    </item>
+    <item id="300935">
+        <en_us><![CDATA[2/3Pot]]></en_us>
+        <th_th><![CDATA[2/3Pot]]></th_th>
+        <zh_tw><![CDATA[2/3Pot]]></zh_tw>
+    </item>
+    <item id="300936">
+        <en_us><![CDATA[Pot]]></en_us>
+        <th_th><![CDATA[Pot]]></th_th>
+        <zh_tw><![CDATA[Pot]]></zh_tw>
+    </item>
+    <item id="300937">
+        <en_us><![CDATA[ALL In]]></en_us>
+        <th_th><![CDATA[ALL In]]></th_th>
+        <zh_tw><![CDATA[ALL In]]></zh_tw>
+    </item>
+    <item id="300938">
+        <en_us><![CDATA[Bet]]></en_us>
+        <th_th><![CDATA[เดิมพัน]]></th_th>
+        <zh_tw><![CDATA[下注]]></zh_tw>
+    </item>
+    <item id="301001">
+        <en_us><![CDATA[Ranking]]></en_us>
+        <th_th><![CDATA[อันดับ]]></th_th>
+        <zh_tw><![CDATA[排行榜]]></zh_tw>
+    </item>
+    <item id="301002">
+        <en_us><![CDATA[Personal Ranking]]></en_us>
+        <th_th><![CDATA[อันดับส่วนตัว]]></th_th>
+        <zh_tw><![CDATA[個人排行]]></zh_tw>
+    </item>
+    <item id="301003">
+        <en_us><![CDATA[Daily Stars]]></en_us>
+        <th_th><![CDATA[สตาร์ประจำวัน]]></th_th>
+        <zh_tw><![CDATA[今日之星]]></zh_tw>
+    </item>
+    <item id="301004">
+        <en_us><![CDATA[Treasure:]]></en_us>
+        <th_th><![CDATA[ทรัพย์สิน:]]></th_th>
+        <zh_tw><![CDATA[資產:]]></zh_tw>
+    </item>
+    <item id="301005">
+        <en_us><![CDATA[Rank:]]></en_us>
+        <th_th><![CDATA[ตำแหน่ง:]]></th_th>
+        <zh_tw><![CDATA[排行:]]></zh_tw>
+    </item>
+    <item id="301006">
+        <en_us><![CDATA[Level:]]></en_us>
+        <th_th><![CDATA[ผลงาน:]]></th_th>
+        <zh_tw><![CDATA[等級:]]></zh_tw>
+    </item>
+    <item id="301007">
+        <en_us><![CDATA[Achieve:]]></en_us>
+        <th_th><![CDATA[ความสำเร็จ:]]></th_th>
+        <zh_tw><![CDATA[成就:]]></zh_tw>
+    </item>
+    <item id="301008">
+        <en_us><![CDATA[Rank]]></en_us>
+        <th_th><![CDATA[อันดับ]]></th_th>
+        <zh_tw><![CDATA[排行]]></zh_tw>
+    </item>
+    <item id="301009">
+        <en_us><![CDATA[Name]]></en_us>
+        <th_th><![CDATA[ชื่อ]]></th_th>
+        <zh_tw><![CDATA[名稱]]></zh_tw>
+    </item>
+    <item id="301010">
+        <en_us><![CDATA[Value]]></en_us>
+        <th_th><![CDATA[มูลค่า]]></th_th>
+        <zh_tw><![CDATA[數量]]></zh_tw>
+    </item>
+    <item id="301011">
+        <en_us><![CDATA[Total]]></en_us>
+        <th_th><![CDATA[ทั้งหมด]]></th_th>
+        <zh_tw><![CDATA[全部]]></zh_tw>
+    </item>
+    <item id="301012">
+        <en_us><![CDATA[Buddy]]></en_us>
+        <th_th><![CDATA[เพื่อน]]></th_th>
+        <zh_tw><![CDATA[好友]]></zh_tw>
+    </item>
+    <item id="301013">
+        <en_us><![CDATA[Obtain {0} more chips to reach Top {1}]]></en_us>
+        <th_th><![CDATA[ได้รับอีก {0} ชิปจะติดอันดับที่ {1}]]></th_th>
+        <zh_tw><![CDATA[再獲得 {0} 籌碼，就可以進入前 {1}]]></zh_tw>
+    </item>
+    <item id="301014">
+        <en_us><![CDATA[Obtain {0} more exp to reach Top {1}]]></en_us>
+        <th_th><![CDATA[ได้รับอีกn {0} Exp จะติดอันดับที่ {1}]]></th_th>
+        <zh_tw><![CDATA[再獲得 {0} 經驗值，就可以進入前 {1}]]></zh_tw>
+    </item>
+    <item id="301015">
+        <en_us><![CDATA[Finish {0} more achieve to reach Top {1}]]></en_us>
+        <th_th><![CDATA[ได้รับอีก {0} ผลงานจะติดอันดับที่{1}]]></th_th>
+        <zh_tw><![CDATA[再獲得 {0} 成就點數，就可以進入前 {1}]]></zh_tw>
+    </item>
+    <item id="301016">
+        <en_us><![CDATA[Share]]></en_us>
+        <th_th><![CDATA[แชร์]]></th_th>
+        <zh_tw><![CDATA[分享]]></zh_tw>
+    </item>
+    <item id="301017">
+        <en_us><![CDATA[Finish]]></en_us>
+        <th_th><![CDATA[เสร็จ]]></th_th>
+        <zh_tw><![CDATA[完成]]></zh_tw>
+    </item>
+    <item id="301018">
+        <en_us><![CDATA[Rewards]]></en_us>
+        <th_th><![CDATA[รางวัล]]></th_th>
+        <zh_tw><![CDATA[獎勵]]></zh_tw>
+    </item>
+    <item id="301101">
+        <en_us><![CDATA[Daily Bonus]]></en_us>
+        <th_th><![CDATA[โบนัสประจำวัน]]></th_th>
+        <zh_tw><![CDATA[每日紅利]]></zh_tw>
+    </item>
+    <item id="301102">
+        <en_us><![CDATA[You can finish]]></en_us>
+        <th_th><![CDATA[คุณสามารถสำเร็จ]]></th_th>
+        <zh_tw><![CDATA[今天還可以完成]]></zh_tw>
+    </item>
+    <item id="301103">
+        <en_us><![CDATA[Login Bonus]]></en_us>
+        <th_th><![CDATA[โบนัสล็อคอิน]]></th_th>
+        <zh_tw><![CDATA[登入獎勵]]></zh_tw>
+    </item>
+    <item id="301104">
+        <en_us><![CDATA[You obatain today's rewards: {0}]]></en_us>
+        <th_th><![CDATA[คุณได้รับรางวัลวันนี้:{0}]]></th_th>
+        <zh_tw><![CDATA[你已經成功領取獎勵: {0}]]></zh_tw>
+    </item>
+    <item id="301105">
+        <en_us><![CDATA[Invite your friends to get extra {0} chips!]]></en_us>
+        <th_th><![CDATA[เชิญเพื่อนได้รับเพิ่มอีก {0}ชิป]]></th_th>
+        <zh_tw><![CDATA[邀請好友額外獲得{0}籌碼]]></zh_tw>
+    </item>
+    <item id="301106">
+        <en_us><![CDATA[You signed in today.]]></en_us>
+        <th_th><![CDATA[ล็อคอินวันนี้.]]></th_th>
+        <zh_tw><![CDATA[你今天已經成功簽到.]]></zh_tw>
+    </item>
+    <item id="301107">
+        <en_us><![CDATA[Login times]]></en_us>
+        <th_th><![CDATA[จำนวนล็อคอิน]]></th_th>
+        <zh_tw><![CDATA[登入次數]]></zh_tw>
+    </item>
+    <item id="301108">
+        <en_us><![CDATA[Fill Blank]]></en_us>
+        <th_th><![CDATA[ชดเชย]]></th_th>
+        <zh_tw><![CDATA[補簽]]></zh_tw>
+    </item>
+    <item id="301109">
+        <en_us><![CDATA[Get huge bonus by inviting more friends!]]></en_us>
+        <th_th><![CDATA[ล็อคอินทุกวันรับเหรียญ]]></th_th>
+        <zh_tw><![CDATA[好友越多，籌碼越多!]]></zh_tw>
+    </item>
+    <item id="301111">
+        <en_us><![CDATA[Jan]]></en_us>
+        <th_th><![CDATA[Jan]]></th_th>
+        <zh_tw><![CDATA[Jan]]></zh_tw>
+    </item>
+    <item id="301112">
+        <en_us><![CDATA[Feb]]></en_us>
+        <th_th><![CDATA[Feb]]></th_th>
+        <zh_tw><![CDATA[Feb]]></zh_tw>
+    </item>
+    <item id="301113">
+        <en_us><![CDATA[Mar]]></en_us>
+        <th_th><![CDATA[Mar]]></th_th>
+        <zh_tw><![CDATA[Mar]]></zh_tw>
+    </item>
+    <item id="301114">
+        <en_us><![CDATA[Apr]]></en_us>
+        <th_th><![CDATA[Apr]]></th_th>
+        <zh_tw><![CDATA[Apr]]></zh_tw>
+    </item>
+    <item id="301115">
+        <en_us><![CDATA[May]]></en_us>
+        <th_th><![CDATA[May]]></th_th>
+        <zh_tw><![CDATA[May]]></zh_tw>
+    </item>
+    <item id="301116">
+        <en_us><![CDATA[June]]></en_us>
+        <th_th><![CDATA[June]]></th_th>
+        <zh_tw><![CDATA[June]]></zh_tw>
+    </item>
+    <item id="301117">
+        <en_us><![CDATA[July]]></en_us>
+        <th_th><![CDATA[July]]></th_th>
+        <zh_tw><![CDATA[July]]></zh_tw>
+    </item>
+    <item id="301118">
+        <en_us><![CDATA[Aug]]></en_us>
+        <th_th><![CDATA[Aug]]></th_th>
+        <zh_tw><![CDATA[Aug]]></zh_tw>
+    </item>
+    <item id="301119">
+        <en_us><![CDATA[Sep]]></en_us>
+        <th_th><![CDATA[Sep]]></th_th>
+        <zh_tw><![CDATA[Sep]]></zh_tw>
+    </item>
+    <item id="301120">
+        <en_us><![CDATA[Oct]]></en_us>
+        <th_th><![CDATA[Oct]]></th_th>
+        <zh_tw><![CDATA[Oct]]></zh_tw>
+    </item>
+    <item id="301121">
+        <en_us><![CDATA[Nov]]></en_us>
+        <th_th><![CDATA[Nov]]></th_th>
+        <zh_tw><![CDATA[Nov]]></zh_tw>
+    </item>
+    <item id="301122">
+        <en_us><![CDATA[Dec]]></en_us>
+        <th_th><![CDATA[Dec]]></th_th>
+        <zh_tw><![CDATA[Dec]]></zh_tw>
+    </item>
+    <item id="301125">
+        <en_us><![CDATA[You received the daily bonus: {0} chips.]]></en_us>
+        <th_th><![CDATA[คุณได้รับโบนัสประจำวัน: {0} chips.]]></th_th>
+        <zh_tw><![CDATA[您獲得的每日獎勵 {0} 籌碼.]]></zh_tw>
+    </item>
+    <item id="301126">
+        <en_us><![CDATA[Login Bonus:]]></en_us>
+        <th_th><![CDATA[โบนัสล็อคอิน:]]></th_th>
+        <zh_tw><![CDATA[登入獎勵:]]></zh_tw>
+    </item>
+    <item id="301127">
+        <en_us><![CDATA[Friendship Bonus:]]></en_us>
+        <th_th><![CDATA[โบนัสเพื่อน:]]></th_th>
+        <zh_tw><![CDATA[友誼獎勵:]]></zh_tw>
+    </item>
+    <item id="301128">
+        <en_us><![CDATA[Vip Rewards:]]></en_us>
+        <th_th><![CDATA[รางวัล VIP:]]></th_th>
+        <zh_tw><![CDATA[VIP獎品:]]></zh_tw>
+    </item>
+    <item id="301129">
+        <en_us><![CDATA[Become a VIP>>]]></en_us>
+        <th_th><![CDATA[เป็น VIP>>]]></th_th>
+        <zh_tw><![CDATA[成為VIP>>]]></zh_tw>
+    </item>
+    <item id="301130">
+        <en_us><![CDATA[days]]></en_us>
+        <th_th><![CDATA[วัน]]></th_th>
+        <zh_tw><![CDATA[天數]]></zh_tw>
+    </item>
+    <item id="301131">
+        <en_us><![CDATA[It will costs you {0} coins to fill in blanks to get your missed daily bonus.]]></en_us>
+        <th_th><![CDATA[ต้องการเติมวันหรือไม่?]]></th_th>
+        <zh_tw><![CDATA[填充當前天數需花費你 {0} 金幣.]]></zh_tw>
+    </item>
+    <item id="301132">
+        <en_us><![CDATA[Claim]]></en_us>
+        <th_th><![CDATA[รับ]]></th_th>
+        <zh_tw><![CDATA[領取]]></zh_tw>
+    </item>
+    <item id="301133">
+        <en_us><![CDATA[Received]]></en_us>
+        <th_th><![CDATA[ได้รับ]]></th_th>
+        <zh_tw><![CDATA[已領取]]></zh_tw>
+    </item>
+    <item id="301134">
+        <en_us><![CDATA[剩余{0}天]]></en_us>
+        <th_th><![CDATA[เหลือ{0}วัน]]></th_th>
+        <zh_tw><![CDATA[剩餘{0}天]]></zh_tw>
+    </item>
+    <item id="301151">
+        <en_us><![CDATA[Lucky Wheel]]></en_us>
+        <th_th><![CDATA[จานหมุนลุ้นโชค]]></th_th>
+        <zh_tw><![CDATA[幸運大轉盤]]></zh_tw>
+    </item>
+    <item id="301152">
+        <en_us><![CDATA[{0} tickets left]]></en_us>
+        <th_th><![CDATA[เหลือตั๋ว {0} ใบ]]></th_th>
+        <zh_tw><![CDATA[{0} 次免費機會]]></zh_tw>
+    </item>
+    <item id="301153">
+        <en_us><![CDATA[1.You have 3 tickets pre daily login\n2. You will also obain tickets via inviting friends, one ticket pre invitation]]></en_us>
+        <th_th><![CDATA[1.คุณจะได้ตั๋วจากการล็อคอิน 3 ใบ/วัน\n2.ชวนเพื่อนด้วยจะได้ตั๋วเพิ่ม1ใบ/คน]]></th_th>
+        <zh_tw><![CDATA[1.每日可獲得3次免費機會\n2.每成功邀請一位好友，即可增加一次機會]]></zh_tw>
+    </item>
+    <item id="301154">
+        <en_us><![CDATA[List of Winners]]></en_us>
+        <th_th><![CDATA[รายชื่อผู้ชนะ]]></th_th>
+        <zh_tw><![CDATA[獲獎名單]]></zh_tw>
+    </item>
+    <item id="301171">
+        <en_us><![CDATA[Max Prize:<font color='#51e31e'>${0}M</font> Chips]]></en_us>
+        <th_th><![CDATA[รางวัลสูงสุด:<font color='#51e31e'>${0}M</font> ชิป]]></th_th>
+        <zh_tw><![CDATA[最大獎勵:<font color='#51e31e'>${0}M</font> 籌碼]]></zh_tw>
+    </item>
+    <item id="301172">
+        <en_us><![CDATA[Auto]]></en_us>
+        <th_th><![CDATA[ออโต้]]></th_th>
+        <zh_tw><![CDATA[自動]]></zh_tw>
+    </item>
+    <item id="301173">
+        <en_us><![CDATA[About Slot]]></en_us>
+        <th_th><![CDATA[เกี่ยวกับสล็อต]]></th_th>
+        <zh_tw><![CDATA[Slot幫助]]></zh_tw>
+    </item>
+    <item id="301174">
+        <en_us><![CDATA[Your Jackpot=Contributed Chips × Odds]]></en_us>
+        <th_th><![CDATA[เกี่ยวกับสล็อตเงินรางวัล = ชิปเดิมพัน * อัตราเท่ารางวัล]]></th_th>
+        <zh_tw><![CDATA[獎金=下注的籌碼 x 倍率]]></zh_tw>
+    </item>
+    <item id="301175">
+        <en_us><![CDATA[Royal Flush \nStraight Flush \nFour of a Kind \nFull House \nFlush \nStraight \nThree of a Kind \nTwo Pairs \nOne Pair]]></en_us>
+        <th_th><![CDATA[รอยัลสเตรทฟลัช \nสเตรทฟลัช \nโฟร์การ์ด \nฟูลเฮ้าส์ \nฟลัช \nสเตรท \nตอง \nTwo Pairs \nOne Pair]]></th_th>
+        <zh_tw><![CDATA[皇家同花順 \n同花順 \n四條 \n葫蘆 \n同花 \n順子 \n三條 \n兩對 \n一對]]></zh_tw>
+    </item>
+    <item id="301176">
+        <en_us><![CDATA[10000 times\n 1000 times\n 200 times\n 80 times\n 20 times\n 10 times\n 5 times\n 3 times\n 1 times]]></en_us>
+        <th_th><![CDATA[10000 times\n 1000 times\n 200 times\n 80 times\n 20 times\n 10 times\n 5 times\n 3 times\n 1 times]]></th_th>
+        <zh_tw><![CDATA[10000 times\n 1000 times\n 200 times\n 80 times\n 20 times\n 10 times\n 5 times\n 3 times\n 1 times]]></zh_tw>
+    </item>
+    <item id="301201">
+        <en_us><![CDATA[Previous Rounds]]></en_us>
+        <th_th><![CDATA[รอบก่อนหน้า]]></th_th>
+        <zh_tw><![CDATA[牌局回顧]]></zh_tw>
+    </item>
+    <item id="301202">
+        <en_us><![CDATA[Details]]></en_us>
+        <th_th><![CDATA[รายละเอียด]]></th_th>
+        <zh_tw><![CDATA[統計]]></zh_tw>
+    </item>
+    <item id="301203">
+        <en_us><![CDATA[No.]]></en_us>
+        <th_th><![CDATA[No.]]></th_th>
+        <zh_tw><![CDATA[No.]]></zh_tw>
+    </item>
+    <item id="301204">
+        <en_us><![CDATA[Player]]></en_us>
+        <th_th><![CDATA[ผู้เล่น]]></th_th>
+        <zh_tw><![CDATA[暱稱]]></zh_tw>
+    </item>
+    <item id="301205">
+        <en_us><![CDATA[Hole Cards]]></en_us>
+        <th_th><![CDATA[ไพ่โฮล]]></th_th>
+        <zh_tw><![CDATA[手牌]]></zh_tw>
+    </item>
+    <item id="301206">
+        <en_us><![CDATA[Before Flop Cards]]></en_us>
+        <th_th><![CDATA[ก่อนฟล็อป]]></th_th>
+        <zh_tw><![CDATA[翻牌前]]></zh_tw>
+    </item>
+    <item id="301207">
+        <en_us><![CDATA[Flop Cards]]></en_us>
+        <th_th><![CDATA[ไพ่ฟล็อป]]></th_th>
+        <zh_tw><![CDATA[頭三張牌]]></zh_tw>
+    </item>
+    <item id="301208">
+        <en_us><![CDATA[Turn Card]]></en_us>
+        <th_th><![CDATA[ไพ่เทิร์น]]></th_th>
+        <zh_tw><![CDATA[轉盤]]></zh_tw>
+    </item>
+    <item id="301209">
+        <en_us><![CDATA[River Card]]></en_us>
+        <th_th><![CDATA[ไพ่ริเวอร์]]></th_th>
+        <zh_tw><![CDATA[河牌]]></zh_tw>
+    </item>
+    <item id="301210">
+        <en_us><![CDATA[Duration]]></en_us>
+        <th_th><![CDATA[ระยะเวลา]]></th_th>
+        <zh_tw><![CDATA[牌局時間]]></zh_tw>
+    </item>
+    <item id="301211">
+        <en_us><![CDATA[Players]]></en_us>
+        <th_th><![CDATA[ผู้เล่น]]></th_th>
+        <zh_tw><![CDATA[暱稱]]></zh_tw>
+    </item>
+    <item id="301212">
+        <en_us><![CDATA[Pot Value]]></en_us>
+        <th_th><![CDATA[มูลค่าเงินกองกลาง]]></th_th>
+        <zh_tw><![CDATA[累積下注]]></zh_tw>
+    </item>
+    <item id="301213">
+        <en_us><![CDATA[Contribute Value]]></en_us>
+        <th_th><![CDATA[เงินกองกลางที่ชนะ]]></th_th>
+        <zh_tw><![CDATA[贏得獎池]]></zh_tw>
+    </item>
+    <item id="301214">
+        <en_us><![CDATA[Hand]]></en_us>
+        <th_th><![CDATA[ไพ่]]></th_th>
+        <zh_tw><![CDATA[最後牌型]]></zh_tw>
+    </item>
+    <item id="301215">
+        <en_us><![CDATA[Total: {0} players]]></en_us>
+        <th_th><![CDATA[ทั้งหมด: {0} ผู้เล่น]]></th_th>
+        <zh_tw><![CDATA[總計: {0} 選手]]></zh_tw>
+    </item>
+    <item id="301301">
+        <en_us><![CDATA[Personal Background]]></en_us>
+        <th_th><![CDATA[เปลี่ยนพื้นหลัง]]></th_th>
+        <zh_tw><![CDATA[場景]]></zh_tw>
+    </item>
+    <item id="301302">
+        <en_us><![CDATA[Sure]]></en_us>
+        <th_th><![CDATA[ตกลง]]></th_th>
+        <zh_tw><![CDATA[確定]]></zh_tw>
+    </item>
+    <item id="301303">
+        <en_us><![CDATA[Default]]></en_us>
+        <th_th><![CDATA[รีเซ็ท]]></th_th>
+        <zh_tw><![CDATA[默認]]></zh_tw>
+    </item>
+    <item id="301304">
+        <en_us><![CDATA[Settings]]></en_us>
+        <th_th><![CDATA[ตั้งค่า]]></th_th>
+        <zh_tw><![CDATA[設定]]></zh_tw>
+    </item>
+    <item id="301305">
+        <en_us><![CDATA[Hints:Please give a tip which]]></en_us>
+        <th_th><![CDATA[บันทึก:กรุณาให้ทิปแก่เจ้ามือของคุณ]]></th_th>
+        <zh_tw><![CDATA[說明:給荷官一些小費，犒勞一下他們]]></zh_tw>
+    </item>
+    <item id="301306">
+        <en_us><![CDATA[Select as my crouper]]></en_us>
+        <th_th><![CDATA[เลือกเป็นเจ้ามือ]]></th_th>
+        <zh_tw><![CDATA[選擇我的荷官]]></zh_tw>
+    </item>
+    <item id="301401">
+        <en_us><![CDATA[Game Settings]]></en_us>
+        <th_th><![CDATA[ตั้งค่าเกม]]></th_th>
+        <zh_tw><![CDATA[遊戲設定]]></zh_tw>
+    </item>
+    <item id="301402">
+        <en_us><![CDATA[Sound effects]]></en_us>
+        <th_th><![CDATA[เสียงเพลง]]></th_th>
+        <zh_tw><![CDATA[音量設定]]></zh_tw>
+    </item>
+    <item id="301403">
+        <en_us><![CDATA[Settings]]></en_us>
+        <th_th><![CDATA[ตั้งค่า]]></th_th>
+        <zh_tw><![CDATA[設定]]></zh_tw>
+    </item>
+    <item id="301404">
+        <en_us><![CDATA[Other Settings]]></en_us>
+        <th_th><![CDATA[ตั้งค่าอื่น]]></th_th>
+        <zh_tw><![CDATA[其他設定]]></zh_tw>
+    </item>
+    <item id="301405">
+        <en_us><![CDATA[Invitation privilegs]]></en_us>
+        <th_th><![CDATA[คำเชิญ]]></th_th>
+        <zh_tw><![CDATA[Invitation privilegs]]></zh_tw>
+    </item>
+    <item id="301406">
+        <en_us><![CDATA[Claim from me]]></en_us>
+        <th_th><![CDATA[ขอจากตนเอง]]></th_th>
+        <zh_tw><![CDATA[向我索要]]></zh_tw>
+    </item>
+    <item id="301407">
+        <en_us><![CDATA[All]]></en_us>
+        <th_th><![CDATA[ทั้งหมด]]></th_th>
+        <zh_tw><![CDATA[全部]]></zh_tw>
+    </item>
+    <item id="301408">
+        <en_us><![CDATA[Buddy]]></en_us>
+        <th_th><![CDATA[เพื่อน]]></th_th>
+        <zh_tw><![CDATA[好友]]></zh_tw>
+    </item>
+    <item id="301409">
+        <en_us><![CDATA[Mute bottom-system hints]]></en_us>
+        <th_th><![CDATA[ปิดคำเตือนระบบด้านล่าง]]></th_th>
+        <zh_tw><![CDATA[隱藏右下角系統提示訊息]]></zh_tw>
+    </item>
+    <item id="301410">
+        <en_us><![CDATA[Mute mid-system hints]]></en_us>
+        <th_th><![CDATA[ปิดคำเตือนระบบตรงกลาง]]></th_th>
+        <zh_tw><![CDATA[隱藏房間中系統廣播訊息]]></zh_tw>
+    </item>
+    <item id="301411">
+        <en_us><![CDATA[Hide Slots]]></en_us>
+        <th_th><![CDATA[ซ่อนสล็อต]]></th_th>
+        <zh_tw><![CDATA[隱藏老虎機]]></zh_tw>
+    </item>
+    <item id="301412">
+        <en_us><![CDATA[Hide Stand Up Hints]]></en_us>
+        <th_th><![CDATA[ปิดคำเตือนลุกจากเกม]]></th_th>
+        <zh_tw><![CDATA[隱藏站起來提示]]></zh_tw>
+    </item>
+    <item id="301413">
+        <en_us><![CDATA[Full Screen]]></en_us>
+        <th_th><![CDATA[เต็มจอ]]></th_th>
+        <zh_tw><![CDATA[展開]]></zh_tw>
+    </item>
+    <item id="301414">
+        <en_us><![CDATA[Volume]]></en_us>
+        <th_th><![CDATA[ระดับเสียง]]></th_th>
+        <zh_tw><![CDATA[音量]]></zh_tw>
+    </item>
+    <item id="301415">
+        <en_us><![CDATA[Open Up]]></en_us>
+        <th_th><![CDATA[เปิด]]></th_th>
+        <zh_tw><![CDATA[開啟]]></zh_tw>
+    </item>
+    <item id="301416">
+        <en_us><![CDATA[Exit]]></en_us>
+        <th_th><![CDATA[ออก]]></th_th>
+        <zh_tw><![CDATA[退出]]></zh_tw>
+    </item>
+    <item id="301417">
+        <en_us><![CDATA[Front of the cards]]></en_us>
+        <th_th><![CDATA[หน้าไพ่]]></th_th>
+        <zh_tw><![CDATA[牌面]]></zh_tw>
+    </item>
+    <item id="301418">
+        <en_us><![CDATA[Background]]></en_us>
+        <th_th><![CDATA[ลายไพ่]]></th_th>
+        <zh_tw><![CDATA[牌背]]></zh_tw>
+    </item>
+    <item id="301421">
+        <en_us><![CDATA[Double remaining time:]]></en_us>
+        <th_th><![CDATA[เวลา 2 เท่าคงเหลือ:]]></th_th>
+        <zh_tw><![CDATA[雙倍剩餘時間：]]></zh_tw>
+    </item>
+    <item id="301422">
+        <en_us><![CDATA[More XP to level up:]]></en_us>
+        <th_th><![CDATA[ต้องการอีก Exp เพื่ออัพ Lv:]]></th_th>
+        <zh_tw><![CDATA[升級還需要經驗值：]]></zh_tw>
+    </item>
+    <item id="301423">
+        <en_us><![CDATA[Total XP:]]></en_us>
+        <th_th><![CDATA[EXP ทั้งหมด:]]></th_th>
+        <zh_tw><![CDATA[總經驗值：]]></zh_tw>
+    </item>
+    <item id="301424">
+        <en_us><![CDATA[Not activited]]></en_us>
+        <th_th><![CDATA[ยังไม่เปิดใช้]]></th_th>
+        <zh_tw><![CDATA[尚未啟用]]></zh_tw>
+    </item>
+    <item id="301430">
+        <en_us><![CDATA[Sign up information MTT]]></en_us>
+        <th_th><![CDATA[ข้อมูลลงทะเบียน MTT]]></th_th>
+        <zh_tw><![CDATA[確認報名-多人錦標賽]]></zh_tw>
+    </item>
+    <item id="301431">
+        <en_us><![CDATA[Confirm]]></en_us>
+        <th_th><![CDATA[ยืนยัน]]></th_th>
+        <zh_tw><![CDATA[確定]]></zh_tw>
+    </item>
+    <item id="301432">
+        <en_us><![CDATA[Attendance Fee:]]></en_us>
+        <th_th><![CDATA[ค่าเข้าร่วม:]]></th_th>
+        <zh_tw><![CDATA[參賽費用:]]></zh_tw>
+    </item>
+    <item id="301433">
+        <en_us><![CDATA[Start From:]]></en_us>
+        <th_th><![CDATA[เริ่มต้น:]]></th_th>
+        <zh_tw><![CDATA[開始時間:]]></zh_tw>
+    </item>
+    <item id="301434">
+        <en_us><![CDATA[Regulation MTT]]></en_us>
+        <th_th><![CDATA[กติกา MTT]]></th_th>
+        <zh_tw><![CDATA[比賽規則-多人錦標賽]]></zh_tw>
+    </item>
+    <item id="301435">
+        <en_us><![CDATA[Tournament Flow]]></en_us>
+        <th_th><![CDATA[ลำดับการแข่งขัน]]></th_th>
+        <zh_tw><![CDATA[賽事流程]]></zh_tw>
+    </item>
+    <item id="301436">
+        <en_us><![CDATA[sign up]]></en_us>
+        <th_th><![CDATA[สมัครเลย]]></th_th>
+        <zh_tw><![CDATA[報名]]></zh_tw>
+    </item>
+    <item id="301437">
+        <en_us><![CDATA[signed up]]></en_us>
+        <th_th><![CDATA[ลงทะเบียน]]></th_th>
+        <zh_tw><![CDATA[已報名]]></zh_tw>
+    </item>
+    <item id="301438">
+        <en_us><![CDATA[join]]></en_us>
+        <th_th><![CDATA[เข้าร่วม]]></th_th>
+        <zh_tw><![CDATA[加入]]></zh_tw>
+    </item>
+    <item id="301439">
+        <en_us><![CDATA[lastest]]></en_us>
+        <th_th><![CDATA[ล่าสุด]]></th_th>
+        <zh_tw><![CDATA[上輪結果]]></zh_tw>
+    </item>
+    <item id="301440">
+        <en_us><![CDATA[Result]]></en_us>
+        <th_th><![CDATA[ผลลัพธ์]]></th_th>
+        <zh_tw><![CDATA[比賽結果]]></zh_tw>
+    </item>
+    <item id="301441">
+        <en_us><![CDATA[Observe]]></en_us>
+        <th_th><![CDATA[เข้าชม]]></th_th>
+        <zh_tw><![CDATA[觀看者]]></zh_tw>
+    </item>
+    <item id="301442">
+        <en_us><![CDATA[MTT Waiting]]></en_us>
+        <th_th><![CDATA[การแข่งขันเริ่มต้นขึ้นแล้ว คุณจะถูกจัดสรรไปยังโต๊ะที่เหมาะสม]]></th_th>
+        <zh_tw><![CDATA[併桌中！請等待]]></zh_tw>
+    </item>
+    <item id="301443">
+        <en_us><![CDATA[MTT is coming soon]]></en_us>
+        <th_th><![CDATA[MTT กำลังจะมาในอนาคต]]></th_th>
+        <zh_tw><![CDATA[多人錦標賽即將開始]]></zh_tw>
+    </item>
+    <item id="301444">
+        <en_us><![CDATA[Ranking List]]></en_us>
+        <th_th><![CDATA[รายการอันดับ]]></th_th>
+        <zh_tw><![CDATA[排行榜]]></zh_tw>
+    </item>
+    <item id="301445">
+        <en_us><![CDATA[Ranking]]></en_us>
+        <th_th><![CDATA[อันดับ]]></th_th>
+        <zh_tw><![CDATA[名次]]></zh_tw>
+    </item>
+    <item id="301446">
+        <en_us><![CDATA[Name]]></en_us>
+        <th_th><![CDATA[ชื่อ]]></th_th>
+        <zh_tw><![CDATA[暱稱]]></zh_tw>
+    </item>
+    <item id="301447">
+        <en_us><![CDATA[Chips]]></en_us>
+        <th_th><![CDATA[ชิป]]></th_th>
+        <zh_tw><![CDATA[籌碼數]]></zh_tw>
+    </item>
+    <item id="301448">
+        <en_us><![CDATA[Score gained]]></en_us>
+        <th_th><![CDATA[คะแนนที่ได้รับ]]></th_th>
+        <zh_tw><![CDATA[獲得積分]]></zh_tw>
+    </item>
+    <item id="301449">
+        <en_us><![CDATA[Total Score]]></en_us>
+        <th_th><![CDATA[คะแนนรวม]]></th_th>
+        <zh_tw><![CDATA[總積分]]></zh_tw>
+    </item>
+    <item id="301450">
+        <en_us><![CDATA[join]]></en_us>
+        <th_th><![CDATA[เข้าร่วม]]></th_th>
+        <zh_tw><![CDATA[進入]]></zh_tw>
+    </item>
+    <item id="301451">
+        <en_us><![CDATA[later]]></en_us>
+        <th_th><![CDATA[ล่าสุด]]></th_th>
+        <zh_tw><![CDATA[稍後]]></zh_tw>
+    </item>
+    <item id="301452">
+        <en_us><![CDATA[Observe]]></en_us>
+        <th_th><![CDATA[เข้าชม]]></th_th>
+        <zh_tw><![CDATA[觀看者]]></zh_tw>
+    </item>
+    <item id="301453">
+        <en_us><![CDATA[Lobby]]></en_us>
+        <th_th><![CDATA[ห้องโถง]]></th_th>
+        <zh_tw><![CDATA[回到大廳]]></zh_tw>
+    </item>
+    <item id="301454">
+        <en_us><![CDATA[Cancel]]></en_us>
+        <th_th><![CDATA[ยกเลิก]]></th_th>
+        <zh_tw><![CDATA[取消]]></zh_tw>
+    </item>
+    <item id="301455">
+        <en_us><![CDATA[Expired]]></en_us>
+        <th_th><![CDATA[หมดอายุ]]></th_th>
+        <zh_tw><![CDATA[過去]]></zh_tw>
+    </item>
+    <item id="301456">
+        <en_us><![CDATA[My point:]]></en_us>
+        <th_th><![CDATA[คะแนนส่วนตัว:]]></th_th>
+        <zh_tw><![CDATA[我的積分:]]></zh_tw>
+    </item>
+    <item id="301457">
+        <en_us><![CDATA[Total point:]]></en_us>
+        <th_th><![CDATA[คะแนนรวม:]]></th_th>
+        <zh_tw><![CDATA[累計獲得積分:]]></zh_tw>
+    </item>
+    <item id="301458">
+        <en_us><![CDATA[Points are used to join various tournaments.The more points you have,the more experienced player you are]]></en_us>
+        <th_th><![CDATA[คะแนนใช้สำหรับเข้าร่วมการแข่งขันประสบการณ์ยิ่งมาก คะแนนยิ่งเยอะ]]></th_th>
+        <zh_tw><![CDATA[積分主要用於參加各類獎勵豐富的比賽，而最高等級的比賽必須靠積分才能報名。累計獲得積分能一定程度體現一個選手的撲克水平。]]></zh_tw>
+    </item>
+    <item id="301459">
+        <en_us><![CDATA[Prize for Master table playing: ]]></en_us>
+        <th_th><![CDATA[รางวัลสำหรับเล่นโต๊ะมาสเตอร:์คุณจะได้รับ 1 คะแนนทุกครั้งที่ชนะในโต๊ะมาสเตอร์ ]]></th_th>
+        <zh_tw><![CDATA[高級場經濟獎勵: ]]></zh_tw>
+    </item>
+    <item id="301460">
+        <en_us><![CDATA[Prize for MTT/SNG: ]]></en_us>
+        <th_th><![CDATA[รางวัลสำหรับ MTT/SNG:คุณจะได้รับคะแนนมากขึ้นหากมีอันดับสูงใน MTT/SNG: ]]></th_th>
+        <zh_tw><![CDATA[多人錦標賽獎勵: ]]></zh_tw>
+    </item>
+    <item id="301461">
+        <en_us><![CDATA[chips]]></en_us>
+        <th_th><![CDATA[ชิป]]></th_th>
+        <zh_tw><![CDATA[籌碼]]></zh_tw>
+    </item>
+    <item id="301462">
+        <en_us><![CDATA[points]]></en_us>
+        <th_th><![CDATA[คะแนน]]></th_th>
+        <zh_tw><![CDATA[積分]]></zh_tw>
+    </item>
+    <item id="301463">
+        <en_us><![CDATA[Use sign-up card]]></en_us>
+        <th_th><![CDATA[ใช้การ์ดลงทะเบียน]]></th_th>
+        <zh_tw><![CDATA[使用門票]]></zh_tw>
+    </item>
+    <item id="301464">
+        <en_us><![CDATA[Join Times]]></en_us>
+        <th_th><![CDATA[จำนวนเข้าร่วม]]></th_th>
+        <zh_tw><![CDATA[加入次數]]></zh_tw>
+    </item>
+    <item id="301465">
+        <en_us><![CDATA[Winning Times]]></en_us>
+        <th_th><![CDATA[จำนวนชนะ]]></th_th>
+        <zh_tw><![CDATA[勝利次數]]></zh_tw>
+    </item>
+    <item id="301466">
+        <en_us><![CDATA[You can gain 1 score, for each round you win in Master Table.]]></en_us>
+        <th_th><![CDATA[คุณจะได้รับ 1 คะแนนทุกครั้งที่ชนะในโต๊ะมาสเตอร.]]></th_th>
+        <zh_tw><![CDATA[在高級場玩牌，每局獲勝後可獲得獎勵1積分.]]></zh_tw>
+    </item>
+    <item id="301467">
+        <en_us><![CDATA[You can gain more scores by getting higher rank in MTT/SNG.]]></en_us>
+        <th_th><![CDATA[คุณจะได้รับคะแนนมากขึ้นหากมีอันดับสูงใน MTT/SNG]]></th_th>
+        <zh_tw><![CDATA[參加多人錦標賽最高可獲得2000積分，具體請查看每場比賽的積分獎勵.]]></zh_tw>
+    </item>
+    <item id="301468">
+        <en_us><![CDATA[Gain Points]]></en_us>
+        <th_th><![CDATA[ได้รับคะแนน]]></th_th>
+        <zh_tw><![CDATA[積分獲得]]></zh_tw>
+    </item>
+    <item id="301470">
+        <en_us><![CDATA[Start from]]></en_us>
+        <th_th><![CDATA[เริ่มต้น]]></th_th>
+        <zh_tw><![CDATA[開始時間]]></zh_tw>
+    </item>
+    <item id="301471">
+        <en_us><![CDATA[Running for]]></en_us>
+        <th_th><![CDATA[ระยะเวลาการเล่น]]></th_th>
+        <zh_tw><![CDATA[進行時間]]></zh_tw>
+    </item>
+    <item id="301472">
+        <en_us><![CDATA[Ranking]]></en_us>
+        <th_th><![CDATA[อันดับ]]></th_th>
+        <zh_tw><![CDATA[名次]]></zh_tw>
+    </item>
+    <item id="301473">
+        <en_us><![CDATA[Chips]]></en_us>
+        <th_th><![CDATA[ชิป]]></th_th>
+        <zh_tw><![CDATA[籌碼]]></zh_tw>
+    </item>
+    <item id="301474">
+        <en_us><![CDATA[Score gap to next player]]></en_us>
+        <th_th><![CDATA[ระยะห่างคะแนนจากผู้เล่นถัดไป]]></th_th>
+        <zh_tw><![CDATA[與下一位選手的差距]]></zh_tw>
+    </item>
+    <item id="301475">
+        <en_us><![CDATA[-]]></en_us>
+        <th_th><![CDATA[-]]></th_th>
+        <zh_tw><![CDATA[-]]></zh_tw>
+    </item>
+    <item id="301476">
+        <en_us><![CDATA[Rules]]></en_us>
+        <th_th><![CDATA[กติกา]]></th_th>
+        <zh_tw><![CDATA[規則]]></zh_tw>
+    </item>
+    <item id="301477">
+        <en_us><![CDATA[Congratulations!]]></en_us>
+        <th_th><![CDATA[กติกา]]></th_th>
+        <zh_tw><![CDATA[恭喜!]]></zh_tw>
+    </item>
+    <item id="301478">
+        <en_us><![CDATA[Initital players:]]></en_us>
+        <th_th><![CDATA[ผู้เล่นหลัก:]]></th_th>
+        <zh_tw><![CDATA[初始人數:]]></zh_tw>
+    </item>
+    <item id="301479">
+        <en_us><![CDATA[Players left:]]></en_us>
+        <th_th><![CDATA[ผู้เล่นคงเหลือ:]]></th_th>
+        <zh_tw><![CDATA[剩餘人數:]]></zh_tw>
+    </item>
+    <item id="301480">
+        <en_us><![CDATA[Start from:]]></en_us>
+        <th_th><![CDATA[เริ่มต้นจาก:]]></th_th>
+        <zh_tw><![CDATA[開始時間:]]></zh_tw>
+    </item>
+    <item id="301481">
+        <en_us><![CDATA[Lasting:]]></en_us>
+        <th_th><![CDATA[ระยะเวลา:]]></th_th>
+        <zh_tw><![CDATA[持續時間:]]></zh_tw>
+    </item>
+    <item id="301482">
+        <en_us><![CDATA[Pot amount:]]></en_us>
+        <th_th><![CDATA[มูลค่าเงินกองกลาง:]]></th_th>
+        <zh_tw><![CDATA[總獎池:]]></zh_tw>
+    </item>
+    <item id="301483">
+        <en_us><![CDATA[Your rank in this Tournament is: ]]></en_us>
+        <th_th><![CDATA[อันดับของคุณในการแข่งขันคือ: ]]></th_th>
+        <zh_tw><![CDATA[你在本次MTT中的排名: ]]></zh_tw>
+    </item>
+    <item id="301484">
+        <en_us><![CDATA[您報名的「{0}」將於{1}開賽，請勿錯過！]]></en_us>
+        <th_th><![CDATA[「{0}」 ที่คุณสมัครเข้าร่วมจะเริ่มแข่งขันในเวลา  {1} กรุณาอย่าลืมเข้าร่วมแข่งขัน！]]></th_th>
+        <zh_tw><![CDATA[您報名的「{0}」將於{1}開賽，請勿錯過！]]></zh_tw>
+    </item>
+    <item id="301485">
+        <en_us><![CDATA[比賽還有{0}分鐘開始]]></en_us>
+        <th_th><![CDATA[การแข่งขันจะเริ่มต้นในอีก {0} นาที]]></th_th>
+        <zh_tw><![CDATA[比賽還有{0}分鐘開始]]></zh_tw>
+    </item>
+    <item id="301486">
+        <en_us><![CDATA[比賽還有三分鐘開始]]></en_us>
+        <th_th><![CDATA[การแข่งขันจะเริ่มต้นในอีก 3 นาที]]></th_th>
+        <zh_tw><![CDATA[比賽還有三分鐘開始]]></zh_tw>
+    </item>
+    <item id="301487">
+        <en_us><![CDATA[比賽還有兩分鐘開始]]></en_us>
+        <th_th><![CDATA[การแข่งขันจะเริ่มต้นในอีก 2 นาที]]></th_th>
+        <zh_tw><![CDATA[比賽還有兩分鐘開始]]></zh_tw>
+    </item>
+    <item id="301488">
+        <en_us><![CDATA[比賽還有一分鐘開始]]></en_us>
+        <th_th><![CDATA[การแข่งขันจะเริ่มต้นในอีก 1 นาที]]></th_th>
+        <zh_tw><![CDATA[比賽還有一分鐘開始]]></zh_tw>
+    </item>
+    <item id="301489">
+        <en_us><![CDATA[比賽一分鐘內即將開始]]></en_us>
+        <th_th><![CDATA[การแข่งขันจะเริ่มต้นภายใน 1 นาที]]></th_th>
+        <zh_tw><![CDATA[比賽一分鐘內即將開始]]></zh_tw>
+    </item>
+    <item id="301490">
+        <en_us><![CDATA[No.1]]></en_us>
+        <th_th><![CDATA[No.1]]></th_th>
+        <zh_tw><![CDATA[No.1]]></zh_tw>
+    </item>
+    <item id="301491">
+        <en_us><![CDATA[No.2]]></en_us>
+        <th_th><![CDATA[No.2]]></th_th>
+        <zh_tw><![CDATA[No.2]]></zh_tw>
+    </item>
+    <item id="301492">
+        <en_us><![CDATA[No.3]]></en_us>
+        <th_th><![CDATA[No.3]]></th_th>
+        <zh_tw><![CDATA[No.3]]></zh_tw>
+    </item>
+    <item id="301493">
+        <en_us><![CDATA[No.4-6]]></en_us>
+        <th_th><![CDATA[No.4-6]]></th_th>
+        <zh_tw><![CDATA[No.4-6]]></zh_tw>
+    </item>
+    <item id="301494">
+        <en_us><![CDATA[No.7-9]]></en_us>
+        <th_th><![CDATA[No.7-9]]></th_th>
+        <zh_tw><![CDATA[No.7-9]]></zh_tw>
+    </item>
+    <item id="301495">
+        <en_us><![CDATA[Tournament Rank]]></en_us>
+        <th_th><![CDATA[อันดับการแข่งขัน]]></th_th>
+        <zh_tw><![CDATA[比賽排行榜]]></zh_tw>
+    </item>
+    <item id="301496">
+        <en_us><![CDATA[Champion today]]></en_us>
+        <th_th><![CDATA[Champion วันนี้]]></th_th>
+        <zh_tw><![CDATA[今日冠軍]]></zh_tw>
+    </item>
+    <item id="301497">
+        <en_us><![CDATA[in lobby]]></en_us>
+        <th_th><![CDATA[ในห้องโถง]]></th_th>
+        <zh_tw><![CDATA[大廳中]]></zh_tw>
+    </item>
+    <item id="301501">
+        <en_us><![CDATA[高牌 ]]></en_us>
+        <th_th><![CDATA[ไพ่สูง ]]></th_th>
+        <zh_tw><![CDATA[高牌 ]]></zh_tw>
+    </item>
+    <item id="301502">
+        <en_us><![CDATA[一对 ]]></en_us>
+        <th_th><![CDATA[1 คู่s ]]></th_th>
+        <zh_tw><![CDATA[一對 ]]></zh_tw>
+    </item>
+    <item id="301503">
+        <en_us><![CDATA[两对 ]]></en_us>
+        <th_th><![CDATA[2 คู่ ]]></th_th>
+        <zh_tw><![CDATA[兩對 ]]></zh_tw>
+    </item>
+    <item id="301504">
+        <en_us><![CDATA[三条 ]]></en_us>
+        <th_th><![CDATA[ตอง ]]></th_th>
+        <zh_tw><![CDATA[三條 ]]></zh_tw>
+    </item>
+    <item id="301505">
+        <en_us><![CDATA[顺子 ]]></en_us>
+        <th_th><![CDATA[สเตรท ]]></th_th>
+        <zh_tw><![CDATA[順子 ]]></zh_tw>
+    </item>
+    <item id="301506">
+        <en_us><![CDATA[同花 ]]></en_us>
+        <th_th><![CDATA[ฟลัช ]]></th_th>
+        <zh_tw><![CDATA[同花 ]]></zh_tw>
+    </item>
+    <item id="301507">
+        <en_us><![CDATA[葫芦 ]]></en_us>
+        <th_th><![CDATA[ฟูลเฮ้าส์ ]]></th_th>
+        <zh_tw><![CDATA[葫蘆 ]]></zh_tw>
+    </item>
+    <item id="301508">
+        <en_us><![CDATA[四条 ]]></en_us>
+        <th_th><![CDATA[โฟร์การ์ด ]]></th_th>
+        <zh_tw><![CDATA[四條 ]]></zh_tw>
+    </item>
+    <item id="301509">
+        <en_us><![CDATA[同花顺 ]]></en_us>
+        <th_th><![CDATA[สเตรทฟลัช]]></th_th>
+        <zh_tw><![CDATA[同花順 ]]></zh_tw>
+    </item>
+    <item id="301510">
+        <en_us><![CDATA[皇家同花顺  ]]></en_us>
+        <th_th><![CDATA[รอยัลสเตรทฟลัช]]></th_th>
+        <zh_tw><![CDATA[皇家同花順]]></zh_tw>
+    </item>
+    <item id="301531">
+        <en_us><![CDATA[黑桃]]></en_us>
+        <th_th><![CDATA[โพธิ์ดำ]]></th_th>
+        <zh_tw><![CDATA[黑桃]]></zh_tw>
+    </item>
+    <item id="301532">
+        <en_us><![CDATA[梅花]]></en_us>
+        <th_th><![CDATA[ดอกจิก]]></th_th>
+        <zh_tw><![CDATA[梅花]]></zh_tw>
+    </item>
+    <item id="301533">
+        <en_us><![CDATA[方片]]></en_us>
+        <th_th><![CDATA[ข้าวหลามตัด]]></th_th>
+        <zh_tw><![CDATA[方片]]></zh_tw>
+    </item>
+    <item id="301534">
+        <en_us><![CDATA[红桃]]></en_us>
+        <th_th><![CDATA[โพธิ์แดง]]></th_th>
+        <zh_tw><![CDATA[紅桃]]></zh_tw>
+    </item>
+    <item id="301601">
+        <en_us><![CDATA[1.Only TOP 9 players can get bonus in tournaments;  ]]></en_us>
+        <th_th><![CDATA[1.ผู้เล่น 9 อันดับแรกเท่านั้นที่จะได้รับโบนัสในการแข่งขัน;  ]]></th_th>
+        <zh_tw><![CDATA[1.進入前9名即可獲得獎勵，多人錦標賽頂點開賽，周賽/月賽更有特別獎勵;  ]]></zh_tw>
+    </item>
+    <item id="301602">
+        <en_us><![CDATA[2.Please join tables 10 minutes before it starts;  ]]></en_us>
+        <th_th><![CDATA[2.กรุณาเข้าร่วมโต๊ะก่อนการแข่งขันจะเริ่มต้น 10 นาที;  ]]></th_th>
+        <zh_tw><![CDATA[2.賽前5分鐘允許進場，玩家會收到進場提示;  ]]></zh_tw>
+    </item>
+    <item id="301603">
+        <en_us><![CDATA[3.Tournaments will cost you un-refundable entrance fee according to regulations;  ]]></en_us>
+        <th_th><![CDATA[3.ค่าเข้าร่วมแข่งขันนั้นจะขึ้นอยู่กับกติกาและไม่มีการคืนเงิน;  ]]></th_th>
+        <zh_tw><![CDATA[3.報名錦標賽需要一定參賽費用，報名未參加或中途退出報名費不會退還;  ]]></zh_tw>
+    </item>
+    <item id="301604">
+        <en_us><![CDATA[-You will obtain 10,000 chips to start,if you lose all of them,you will be eliminated]]></en_us>
+        <th_th><![CDATA[-เริ่มต้นคุณจะได้รับ 10000 ชิป,หากคุณเสียชิปทั้งหมด ก็จะถูกคัดออก]]></th_th>
+        <zh_tw><![CDATA[-初始籌碼5,000，比賽中途不能再次買入，籌碼為0即被淘汰。]]></zh_tw>
+    </item>
+    <item id="301605">
+        <en_us><![CDATA[-Blinds will be 50/100 at first,and will be raised every 3 min,until the end]]></en_us>
+        <th_th><![CDATA[-บลายด์จะเริ่มต้นที่ 50/100 และเพิ่มขึ้นทุกๆ 5 นาทีจนจบเกม]]></th_th>
+        <zh_tw><![CDATA[-盲注每三分鐘提高一次，直到比賽結束。]]></zh_tw>
+    </item>
+    <item id="301606">
+        <en_us><![CDATA[-There will be 9 players for each table to start,system will adjust the tables randomly during the tournament.The champion will be the winner of the final table.You ranking is determined by the time you have been eliminated ]]></en_us>
+        <th_th><![CDATA[-แต่ละโต๊ะจะต้องมีผู้เล่น 9 คนถึงจะเริ่มเกมได้ โดยระบบจะทำการปรับโต๊ะอัตโนมัติระหว่างเกม ผู้ชนะของโต๊ะสุดท้ายจะได้ตำแหน่ง Champion อันดับจะถูกจัดตามลำดับที่คุณถูกคัดออก ]]></th_th>
+        <zh_tw><![CDATA[- 比賽採用9人桌，系統隨機分配，比賽進程中會根據剩餘人數重新分配牌桌，最終剩下一桌決出冠軍，其他名次由淘汰順序決定。 ]]></zh_tw>
+    </item>
+    <item id="301607">
+        <en_us><![CDATA[Scores-Happy ACE!]]></en_us>
+        <th_th><![CDATA[คะแนนการแข่งขัน]]></th_th>
+        <zh_tw><![CDATA[比賽規則-多人錦標賽!]]></zh_tw>
+    </item>
+    <item id="301701">
+        <en_us><![CDATA[1.Tournament begins as soon as all 9/5 players join the table.]]></en_us>
+        <th_th><![CDATA[1.เมื่อมีผู้สมัครครบ 9 คน (หรือ 5คน) เกมจะเริ่มทันที]]></th_th>
+        <zh_tw><![CDATA[1.報名人數滿9人（或5人）立即開始]]></zh_tw>
+    </item>
+    <item id="301702">
+        <en_us><![CDATA[2.The chips players received can be used for SNG only.]]></en_us>
+        <th_th><![CDATA[2.ทุกรอบการแข่งขันผู้เล่นจะได้รับชิปสำหรับคำนวณ ซึ่งชิปดังกล่าวจะสามารถใช้คำนวณในรอบการแข่งขันดังกล่าวเท่านั้น]]></th_th>
+        <zh_tw><![CDATA[2.每場比賽玩家獲得用來計數的籌碼，該籌碼只用於本場比賽的計數]]></zh_tw>
+    </item>
+    <item id="301703">
+        <en_us><![CDATA[3.Players can not buy-in extra chips during SNG.]]></en_us>
+        <th_th><![CDATA[3.ระหว่างการแข่ง SNG ไม่สามารถเพิ่มชิปได้]]></th_th>
+        <zh_tw><![CDATA[3.SNG中途不可增加籌碼]]></zh_tw>
+    </item>
+    <item id="301704">
+        <en_us><![CDATA[-You will obtain 5,000 chips to start, if you lose all of them, you will be eliminated.Initial blinds: 100/200, increase every 5 minutes.]]></en_us>
+        <th_th><![CDATA[-ชิปเริ่มต้น 5,000 ชิป เมื่อชิปเหลือ 0 จะถูกคัดออก บลายด์เริ่มต้นอยู่ที่ 100/200 จะเพิ่มขึ้นทุกๆ 5 นาที]]></th_th>
+        <zh_tw><![CDATA[-初始籌碼5,000，籌碼為0即被淘汰。 初始盲注為100/200, 每五分鐘會定時提高]]></zh_tw>
+    </item>
+    <item id="301705">
+        <en_us><![CDATA[-SNG will be ended when there is only one player left.]]></en_us>
+        <th_th><![CDATA[-เมื่อเหลือผู้เล่นเพียงคนเดียว จะถือว่าการแข่งขันสิ้นสุดลง และผู้เล่นคนสุดท้ายคือแชมเปี้ยน]]></th_th>
+        <zh_tw><![CDATA[-當牌局裡剩下最後一名玩家時比賽結束，最後一名玩家即是冠軍]]></zh_tw>
+    </item>
+    <item id="301706">
+        <en_us><![CDATA[-The final 3 players will be rewarded.]]></en_us>
+        <th_th><![CDATA[-3 อันดับแรกของการแข่ง SNG จะได้รับรางวัล]]></th_th>
+        <zh_tw><![CDATA[-SNG前三名獲得獎勵]]></zh_tw>
+    </item>
+    <item id="301707">
+        <en_us><![CDATA[Scores-Happy ACE!]]></en_us>
+        <th_th><![CDATA[คะแนนการแข่งขัน!]]></th_th>
+        <zh_tw><![CDATA[積分-競技讓撲克更精彩]]></zh_tw>
+    </item>
+    <item id="301708">
+        <en_us><![CDATA[Process]]></en_us>
+        <th_th><![CDATA[ขั้นตอน]]></th_th>
+        <zh_tw><![CDATA[流程]]></zh_tw>
+    </item>
+    <item id="301709">
+        <en_us><![CDATA[Rewards Scheme]]></en_us>
+        <th_th><![CDATA[รายการรางวัล]]></th_th>
+        <zh_tw><![CDATA[獎勵設計]]></zh_tw>
+    </item>
+    <item id="301710">
+        <en_us><![CDATA[SNG RULE]]></en_us>
+        <th_th><![CDATA[กติกา SNG]]></th_th>
+        <zh_tw><![CDATA[SNG規則]]></zh_tw>
+    </item>
+    <item id="301711">
+        <en_us><![CDATA[Your rank in this SNG is：]]></en_us>
+        <th_th><![CDATA[อันดับการแข่ง SNG:]]></th_th>
+        <zh_tw><![CDATA[您在本次SNG比賽中排名：]]></zh_tw>
+    </item>
+    <item id="301730">
+        <en_us><![CDATA[Winning times: ]]></en_us>
+        <th_th><![CDATA[ชนะ: ]]></th_th>
+        <zh_tw><![CDATA[奪冠次數: ]]></zh_tw>
+    </item>
+    <item id="301731">
+        <en_us><![CDATA[Join times: ]]></en_us>
+        <th_th><![CDATA[เข้าร่วม: ]]></th_th>
+        <zh_tw><![CDATA[參與次數: ]]></zh_tw>
+    </item>
+    <item id="301732">
+        <en_us><![CDATA[Latest race: ]]></en_us>
+        <th_th><![CDATA[แข่งล่าสุด: ]]></th_th>
+        <zh_tw><![CDATA[上次參賽: ]]></zh_tw>
+    </item>
+    <item id="301733">
+        <en_us><![CDATA[Latest rank: ]]></en_us>
+        <th_th><![CDATA[ลำดับล่าสุด: ]]></th_th>
+        <zh_tw><![CDATA[上次排名: ]]></zh_tw>
+    </item>
+    <item id="301734">
+        <en_us><![CDATA[Rank: ]]></en_us>
+        <th_th><![CDATA[สถานที่: ]]></th_th>
+        <zh_tw><![CDATA[排行榜: ]]></zh_tw>
+    </item>
+    <item id="401601">
+        <en_us><![CDATA[Thank you!{0}]]></en_us>
+        <th_th><![CDATA[ขอบคุณนะ!{0}]]></th_th>
+        <zh_tw><![CDATA[謝謝你!{0}]]></zh_tw>
+    </item>
+    <item id="401602">
+        <en_us><![CDATA[I love you!{0}]]></en_us>
+        <th_th><![CDATA[รักเลย!{0}]]></th_th>
+        <zh_tw><![CDATA[我愛你!{0}]]></zh_tw>
+    </item>
+    <item id="401603">
+        <en_us><![CDATA[You are best!{0}]]></en_us>
+        <th_th><![CDATA[คุณเยี่ยมมาก!{0}]]></th_th>
+        <zh_tw><![CDATA[你是最棒的!{0}]]></zh_tw>
+    </item>
+    <item id="401604">
+        <en_us><![CDATA[Good luck！{0}]]></en_us>
+        <th_th><![CDATA[โชคดีนะ！{0}]]></th_th>
+        <zh_tw><![CDATA[祝你好運！{0}]]></zh_tw>
+    </item>
+    <item id="401801">
+        <en_us><![CDATA[See you]]></en_us>
+        <th_th><![CDATA[แล้วพบกันใหม่!]]></th_th>
+        <zh_tw><![CDATA[再見]]></zh_tw>
+    </item>
+    <item id="401802">
+        <en_us><![CDATA[Hello everyone]]></en_us>
+        <th_th><![CDATA[สวัสดีทุกคน]]></th_th>
+        <zh_tw><![CDATA[大家好]]></zh_tw>
+    </item>
+    <item id="401803">
+        <en_us><![CDATA[Wow,nice hand]]></en_us>
+        <th_th><![CDATA[ว้าว ไพ่ดีมาก!]]></th_th>
+        <zh_tw><![CDATA[喔！好牌]]></zh_tw>
+    </item>
+    <item id="401804">
+        <en_us><![CDATA[Buddy,Show me your money]]></en_us>
+        <th_th><![CDATA[ลงเงินให้หมดเลยสิ]]></th_th>
+        <zh_tw><![CDATA[各位，看好你們的錢]]></zh_tw>
+    </item>
+    <item id="401805">
+        <en_us><![CDATA[All IN!]]></en_us>
+        <th_th><![CDATA[ALL IN ไปเลย!]]></th_th>
+        <zh_tw><![CDATA[All IN!]]></zh_tw>
+    </item>
+    <item id="401806">
+        <en_us><![CDATA[Calm down,buddy!]]></en_us>
+        <th_th><![CDATA[ใจเย็นๆ นะเพื่อน!]]></th_th>
+        <zh_tw><![CDATA[哥們，要冷靜!]]></zh_tw>
+    </item>
+    <item id="401807">
+        <en_us><![CDATA[Hey,call me]]></en_us>
+        <th_th><![CDATA[สู้ตามมาเลยสิ!]]></th_th>
+        <zh_tw><![CDATA[嘿！記得聯繫我！]]></zh_tw>
+    </item>
+    <item id="401808">
+        <en_us><![CDATA[Good luck!]]></en_us>
+        <th_th><![CDATA[โชคดีนะ!]]></th_th>
+        <zh_tw><![CDATA[好運!]]></zh_tw>
+    </item>
+    <item id="401809">
+        <en_us><![CDATA[Bad Luck!]]></en_us>
+        <th_th><![CDATA[โชคไม่ดีเลย!]]></th_th>
+        <zh_tw><![CDATA[壞運氣!]]></zh_tw>
+    </item>
+    <item id="401810">
+        <en_us><![CDATA[Use 2*XP!]]></en_us>
+        <th_th><![CDATA[Use 2*XP!]]></th_th>
+        <zh_tw><![CDATA[使用 2*XP!]]></zh_tw>
+    </item>
+    <item id="402001">
+        <en_us><![CDATA[Previous Rounds]]></en_us>
+        <th_th><![CDATA[ทบทวนเกม]]></th_th>
+        <zh_tw><![CDATA[牌局回顧]]></zh_tw>
+    </item>
+    <item id="402002">
+        <en_us><![CDATA[Messages]]></en_us>
+        <th_th><![CDATA[ข้อความ]]></th_th>
+        <zh_tw><![CDATA[消息中心]]></zh_tw>
+    </item>
+    <item id="402003">
+        <en_us><![CDATA[Achievements]]></en_us>
+        <th_th><![CDATA[ผลงาน]]></th_th>
+        <zh_tw><![CDATA[成就]]></zh_tw>
+    </item>
+    <item id="402004">
+        <en_us><![CDATA[My Items]]></en_us>
+        <th_th><![CDATA[ไอเทมตนเอง]]></th_th>
+        <zh_tw><![CDATA[我的道具]]></zh_tw>
+    </item>
+    <item id="402005">
+        <en_us><![CDATA[Ranking]]></en_us>
+        <th_th><![CDATA[อันดับ]]></th_th>
+        <zh_tw><![CDATA[排行榜]]></zh_tw>
+    </item>
+    <item id="402006">
+        <en_us><![CDATA[Missions]]></en_us>
+        <th_th><![CDATA[ภารกิจ]]></th_th>
+        <zh_tw><![CDATA[任務]]></zh_tw>
+    </item>
+    <item id="402007">
+        <en_us><![CDATA[Settings]]></en_us>
+        <th_th><![CDATA[ตั้งค่า]]></th_th>
+        <zh_tw><![CDATA[遊戲設定]]></zh_tw>
+    </item>
+    <item id="402008">
+        <en_us><![CDATA[Online Buddies]]></en_us>
+        <th_th><![CDATA[เพื่อนออนไลน์]]></th_th>
+        <zh_tw><![CDATA[在線好友]]></zh_tw>
+    </item>
+    <item id="402009">
+        <en_us><![CDATA[Change room skin]]></en_us>
+        <th_th><![CDATA[เปลี่ยนพื้นหลัง]]></th_th>
+        <zh_tw><![CDATA[更換房間風格]]></zh_tw>
+    </item>
+    <item id="402010">
+        <en_us><![CDATA[上傳圖片]]></en_us>
+        <th_th><![CDATA[อัพโหลดรูปภาพ]]></th_th>
+        <zh_tw><![CDATA[上傳圖片]]></zh_tw>
+    </item>
+    <item id="402011">
+        <en_us><![CDATA[Store]]></en_us>
+        <th_th><![CDATA[ร้านค้า]]></th_th>
+        <zh_tw><![CDATA[商店]]></zh_tw>
+    </item>
+    <item id="402012">
+        <en_us><![CDATA[Follow]]></en_us>
+        <th_th><![CDATA[ติดตาม]]></th_th>
+        <zh_tw><![CDATA[跟隨]]></zh_tw>
+    </item>
+    <item id="402013">
+        <en_us><![CDATA[invite]]></en_us>
+        <th_th><![CDATA[เชิญ]]></th_th>
+        <zh_tw><![CDATA[邀請]]></zh_tw>
+    </item>
+    <item id="402014">
+        <en_us><![CDATA[Mute Chat]]></en_us>
+        <th_th><![CDATA[ปิดเสียง]]></th_th>
+        <zh_tw><![CDATA[屏蔽聊天]]></zh_tw>
+    </item>
+    <item id="402015">
+        <en_us><![CDATA[Loudspeaker]]></en_us>
+        <th_th><![CDATA[โทรโข่ง]]></th_th>
+        <zh_tw><![CDATA[全服喇叭]]></zh_tw>
+    </item>
+    <item id="402016">
+        <en_us><![CDATA[Quick Reply]]></en_us>
+        <th_th><![CDATA[ข้อความลัด]]></th_th>
+        <zh_tw><![CDATA[快速回復]]></zh_tw>
+    </item>
+    <item id="402017">
+        <en_us><![CDATA[Send Message]]></en_us>
+        <th_th><![CDATA[Send Message]]></th_th>
+        <zh_tw><![CDATA[發送消息]]></zh_tw>
+    </item>
+    <item id="402018">
+        <en_us><![CDATA[Emoticons]]></en_us>
+        <th_th><![CDATA[อิโมติค่อน]]></th_th>
+        <zh_tw><![CDATA[表情庫]]></zh_tw>
+    </item>
+    <item id="402019">
+        <en_us><![CDATA[Add Buddy]]></en_us>
+        <th_th><![CDATA[เพิ่มเพื่อน]]></th_th>
+        <zh_tw><![CDATA[添加好友]]></zh_tw>
+    </item>
+    <item id="402020">
+        <en_us><![CDATA[Delete Buddy]]></en_us>
+        <th_th><![CDATA[ลบเพื่อน]]></th_th>
+        <zh_tw><![CDATA[刪除好友]]></zh_tw>
+    </item>
+    <item id="402021">
+        <en_us><![CDATA[Ranking]]></en_us>
+        <th_th><![CDATA[อันดับ]]></th_th>
+        <zh_tw><![CDATA[排行榜]]></zh_tw>
+    </item>
+    <item id="402022">
+        <en_us><![CDATA[Daily Bonus]]></en_us>
+        <th_th><![CDATA[โบนัสประจำวัน]]></th_th>
+        <zh_tw><![CDATA[每日獎勵]]></zh_tw>
+    </item>
+    <item id="402023">
+        <en_us><![CDATA[Lucky Wheel]]></en_us>
+        <th_th><![CDATA[จานหมุนลุ้นโชค]]></th_th>
+        <zh_tw><![CDATA[幸運大轉盤]]></zh_tw>
+    </item>
+    <item id="402024">
+        <en_us><![CDATA[获得奖励:]]></en_us>
+        <th_th><![CDATA[คุณได้รับ: ]]></th_th>
+        <zh_tw><![CDATA[獲得獎勵:]]></zh_tw>
+    </item>
+    <item id="402025">
+        <en_us><![CDATA[won]]></en_us>
+        <th_th><![CDATA[won]]></th_th>
+        <zh_tw><![CDATA[贏取]]></zh_tw>
+    </item>
+    <item id="402026">
+        <en_us><![CDATA[空闲]]></en_us>
+        <th_th><![CDATA[รอ]]></th_th>
+        <zh_tw><![CDATA[等待]]></zh_tw>
+    </item>
+    <item id="402027">
+        <en_us><![CDATA[sat down in ]]></en_us>
+        <th_th><![CDATA[นั่งลงใน ]]></th_th>
+        <zh_tw><![CDATA[在位置 ]]></zh_tw>
+    </item>
+    <item id="402028">
+        <en_us><![CDATA[ with ]]></en_us>
+        <th_th><![CDATA[ พร้อมกับ ]]></th_th>
+        <zh_tw><![CDATA[ 攜帶 ]]></zh_tw>
+    </item>
+    <item id="402029">
+        <en_us><![CDATA[Add FB Friend]]></en_us>
+        <th_th><![CDATA[เพิ่มเพื่อน FB]]></th_th>
+        <zh_tw><![CDATA[添加 FB 好友]]></zh_tw>
+    </item>
+    <item id="402030">
+        <en_us><![CDATA[Invite]]></en_us>
+        <th_th><![CDATA[เชิญ]]></th_th>
+        <zh_tw><![CDATA[邀請]]></zh_tw>
+    </item>
+    <item id="402031">
+        <en_us><![CDATA[English]]></en_us>
+        <th_th><![CDATA[English]]></th_th>
+        <zh_tw><![CDATA[English]]></zh_tw>
+    </item>
+    <item id="402032">
+        <en_us><![CDATA[ไทย]]></en_us>
+        <th_th><![CDATA[ไทย]]></th_th>
+        <zh_tw><![CDATA[ไทย]]></zh_tw>
+    </item>
+    <item id="402033">
+        <en_us><![CDATA[繁體中文]]></en_us>
+        <th_th><![CDATA[繁體中文]]></th_th>
+        <zh_tw><![CDATA[繁體中文]]></zh_tw>
+    </item>
+    <item id="402034">
+        <en_us><![CDATA[Details]]></en_us>
+        <th_th><![CDATA[รายละเอียด]]></th_th>
+        <zh_tw><![CDATA[個人訊息]]></zh_tw>
+    </item>
+    <item id="402035">
+        <en_us><![CDATA[Gift Settings]]></en_us>
+        <th_th><![CDATA[ตั้งค่าของขวัญ]]></th_th>
+        <zh_tw><![CDATA[禮物設定]]></zh_tw>
+    </item>
+    <item id="402036">
+        <en_us><![CDATA[login bonus]]></en_us>
+        <th_th><![CDATA[ล็อคอินสะสม]]></th_th>
+        <zh_tw><![CDATA[累計登入獎勵]]></zh_tw>
+    </item>
+    <item id="402101">
+        <en_us><![CDATA[Genius only means hard-working all one's life.]]></en_us>
+        <th_th><![CDATA[ไม่มีสิ่งใดในชีวิตที่น่ากลัว มีแต่สิ่งที่ต้องทำความเข้าใจ.]]></th_th>
+        <zh_tw><![CDATA[忍是為了下一次ALL in]]></zh_tw>
+    </item>
+    <item id="402102">
+        <en_us><![CDATA[The man who has made up his mind to win will never say "impossible ".]]></en_us>
+        <th_th><![CDATA[ความสุขสูงสุดในชีวิตคือการเชื่อมั่นว่ามีผู้ที่รักเรา .]]></th_th>
+        <zh_tw><![CDATA[心態起決定性作用]]></zh_tw>
+    </item>
+    <item id="402103">
+        <en_us><![CDATA[There is no such thing as a great talent without great will - power.]]></en_us>
+        <th_th><![CDATA[วิตย่อมเหมือนกันไม่ว่าอยู่ที่ใด คือต้องอดทนมาก เสวยสุขน้อย .]]></th_th>
+        <zh_tw><![CDATA[衝動不是魔鬼，猶豫才是]]></zh_tw>
+    </item>
+    <item id="402104">
+        <en_us><![CDATA[Cease to struggle and you cease to live.]]></en_us>
+        <th_th><![CDATA[ไม่มีสิ่งใดในชีวิตที่น่ากลัว มีแต่สิ่งที่ต้องทำความเข้าใจ.]]></th_th>
+        <zh_tw><![CDATA[德州桌上最重要的是什麼-----河牌啊！]]></zh_tw>
+    </item>
+    <item id="402105">
+        <en_us><![CDATA[A strong man will struggle with the storms of fate.]]></en_us>
+        <th_th><![CDATA[ความสุขสูงสุดในชีวิตคือการเชื่อมั่นว่ามีผู้ที่รักเรา .]]></th_th>
+        <zh_tw><![CDATA[勇敢地加注吧，你會發現對手的牌並不像想像中的那麼可怕]]></zh_tw>
+    </item>
+    <item id="402201">
+        <en_us><![CDATA[It's your turn now.]]></en_us>
+        <th_th><![CDATA[ก็เปิดของคุณ ในขณะนี้]]></th_th>
+        <zh_tw><![CDATA[現在輪到你操作了]]></zh_tw>
+    </item>
+    <item id="402202">
+        <en_us><![CDATA[News Center]]></en_us>
+        <th_th><![CDATA[ศูนย์ ข่าว]]></th_th>
+        <zh_tw><![CDATA[公告中心]]></zh_tw>
+    </item>
+    <item id="402203">
+        <en_us><![CDATA[Please refresh browser and make sure you do not login in other windows.]]></en_us>
+        <th_th><![CDATA[กรุณาอย่าใช้บัญชีเดียวกันล็อคอินซ้ำซ้อน กรุณารีเฟรชเกม]]></th_th>
+        <zh_tw><![CDATA[請勿以同一帳號重複登入遊戲, 請刷新頁面.]]></zh_tw>
+    </item>
+    <item id="402204">
+        <en_us><![CDATA[Please use this function after quit full-screen]]></en_us>
+        <th_th><![CDATA[กรุณาออกจากเต็มจอแล้วใช้ฟังก์ชั่นนี้ค่ะ]]></th_th>
+        <zh_tw><![CDATA[請退出全螢幕再使用此功能]]></zh_tw>
+    </item>
+    <item id="402205">
+        <en_us><![CDATA[+20k Chips]]></en_us>
+        <th_th><![CDATA[+20k ชิป]]></th_th>
+        <zh_tw><![CDATA[+20k 籌碼]]></zh_tw>
+    </item>
+    <item id="402206">
+        <en_us><![CDATA[It will replace your current accessory, continue?]]></en_us>
+        <th_th><![CDATA[จะแทนที่เครื่องประดับที่ใช้อยู่ขณะนี้ ยืนยันหรือไม่?]]></th_th>
+        <zh_tw><![CDATA[會取代現在正在使用的裝飾品, 確定嗎?]]></zh_tw>
+    </item>
+    <item id="402207">
+        <en_us><![CDATA[Duration]]></en_us>
+        <th_th><![CDATA[เวลาที่ถูกต้อง]]></th_th>
+        <zh_tw><![CDATA[有效時間]]></zh_tw>
+    </item>
+    <item id="402208">
+        <en_us><![CDATA[Your order has been accepted, processing now.]]></en_us>
+        <th_th><![CDATA[กำลังดำเนินการเติมเงิน กรุณารอสักครู่]]></th_th>
+        <zh_tw><![CDATA[儲值處理中, 請稍候]]></zh_tw>
+    </item>
+    <item id="402209">
+        <en_us><![CDATA[This event has been cancelled due to insufficient attended players, please reclaim your sign up fee in "Message Center"]]></en_us>
+        <th_th><![CDATA[เนื่องจากผู้เข้าแข่งขันไม่ครบตามที่กำหนด การแข่งขันจึงถูกยกเลิก กรุณารับเงินค่าสมัครคืนได้ที่ 「ศูนย์ข้อมูล」นะคะ]]></th_th>
+        <zh_tw><![CDATA[由於未滿足開賽人數本場比賽取消，比賽報名費用請於「消息中心」重新領取]]></zh_tw>
+    </item>
+    <item id="402210">
+        <en_us><![CDATA[謝謝您對PokerJ的支持，這些籌碼敬請笑納！]]></en_us>
+        <th_th><![CDATA[ขอบคุณสำหรับการสนับสนุนเกม PokerJ ชิปเหล่านี้คือรางวัลของคุณ！]]></th_th>
+        <zh_tw><![CDATA[謝謝您對PokerJ的支持，這些籌碼敬請笑納！]]></zh_tw>
+    </item>
+    <item id="402211">
+        <en_us><![CDATA[好友接受了您的邀請，您獲得了20k籌碼獎勵]]></en_us>
+        <th_th><![CDATA[เพื่อนตอบรับคำเชิญของคุณแล้ว คุณได้รับรางวัลชิป 20k]]></th_th>
+        <zh_tw><![CDATA[好友接受了您的邀請，您獲得了20k籌碼獎勵]]></zh_tw>
+    </item>
+    <item id="402212">
+        <en_us><![CDATA[由於報名人數未達開賽標準，因此本場比賽已取消，報名費用已退回]]></en_us>
+        <th_th><![CDATA[การแข่งขันถูกยกเลิกเนื่องจากมีผู้สมัครไม่ครบตามที่กำหนด ทางระบบได้คืนค่าสมัครให้คุณแล้ว]]></th_th>
+        <zh_tw><![CDATA[由於報名人數未達開賽標準，因此本場比賽已取消，報名費用已退回]]></zh_tw>
+    </item>
+    <item id="402213">
+        <en_us><![CDATA[親愛的玩家，歡迎來到PokerJ，接下來請根據以下流程完成新手引導，全部完成可獲得籌碼獎勵唷！開始遊戲嗎？]]></en_us>
+        <th_th><![CDATA[ผู้เล่นที่รัก ยินดีต้อนรับสู่ PokerJ กรุณาดำเนินการตามคำแนะนำสำหรับมือใหม่ หากสำเร็จแล้วจะได้รับชิปเป็นรางวัลด้วยนะ！เริ่มเล่นกันเลยไหม？]]></th_th>
+        <zh_tw><![CDATA[親愛的玩家，歡迎來到PokerJ，接下來請根據以下流程完成新手引導，全部完成可獲得籌碼獎勵唷！開始遊戲嗎？]]></zh_tw>
+    </item>
+    <item id="402214">
+        <en_us><![CDATA[开始教程]]></en_us>
+        <th_th><![CDATA[เริ่มการสอน]]></th_th>
+        <zh_tw><![CDATA[開始教程]]></zh_tw>
+    </item>
+    <item id="402215">
+        <en_us><![CDATA[立即开始]]></en_us>
+        <th_th><![CDATA[เริ่มทันที]]></th_th>
+        <zh_tw><![CDATA[立即開始]]></zh_tw>
+    </item>
+    <item id="402216">
+        <en_us><![CDATA[The chips you have is more than {0}, please go to higher level rooms to challenge other veteran players!]]></en_us>
+        <th_th><![CDATA[คุณมีชิปสูงกว่า {0} ลองไปแข่งขันในห้องระดับสูงขึ้นสิ!]]></th_th>
+        <zh_tw><![CDATA[您的籌碼已經超過{0}，去更高級的房間挑戰高手吧！]]></zh_tw>
+    </item>
+    <item id="402217">
+        <en_us><![CDATA[尊榮的"冠軍腰帶"持有者{0}上線了！]]></en_us>
+        <th_th><![CDATA[{0}ผู้ครอบครอง "เข็มขัดแชมเปี้ยน" อันทรงเกียรติออนไลน์แล้ว!]]></th_th>
+        <zh_tw><![CDATA[尊榮的"冠軍腰帶"持有者{0}上線了！]]></zh_tw>
+    </item>
+    <item id="402218">
+        <en_us><![CDATA[永久]]></en_us>
+        <th_th><![CDATA[ไอเทมถาวร]]></th_th>
+        <zh_tw><![CDATA[永久]]></zh_tw>
+    </item>
+    <item id="402219">
+        <en_us><![CDATA[expired:{0}]]></en_us>
+        <th_th><![CDATA[หมดอายุ:{0}]]></th_th>
+        <zh_tw><![CDATA[過期:{0}]]></zh_tw>
+    </item>
+    <item id="402220">
+        <en_us><![CDATA[天前]]></en_us>
+        <th_th><![CDATA[วันก่อน]]></th_th>
+        <zh_tw><![CDATA[天前]]></zh_tw>
+    </item>
+    <item id="402221">
+        <en_us><![CDATA[今日贏籌碼最多NO.1]]></en_us>
+        <th_th><![CDATA[NO.1 ชนะชิปสูงสุดวันนี้]]></th_th>
+        <zh_tw><![CDATA[今日贏籌碼最多NO.1]]></zh_tw>
+    </item>
+    <item id="402222">
+        <en_us><![CDATA[今日贏籌碼最多NO.2]]></en_us>
+        <th_th><![CDATA[NO.2 ชนะชิปสูงสุดวันนี้]]></th_th>
+        <zh_tw><![CDATA[今日贏籌碼最多NO.2]]></zh_tw>
+    </item>
+    <item id="402223">
+        <en_us><![CDATA[花費少許的金幣，即可完美補回所有缺少的簽到天數！（補簽一天需要{0}金幣）]]></en_us>
+        <th_th><![CDATA[ใช้ Coins จำนวนเล็กน้อย ก็สามารถชดเชยจำนวนวันลงชื่อที่ขาดไปได้นะ！ (ชดเชย 1 วันต้องใช้ {0} Coins)]]></th_th>
+        <zh_tw><![CDATA[花費少許的金幣，即可完美補回所有缺少的簽到天數！（補簽一天需要{0}金幣）]]></zh_tw>
+    </item>
+    <item id="402224">
+        <en_us><![CDATA[是否花費{0}籌碼購買次數?]]></en_us>
+        <th_th><![CDATA[ต้องการใช้ {0} ชิปเพื่อซื้อจำนวนหมุนจานหมุน 1 ครั้งหรือไม่?]]></th_th>
+        <zh_tw><![CDATA[是否花費{0}籌碼購買次數?]]></zh_tw>
+    </item>
+    
+    <item id="402225">
+        <en_us><![CDATA[現在開始發牌囉！]]></en_us>
+        <th_th><![CDATA[เริ่มแจกไพ่แล้วนะ！]]></th_th>
+        <zh_tw><![CDATA[現在開始發牌囉！]]></zh_tw>
+    </item>
+    <item id="402226">
+        <en_us><![CDATA[哇！有人All-in耶]]></en_us>
+        <th_th><![CDATA[ว้าว！มีคน All-in ด้วยนะ]]></th_th>
+        <zh_tw><![CDATA[哇！有人All-in耶]]></zh_tw>
+    </item>
+    <item id="402227">
+        <en_us><![CDATA[{0}再不出牌，你就要out啦]]></en_us>
+        <th_th><![CDATA[{0}หากไม่เล่นต่อ คุณก็ out แล้ว ]]></th_th>
+        <zh_tw><![CDATA[{0}再不出牌，你就要out啦]]></zh_tw>
+    </item>
+    <item id="402228">
+        <en_us><![CDATA["{0}"居然拿到了"{1}"！實在太厲害了]]></en_us>
+        <th_th><![CDATA["{0}"ได้ "{1}"！เก่งจริงๆ เลย”]]></th_th>
+        <zh_tw><![CDATA["{0}"居然拿到了"{1}"！實在太厲害了]]></zh_tw>
+    </item>
+    <item id="402229">
+        <en_us><![CDATA[Please wait for the next round]]></en_us>
+        <th_th><![CDATA[กรุณารอรอบถัดไป]]></th_th>
+        <zh_tw><![CDATA[請等待下一輪]]></zh_tw>
+    </item>
+    <item id="402320">
+        <en_us><![CDATA[Login Rewards]]></en_us>
+        <th_th><![CDATA[รางวัลล็อคอิน]]></th_th>
+        <zh_tw><![CDATA[登入獎勵]]></zh_tw>
+    </item>
+    <item id="402321">
+        <en_us><![CDATA[Login Rewards]]></en_us>
+        <th_th><![CDATA[รางวัลล็อคอิน]]></th_th>
+        <zh_tw><![CDATA[登入獎勵]]></zh_tw>
+    </item>
+    <item id="402322">
+        <en_us><![CDATA[Get Reward]]></en_us>
+        <th_th><![CDATA[ลงชื่อรับรางวัล]]></th_th>
+        <zh_tw><![CDATA[簽到領取]]></zh_tw>
+    </item>
+    <item id="402323">
+        <en_us><![CDATA[Congratulation!]]></en_us>
+        <th_th><![CDATA[ยินดีด้วย!]]></th_th>
+        <zh_tw><![CDATA[恭喜獲得!]]></zh_tw>
+    </item>
+    
+    <item id="402324">
+        <en_us><![CDATA[Simple]]></en_us>
+        <th_th><![CDATA[เรียบง่าย]]></th_th>
+        <zh_tw><![CDATA[簡約]]></zh_tw>
+    </item>
+    <item id="402325">
+        <en_us><![CDATA[Normal]]></en_us>
+        <th_th><![CDATA[ธรรมดา]]></th_th>
+        <zh_tw><![CDATA[經典]]></zh_tw>
+    </item>
+    <item id="402326">
+        <en_us><![CDATA[Traditional]]></en_us>
+        <th_th><![CDATA[ดั้งเดิม]]></th_th>
+        <zh_tw><![CDATA[傳統]]></zh_tw>
+    </item>
+    <item id="402327">
+        <en_us><![CDATA[5 Players]]></en_us>
+        <th_th><![CDATA[5 ผู้เล่น]]></th_th>
+        <zh_tw><![CDATA[5人桌]]></zh_tw>
+    </item>
+    <item id="402328">
+        <en_us><![CDATA[9 Players]]></en_us>
+        <th_th><![CDATA[9 ผู้เล่น]]></th_th>
+        <zh_tw><![CDATA[9人桌]]></zh_tw>
+    </item>
+    <item id="402329">
+        <en_us><![CDATA[Room List>>]]></en_us>
+        <th_th><![CDATA[รายชื่อห้อง>>]]></th_th>
+        <zh_tw><![CDATA[進入列表>>]]></zh_tw>
+    </item>
+    <item id="402330">
+        <en_us><![CDATA[DAYS]]></en_us>
+        <th_th><![CDATA[วัน]]></th_th>
+        <zh_tw><![CDATA[天]]></zh_tw>
+    </item>
+    <item id="402331">
+        <en_us><![CDATA[Missing you so much, I'm waiting for you to come back!]]></en_us>
+        <th_th><![CDATA[คิดถึงคุณจังเลย ฉันจะรอคุณกลับมาที่ PokerJ นะ！]]></th_th>
+        <zh_tw><![CDATA[沒有你的日子度日如年，我在PokerJ等你回來!]]></zh_tw>
+    </item>
+    <item id="402332">
+        <en_us><![CDATA[Call back+]]></en_us>
+        <th_th><![CDATA[เชิญเพื่อนกลับ+]]></th_th>
+        <zh_tw><![CDATA[找回好友+]]></zh_tw>
+    </item>
+    <item id="402333">
+        <en_us><![CDATA[Your friend {0} is back! You got {1}]]></en_us>
+        <th_th><![CDATA[{0} เพื่อนของคุณกลับมาแล้ว! คุณจึงได้รับรางวัล {1} ชิป]]></th_th>
+        <zh_tw><![CDATA[您的好友{0}再次回歸！您因此獲得了{1}獎勵]]></zh_tw>
+    </item>
+    <item id="402334">
+        <en_us><![CDATA[Welcome back dear {0}! You can get {1}! ]]></en_us>
+        <th_th><![CDATA[ยินดีต้อนรับ {0} กลับสู่เกม！{1} รอคุณมารับอยู่！]]></th_th>
+        <zh_tw><![CDATA[亲爱的{0}欢迎你回归游戏！{1}敬请笑纳!]]></zh_tw>
+    </item>
+    <item id="402340">
+        <en_us><![CDATA[Personal Bank]]></en_us>
+        <th_th><![CDATA[ธนาคารส่วนตัว]]></th_th>
+        <zh_tw><![CDATA[個人銀行]]></zh_tw>
+    </item>
+    <item id="402341">
+        <en_us><![CDATA[Confirm]]></en_us>
+        <th_th><![CDATA[ถอนเงิน]]></th_th>
+        <zh_tw><![CDATA[取款]]></zh_tw>
+    </item>
+    <item id="402342">
+        <en_us><![CDATA[Confirm]]></en_us>
+        <th_th><![CDATA[ฝากเงิน]]></th_th>
+        <zh_tw><![CDATA[存款]]></zh_tw>
+    </item>
+    <item id="402343">
+        <en_us><![CDATA[Bank Balance]]></en_us>
+        <th_th><![CDATA[ทรัพย์สินในธนาคาร]]></th_th>
+        <zh_tw><![CDATA[銀行內資產]]></zh_tw>
+    </item>
+    <item id="402344">
+        <en_us><![CDATA[Cash Balance]]></en_us>
+        <th_th><![CDATA[ทรัพย์สินในเกม]]></th_th>
+        <zh_tw><![CDATA[遊戲內資產]]></zh_tw>
+    </item>
+    <item id="402345">
+        <en_us><![CDATA[Withdraw]]></en_us>
+        <th_th><![CDATA[ถอน]]></th_th>
+        <zh_tw><![CDATA[取出到遊戲]]></zh_tw>
+    </item>
+    <item id="402346">
+        <en_us><![CDATA[Deposit]]></en_us>
+        <th_th><![CDATA[ฝาก]]></th_th>
+        <zh_tw><![CDATA[存入到銀行]]></zh_tw>
+    </item>
+    <item id="402347">
+        <en_us><![CDATA[Enter the Amount]]></en_us>
+        <th_th><![CDATA[กรอกจำนวนเงิน]]></th_th>
+        <zh_tw><![CDATA[輸入金額]]></zh_tw>
+    </item>
+    <item id="402348">
+        <en_us><![CDATA[Password:]]></en_us>
+        <th_th><![CDATA[กรอกรหัสผ่าน:]]></th_th>
+        <zh_tw><![CDATA[輸入密碼:]]></zh_tw>
+    </item>
+    <item id="402349">
+        <en_us><![CDATA[Confirm the password:]]></en_us>
+        <th_th><![CDATA[ยืนยันรหัสผ่าน:]]></th_th>
+        <zh_tw><![CDATA[再次輸入密碼:]]></zh_tw>
+    </item>
+    <item id="402350">
+        <en_us><![CDATA[Password]]></en_us>
+        <th_th><![CDATA[กรอกรหัสผ่าน]]></th_th>
+        <zh_tw><![CDATA[輸入密碼]]></zh_tw>
+    </item>
+    <item id="402351">
+        <en_us><![CDATA[Confirm the password]]></en_us>
+        <th_th><![CDATA[ยืนยันรหัสผ่าน]]></th_th>
+        <zh_tw><![CDATA[再次輸入密碼]]></zh_tw>
+    </item>
+    <item id="402352">
+        <en_us><![CDATA[Account:]]></en_us>
+        <th_th><![CDATA[บัญชี:]]></th_th>
+        <zh_tw><![CDATA[帳戶:]]></zh_tw>
+    </item>
+    <item id="402353">
+        <en_us><![CDATA[Forgot password]]></en_us>
+        <th_th><![CDATA[ลืมรหัสผ่าน]]></th_th>
+        <zh_tw><![CDATA[找回密碼]]></zh_tw>
+    </item>
+    <item id="402354">
+        <en_us><![CDATA[Only VIP players can use bank deposit!]]></en_us>
+        <th_th><![CDATA[ขออภัย เฉพาะผู้เล่น VIP เท่านั้นที่สามารถฝากเงินในธนาคารได้!]]></th_th>
+        <zh_tw><![CDATA[很抱歉，只有VIP玩家才能存入籌碼喔！]]></zh_tw>
+    </item>
+    <item id="402355">
+        <en_us><![CDATA[Withdrawal success]]></en_us>
+        <th_th><![CDATA[ถอนเงินสำเร็จ]]></th_th>
+        <zh_tw><![CDATA[取款成功]]></zh_tw>
+    </item>
+    <item id="402356">
+        <en_us><![CDATA[Deposit success]]></en_us>
+        <th_th><![CDATA[ฝากเงินสำเร็จ]]></th_th>
+        <zh_tw><![CDATA[成功存款]]></zh_tw>
+    </item>
+    <item id="402357">
+        <en_us><![CDATA[You didn't have enough chips in bank!]]></en_us>
+        <th_th><![CDATA[ชิปในธนาคารไม่เพียงพอ]]></th_th>
+        <zh_tw><![CDATA[銀行內籌碼不足喔！]]></zh_tw>
+    </item>
+    <item id="402358">
+        <en_us><![CDATA[You didn't have enough chips now]]></en_us>
+        <th_th><![CDATA[มีชิปไม่เพียงพอ!]]></th_th>
+        <zh_tw><![CDATA[您沒有那麼多的籌碼喔！]]></zh_tw>
+    </item>
+    <item id="402359">
+        <en_us><![CDATA[Incorrect password.]]></en_us>
+        <th_th><![CDATA[รหัสผ่านผิดพลาด]]></th_th>
+        <zh_tw><![CDATA[密碼錯誤]]></zh_tw>
+    </item>
+    <item id="402360">
+        <en_us><![CDATA[Please enter an amount]]></en_us>
+        <th_th><![CDATA[กรุณากรอกจำนวนเงิน]]></th_th>
+        <zh_tw><![CDATA[請輸入籌碼]]></zh_tw>
+    </item>
+    <item id="402361">
+        <en_us><![CDATA[個人銀行]]></en_us>
+        <th_th><![CDATA[ธนาคารส่วนตัว	]]></th_th>
+        <zh_tw><![CDATA[個人銀行]]></zh_tw>
+    </item>
+    <item id="402362">
+        <en_us><![CDATA[您还不是vip]]></en_us>
+        <th_th><![CDATA[ธนาคารส่วนตัว	]]></th_th>
+        <zh_tw><![CDATA[您还不是vip]]></zh_tw>
+    </item>
+
+<!--  名人名言 -->
+    <item id="402401">
+        <en_us><![CDATA[Genius only means hard-working all one's life.]]></en_us>
+        <th_th><![CDATA[ไม่มีสิ่งใดในชีวิตที่น่ากลัว มีแต่สิ่งที่ต้องทำความเข้าใจ]]></th_th>
+        <zh_tw><![CDATA[忍是為了下一次ALL in.]]></zh_tw>
+    </item>
+    <item id="402402">
+        <en_us><![CDATA[The man who has made up his mind to win will never say "impossible".]]></en_us>
+        <th_th><![CDATA[ความสุขสูงสุดในชีวิตคือการเชื่อมั่นว่ามีผู้ที่รักเรา .]]></th_th>
+        <zh_tw><![CDATA[心態起決定性作用.]]></zh_tw>
+    </item>
+    <item id="402403">
+        <en_us><![CDATA[There is no such thing as a great talent without great will - power.]]></en_us>
+        <th_th><![CDATA[ีวิตย่อมเหมือนกันไม่ว่าอยู่ที่ใด คือต้องอดทนมาก เสวยสุขน้อย .]]></th_th>
+        <zh_tw><![CDATA[衝動不是魔鬼，猶豫才是.]]></zh_tw>
+    </item>
+<!-- 亮出底牌 -->
+	<item id="402501">
+        <en_us><![CDATA[Show hand]]></en_us>
+        <th_th><![CDATA[โชว์ไพ่ในมือ]]></th_th>
+        <zh_tw><![CDATA[秀出底牌]]></zh_tw>
+    </item>
+<!-- 在线奖励宝箱 -->
+	<item id="402601">
+        <en_us><![CDATA[Online Bonus]]></en_us>
+        <th_th><![CDATA[รางวัลออนไลน์]]></th_th>
+        <zh_tw><![CDATA[在線獎勵寶箱]]></zh_tw>
+    </item>
+    <item id="402602">
+        <en_us><![CDATA[Continued play]]></en_us>
+        <th_th><![CDATA[ออนไลน์สะสม]]></th_th>
+        <zh_tw><![CDATA[累計在線]]></zh_tw>
+    </item>
+    <item id="402603">
+        <en_us><![CDATA[mins]]></en_us>
+        <th_th><![CDATA[นาที]]></th_th>
+        <zh_tw><![CDATA[分鐘]]></zh_tw>
+    </item>
+    <item id="402604">
+        <en_us><![CDATA[Earn the rewards]]></en_us>
+        <th_th><![CDATA[จะได้รับรางวัล]]></th_th>
+        <zh_tw><![CDATA[獲得在線獎勵]]></zh_tw>
+    </item>
+<!--  -->
+	<item id="402701">
+        <en_us><![CDATA[Private message]]></en_us>
+        <th_th><![CDATA[แชทส่วนตัว]]></th_th>
+        <zh_tw><![CDATA[私聊]]></zh_tw>
+    </item>
+<!--  -->
+	<item id="402801">
+        <en_us><![CDATA[Master]]></en_us>
+        <th_th><![CDATA[Master Poker]]></th_th>
+        <zh_tw><![CDATA[玩牌領大獎]]></zh_tw>
+    </item>   
+    <item id="402802">
+        <en_us><![CDATA[Claim]]></en_us>
+        <th_th><![CDATA[รับ]]></th_th>
+        <zh_tw><![CDATA[領取]]></zh_tw>
+    </item> 
+    <item id="402803">
+        <en_us><![CDATA[Claim]]></en_us>
+        <th_th><![CDATA[เวลากิจกรรมคือทุกวันเวลา 20.00 – 23.30 น. ห้ามพลาดโดยเด็ดขาด!]]></th_th>
+        <zh_tw><![CDATA[活動時間為每日 20:00-23:30，敬請期待！]]></zh_tw>
+    </item> 
+    <item id="402804">
+        <en_us><![CDATA[Remaining rounds]]></en_us>
+        <th_th><![CDATA[รอบคงเหลือ]]></th_th>
+        <zh_tw><![CDATA[剩餘場次]]></zh_tw>
+    </item> 
+    <item id="402805">
+        <en_us><![CDATA[Claim]]></en_us>
+        <th_th><![CDATA[เมื่อเล่นไพ่ในห้องที่กำหนดในเวลา 20.00 – 23.30 น. จะสามารถสะสมจำนวนรอบกิจกรรม]]></th_th>
+        <zh_tw><![CDATA[在20:00-23:30於指定場次中玩牌即可累計活動次數]]></zh_tw>
+    </item> 
+    <item id="402806">
+        <en_us><![CDATA[Playing in over SB 200K tables, ]]></en_us>
+        <th_th><![CDATA[เล่นไพ่ในห้องที่มี SB  200K ขึ้นไป เมื่อเล่นไพ่ครบตามจำนวนที่กำหนดแล้วจะได้รับรางวัล]]></th_th>
+        <zh_tw><![CDATA[於小盲200K以上的場次玩牌，達到指定牌局數即可獲得相應獎勵]]></zh_tw>
+    </item>
+    <item id="402807">
+        <en_us><![CDATA[活動時間為10:00~23:00，敬請期待…]]></en_us>
+        <th_th><![CDATA[โปรดติดตาม...]]></th_th>
+        <zh_tw><![CDATA[敬請期待…]]></zh_tw>
+    </item>
+    <item id="402808">
+        <en_us><![CDATA[於SB 200K以上的場次打牌，達到指定牌局數即可獲得相應獎勵]]></en_us>
+        <th_th><![CDATA[เล่นในห้องSB 200Kขึ้นไป]]></th_th>
+        <zh_tw><![CDATA[於SB 200K以上的場次打牌，達到指定牌局數即可獲得相應獎勵]]></zh_tw>
+    </item>
+<!-- 大乐透  jackpot -->
+    <item id="402900">
+        <en_us><![CDATA[超級大樂透]]></en_us>
+        <th_th><![CDATA[JACKPOT]]></th_th>
+        <zh_tw><![CDATA[超級大樂透]]></zh_tw>
+    </item>
+    <item id="402901">
+        <en_us><![CDATA[Player]]></en_us>
+        <th_th><![CDATA[ผู้เล่นที่ชน]]></th_th>
+        <zh_tw><![CDATA[中獎玩家]]></zh_tw>
+    </item>
+    <item id="402902">
+        <en_us><![CDATA[Poker hand]]></en_us>
+        <th_th><![CDATA[ไพ่ที่ชน]]></th_th>
+        <zh_tw><![CDATA[中獎牌型]]></zh_tw>
+    </item>
+    <item id="402903">
+        <en_us><![CDATA[Chips Won]]></en_us>
+        <th_th><![CDATA[ชิปที่ชน]]></th_th>
+        <zh_tw><![CDATA[贏得籌碼]]></zh_tw>
+    </item>
+    <item id="402904">
+        <en_us><![CDATA[Time]]></en_us>
+        <th_th><![CDATA[เวลา]]></th_th>
+        <zh_tw><![CDATA[中獎時間]]></zh_tw>
+    </item>
+    <item id="402905">
+        <en_us><![CDATA[Bravo]]></en_us>
+        <th_th><![CDATA[แสดงความยินดี]]></th_th>
+        <zh_tw><![CDATA[給予祝賀]]></zh_tw>
+    </item>
+    <item id="402906">
+        <en_us><![CDATA[基本規則]]></en_us>
+        <th_th><![CDATA[กติกาพื้นฐาน]]></th_th>
+        <zh_tw><![CDATA[基本規則]]></zh_tw>
+    </item>
+    <item id="402907">
+        <en_us><![CDATA[1)在小盲250-500及小盲1000以上的房間內坐下時即可購買大樂透。購買的籌碼會進入大樂透獎池中。
+2)購買大樂透後，該局結束時持有指定牌型的玩家，即可從大樂透獎池中贏得籌碼！
+3)中途棄牌的玩家，以及因為其他玩家棄牌導致公共牌未全部開出的牌局會失去獲獎資格。
+4)有購買大樂透且參加牌局跟到底，獲得皇家同花順、同花順、四條、葫蘆就能夠獲得當下大樂透獎池的80%、30%、10%、1%籌碼獎勵！
+5)同一時間持有相同牌型的大樂透贏家將平分賠率。
+]]></en_us>
+        <th_th><![CDATA[1) เมื่อนั่งในห้องที่มี SB 250-500 และ SB 1000 ขึ้นไปจะสามารถซื้อ Jackpot ได้ ชิปที่ซื้อจะเข้าสู่กองรางวัล Jackpot
+2) เมื่อซื้อ Jackpot แล้ว ผู้เล่นที่มีไพ่ตามที่กำหนดในตาไพ่ดังกล่าว จะชนะชิปจากกองรางวัล Jackpot!
+3) ผู้เล่นที่ออกกลางคัน หรือเป็นเพราะผู้เล่นอื่นออกทำให้ไพ่กองกลางเปิดทั้งหมด จะเสียสิทธิ์การได้รับรางวัล
+4) เมื่อซื้อ Jackpot และเล่นไพ่จนจบ พร้อมมีไพ่รอยัลสเตรทฟลัช สเตรทฟลัช โฟร์การ์ด ฟูลเฮ้าส์จะได้รับรางวัลชิป 80%, 30%, 10%, 1%  จากกองรางวัล Jackpot!
+5)หากมีผู้เล่นที่มีไพ่เหมือนกัน Jackpot จะถูกแบ่ง 
+]]></th_th>
+        <zh_tw><![CDATA[1)在小盲250-500及小盲1000以上的房間內坐下時即可購買大樂透。購買的籌碼會進入大樂透獎池中。
+2)購買大樂透後，該局結束時持有指定牌型的玩家，即可從大樂透獎池中贏得籌碼！
+3)中途棄牌的玩家，以及因為其他玩家棄牌導致公共牌未全部開出的牌局會失去獲獎資格。
+4)有購買大樂透且參加牌局跟到底，獲得皇家同花順、同花順、四條、葫蘆就能夠獲得當下大樂透獎池的80%、30%、10%、1%籌碼獎勵！
+5)同一時間持有相同牌型的大樂透贏家將平分賠率。
+]]></zh_tw>
+    </item>
+    <item id="402908">
+        <en_us><![CDATA[进入牌局坐下点击勾选（如下图）即可买入。]]></en_us>
+        <th_th><![CDATA[เมื่อเข้านั่งเล่นและคลิกเลือก (ดังภาพ) ก็ถือว่าซื้อเสร็จเรียบร้อย]]></th_th>
+        <zh_tw><![CDATA[進入牌局坐下點擊勾選（如下圖）即可買入]]></zh_tw>
+    </item>
+    <item id="402909">
+        <en_us><![CDATA[JackPot]]></en_us>
+        <th_th><![CDATA[JackPot]]></th_th>
+        <zh_tw><![CDATA[JackPot]]></zh_tw>
+    </item>
+    <item id="402910">
+        <en_us><![CDATA[Buy JackPot for next round{0}]]></en_us>
+        <th_th><![CDATA[ซื้อ Jackpot รอบถัดไป{0}]]></th_th>
+        <zh_tw><![CDATA[購買下一局大樂透{0}]]></zh_tw>
+    </item>
+    <item id="402911">
+        <en_us><![CDATA[Buy JackPot for every round{0}xN]]></en_us>
+        <th_th><![CDATA[ซื้อ Jackpot ทุกรอบ{0}xN]]></th_th>
+        <zh_tw><![CDATA[購買每局大樂透{0}xN]]></zh_tw>
+    </item>
+    <item id="402912">
+        <en_us><![CDATA[JackPot Rules>>]]></en_us>
+        <th_th><![CDATA[กติกา Jackpot>>]]></th_th>
+        <zh_tw><![CDATA[超級大樂透規則說明>>]]></zh_tw>
+    </item>
+    <item id="402913">
+        <en_us><![CDATA[Jack Pot]]></en_us>
+        <th_th><![CDATA[Jack Pot]]></th_th>
+        <zh_tw><![CDATA[Jack Pot]]></zh_tw>
+    </item>
+    <item id="402914">
+        <en_us><![CDATA[查看名单]]></en_us>
+        <th_th><![CDATA[ดูรายชื่อ]]></th_th>
+        <zh_tw><![CDATA[查看名单]]></zh_tw>
+    </item>
+    <item id="402915">
+        <en_us><![CDATA[取消]]></en_us>
+        <th_th><![CDATA[ยกเลิก]]></th_th>
+        <zh_tw><![CDATA[取消]]></zh_tw>
+    </item>
+    <item id="402916">
+        <en_us><![CDATA[{0}เข้าร่วม  JackPot ชนะได้รับ {1} ชิป!]]></en_us>
+        <th_th><![CDATA[{0}เข้าร่วม  JackPot ชนะได้รับ {1} ชิป!]]></th_th>
+        <zh_tw><![CDATA[{0}在JackPot赢得了{1}筹码!]]></zh_tw>
+    </item>
+    <item id="402917">
+        <en_us><![CDATA[筹码!]]></en_us>
+        <th_th><![CDATA[筹码!]]></th_th>
+        <zh_tw><![CDATA[筹码!]]></zh_tw>
+    </item>
+    <item id="402918">
+        <en_us><![CDATA[恭喜您在超級大樂透獲得指定牌型！贏得{0}]]></en_us>
+        <th_th><![CDATA[ยินดีด้วยท่านเล่นได้ไพ่ตามที่กำหนดของ Jackpot! ได้รับ {0} ชิป]]></th_th>
+        <zh_tw><![CDATA[恭喜您在超級大樂透獲得指定牌型！贏得{0}]]></zh_tw>
+    </item>
+    <item id="402919">
+        <en_us><![CDATA[你的信箱中暫無郵件]]></en_us>
+        <th_th><![CDATA[ ขณะนี้คุณยังไม่มีจดหมาย]]></th_th>
+        <zh_tw><![CDATA[你的信箱中暫無郵件]]></zh_tw>
+    </item>
+    <item id="402920">
+        <en_us><![CDATA[購買方法]]></en_us>
+        <th_th><![CDATA[กติกาพื้นฐาน]]></th_th>
+        <zh_tw><![CDATA[購買方法]]></zh_tw>
+    </item>
+    <item id="402921">
+        <en_us><![CDATA[您的籌碼不足]]></en_us>
+        <th_th><![CDATA[กรุณาเลือกช่องทาง]]></th_th>
+        <zh_tw><![CDATA[您的籌碼不足]]></zh_tw>
+    </item>
+    <item id="402922">
+        <en_us><![CDATA[更多方式]]></en_us>
+        <th_th><![CDATA[เลือกช่องทาง]]></th_th>
+        <zh_tw><![CDATA[更多方式]]></zh_tw>
+    </item>
+    <item id="402923">
+        <en_us><![CDATA[銀行提款]]></en_us>
+        <th_th><![CDATA[ธนาคาร]]></th_th>
+        <zh_tw><![CDATA[銀行提款]]></zh_tw>
+    </item>
+    <item id="402924">
+        <en_us><![CDATA[取出餘額]]></en_us>
+        <th_th><![CDATA[เปิดธนาคาร]]></th_th>
+        <zh_tw><![CDATA[取出餘額]]></zh_tw>
+    </item>
+    <item id="402925">
+        <en_us><![CDATA[遊戲儲值]]></en_us>
+        <th_th><![CDATA[ร้านค้า]]></th_th>
+        <zh_tw><![CDATA[遊戲儲值]]></zh_tw>
+    </item>
+    <item id="402926">
+        <en_us><![CDATA[儲值]]></en_us>
+        <th_th><![CDATA[ซื้อชิป]]></th_th>
+        <zh_tw><![CDATA[儲值]]></zh_tw>
+    </item>
+    
+    <item id="402940">
+        <en_us><![CDATA[查看饰品]]></en_us>
+        <th_th><![CDATA[กติกาพื้นฐาน]]></th_th>
+        <zh_tw><![CDATA[查看饰品]]></zh_tw>
+    </item>
+    <item id="402941">
+        <en_us><![CDATA[查看道具]]></en_us>
+        <th_th><![CDATA[กติกาพื้นฐาน]]></th_th>
+        <zh_tw><![CDATA[查看道具]]></zh_tw>
+    </item>
+    <item id="402942">
+        <en_us><![CDATA[您当前还没有礼物哦]]></en_us>
+        <th_th><![CDATA[กติกาพื้นฐาน]]></th_th>
+        <zh_tw><![CDATA[您當前還沒有禮物哦]]></zh_tw>
+    </item>
+    <item id="402943">
+        <en_us><![CDATA[您当前还没有道具哦]]></en_us>
+        <th_th><![CDATA[กติกาพื้นฐาน]]></th_th>
+        <zh_tw><![CDATA[您當前還沒有道具哦]]></zh_tw>
+    </item>
+    <item id="402944">
+        <en_us><![CDATA[当前没有好友在线]]></en_us>
+        <th_th><![CDATA[กติกาพื้นฐาน]]></th_th>
+        <zh_tw><![CDATA[当前没有好友在线]]></zh_tw>
+    </item>
+    <item id="402945">
+        <en_us><![CDATA[当前没有玩家旁观]]></en_us>
+        <th_th><![CDATA[กติกาพื้นฐาน]]></th_th>
+        <zh_tw><![CDATA[当前没有玩家旁观]]></zh_tw>
+    </item>
+ <item id="402946">
+        <en_us><![CDATA[编辑资料]]></en_us>
+        <th_th><![CDATA[แก้ไขข้อมูล]]></th_th>
+        <zh_tw><![CDATA[編輯資料]]></zh_tw>
+    </item>
+    <item id="402947">
+        <en_us><![CDATA[请填写资料，我们才能赠送礼品。]]></en_us>
+        <th_th><![CDATA[กรุณากรอกข้อมูล เพื่อรับของรางวัล]]></th_th>
+        <zh_tw><![CDATA[請填寫資料，以便官方贈送獎勵]]></zh_tw>
+    </item>
+    <item id="402948">
+        <en_us><![CDATA[姓名:]]></en_us>
+        <th_th><![CDATA[ชื่อ:]]></th_th>
+        <zh_tw><![CDATA[姓名:]]></zh_tw>
+    </item>
+    <item id="402949">
+        <en_us><![CDATA[电话:]]></en_us>
+        <th_th><![CDATA[โทร:]]></th_th>
+        <zh_tw><![CDATA[電話:]]></zh_tw>
+    </item>
+    <item id="402950">
+        <en_us><![CDATA[E-mail:]]></en_us>
+        <th_th><![CDATA[E-mail:]]></th_th>
+        <zh_tw><![CDATA[E-mail:]]></zh_tw>
+    </item>
+    <item id="402951">
+        <en_us><![CDATA[输入名字...]]></en_us>
+        <th_th><![CDATA[กรอกชื่อ...]]></th_th>
+        <zh_tw><![CDATA[輸入名字...]]></zh_tw>
+    </item>
+    <item id="402952">
+        <en_us><![CDATA[输入电话...]]></en_us>
+        <th_th><![CDATA[กรอกเบอร์โทร...]]></th_th>
+        <zh_tw><![CDATA[輸入電話...]]></zh_tw>
+    </item>
+    <item id="402953">
+        <en_us><![CDATA[E-mail...]]></en_us>
+        <th_th><![CDATA[กรอก E-mail...]]></th_th>
+        <zh_tw><![CDATA[E-mail...]]></zh_tw>
+    </item>
+    <item id="402954">
+        <en_us><![CDATA[存储资料]]></en_us>
+        <th_th><![CDATA[บันทึกข้อมูล]]></th_th>
+        <zh_tw><![CDATA[儲存資料]]></zh_tw>
+    </item>
+    <item id="402955">
+        <en_us><![CDATA[邮箱格式错误]]></en_us>
+        <th_th><![CDATA[รูปแบบจดหมายผิดพลาด]]></th_th>
+        <zh_tw><![CDATA[郵件格式錯誤]]></zh_tw>
+    </item>
+    <item id="402956">
+        <en_us><![CDATA[我的礼券]]></en_us>
+        <th_th><![CDATA[คูปองของฉัน]]></th_th>
+        <zh_tw><![CDATA[我的禮卷]]></zh_tw>
+    </item>
+    <item id="402957">
+        <en_us><![CDATA[目前排名]]></en_us>
+        <th_th><![CDATA[อันดับปัจจุบัน]]></th_th>
+        <zh_tw><![CDATA[目前排名]]></zh_tw>
+    </item>
+    <item id="402958">
+        <en_us><![CDATA[目前排名]]></en_us>
+        <th_th><![CDATA[อันดับอื่นๆ]]></th_th>
+        <zh_tw><![CDATA[更多排名]]></zh_tw>
+    </item>
+    <item id="402959">
+        <en_us><![CDATA[活动说明]]></en_us>
+        <th_th><![CDATA[รายละเอียด]]></th_th>
+        <zh_tw><![CDATA[活動說明]]></zh_tw>
+    </item>
+    <item id="402960">
+        <en_us><![CDATA[查看]]></en_us>
+        <th_th><![CDATA[ตรวจสอบ]]></th_th>
+        <zh_tw><![CDATA[查看]]></zh_tw>
+    </item>
+        <item id="402961">
+        <en_us><![CDATA[1)在小盲250-500及小盲1000以上的房間內坐下時即可購買大樂透。購買的籌碼會進入大樂透獎池中。
+2)購買大樂透後，該局結束時持有指定牌型的玩家，即可從大樂透獎池中贏得籌碼！
+3)中途棄牌的玩家，以及因為其他玩家棄牌導致公共牌未全部開出的牌局會失去獲獎資格。
+4)有購買大樂透且參加牌局跟到底，獲得皇家同花順、同花順、四條、葫蘆就能夠獲得當下大樂透獎池的80%、30%、10%、1%籌碼獎勵！
+5)同一時間持有相同牌型的大樂透贏家將平分賠率。
+]]></en_us>
+        <th_th><![CDATA[1.ในช่วงกิจกรรม ทุกห้อง（RingGame）เมื่อเล่นไพ่มีโอกาสได้รับของขวัญลึกลับ
+2.บลายด์ยิ่งมาก โอกาสรับคูปองของขวัญก็ยิ่งสูง
+3.เมื่อสะสมครบตามที่กำหนดสามารถแลกรับของรางวัล (ของรางวัลสามารถแลกซ้ำได้)
+4.เมื่อกิจกรรมสิ้นสุด จะจัดอันดับผู้เล่นที่ได้รับคูปองของขวัญลึกลับทั้งหมด และทำการแจกรางวัล
+5.หลังกิจกรรมสิ้นสุดลง คูปองของขวัญที่ไม่ถูกใช้จะถูกระบบเปลี่ยนเป็น 10,000 ชิป /ใบ 
+6.คลิกที่ "ตรวจดู" เพื่อดูข้อมูลอันดับผู้ได้รับของรางวัล
+]]></th_th>
+        <zh_tw><![CDATA[1、活動期間內，於一般場所有房間（Ring Game）打牌皆有機率獲得神秘禮券。
+2、盲注越高，獲得神秘禮券的機率越高！
+3、蒐集至指定數量後，即可兌換相應的禮品（禮品均可重複兌換）
+4、活動結束時，會統計獲得神秘禮券的玩家排行，並提供排行獎勵
+5、活動結束後，未被兌換的禮券將被系統以“10,000/張”的籌碼價格回收
+6、點擊“查看”即可確認禮券排名資訊
+]]></zh_tw>
+    </item>
+    <item id="402962">
+        <en_us><![CDATA[兑换券]]></en_us>
+        <th_th><![CDATA[คูปอง]]></th_th>
+        <zh_tw><![CDATA[兌換卷]]></zh_tw>
+    </item>
+    <item id="402963">
+        <en_us><![CDATA[名次]]></en_us>
+        <th_th><![CDATA[ลำดับชื่อ]]></th_th>
+        <zh_tw><![CDATA[名次]]></zh_tw>
+    </item>
+    <item id="402964">
+        <en_us><![CDATA[玩家昵称]]></en_us>
+        <th_th><![CDATA[ชื่อผู้เล่น]]></th_th>
+        <zh_tw><![CDATA[玩家暱稱]]></zh_tw>
+    </item>
+    <item id="402965">
+        <en_us><![CDATA[奖券总量]]></en_us>
+        <th_th><![CDATA[จำนวนคูปอง]]></th_th>
+        <zh_tw><![CDATA[獎卷總數]]></zh_tw>
+    </item>
+    <item id="402966">
+        <en_us><![CDATA[说明:]]></en_us>
+        <th_th><![CDATA[1.กรุณากรอกข้อมูลรับรางวัลให้ครบถ้วน
+2.หลังกิจกรรมสิ้นสุดจะมอบรางวัลพร้อมกัน
+3.หากพบปัญหา โปรดติดต่อลูกค้าสัมพันธ์ เราพร้อมให้บริการท่าน]]></th_th>
+        <zh_tw><![CDATA[1、請確保填寫完整的領獎資料
+2、活動結束後，將統一發放獎品
+3、如有任何問題，請回報至客服中心，我們將竭誠為您服務]]></zh_tw>
+    </item>
+    <item id="402967">
+        <en_us><![CDATA[说明:]]></en_us>
+        <th_th><![CDATA[รายละเอียด:]]></th_th>
+        <zh_tw><![CDATA[說明:]]></zh_tw>
+    </item>
+    <item id="402968">
+        <en_us><![CDATA[獎勵]]></en_us>
+        <th_th><![CDATA[รางวัล]]></th_th>
+        <zh_tw><![CDATA[獎勵]]></zh_tw>
+    </item>
+    <item id="402969">
+        <en_us><![CDATA[敬请期待]]></en_us>
+        <th_th><![CDATA[โปรดติดตาม]]></th_th>
+        <zh_tw><![CDATA[敬請期待]]></zh_tw>
+    </item>
+    <item id="402970">
+        <en_us><![CDATA[神秘好礼]]></en_us>
+        <th_th><![CDATA[ของขวัญลึกลับ]]></th_th>
+        <zh_tw><![CDATA[神秘好禮]]></zh_tw>
+    </item>
+    <item id="402971">
+        <en_us><![CDATA[恭喜,礼券越多,礼品越好。]]></en_us>
+        <th_th><![CDATA[ยินดีด้วยคุณได้รับรางวัลการแข่งครั้งนี้]]></th_th>
+        <zh_tw><![CDATA[恭喜您在此次牌局中獲得獎勵]]></zh_tw>
+    </item>
+    <item id="402981">
+        <en_us><![CDATA[每日24:00自动刷新任务]]></en_us>
+        <th_th><![CDATA[รีเฟรชทุกวัน 24:00 น.]]></th_th>
+        <zh_tw><![CDATA[每日24:00刷新任務]]></zh_tw>
+    </item>
+    <item id="402982">
+        <en_us><![CDATA[节日积分:{0}]]></en_us>
+        <th_th><![CDATA[แต้มสะสมเทศกาล:{0}]]></th_th>
+        <zh_tw><![CDATA[節日積分:{0}]]></zh_tw>
+    </item>
+    <item id="402983">
+        <en_us><![CDATA[领取]]></en_us>
+        <th_th><![CDATA[รับ]]></th_th>
+        <zh_tw><![CDATA[領取]]></zh_tw>
+    </item>
+    <item id="402984">
+        <en_us><![CDATA[活动说明:]]></en_us>
+        <th_th><![CDATA[รายละเอียดกิจกรรม:]]></th_th>
+        <zh_tw><![CDATA[活動說明:]]></zh_tw>
+    </item>
+    <item id="402985">
+        <en_us><![CDATA[1活动说明:]]></en_us>
+        <th_th><![CDATA[1. ทำภารกิจที่กำหนดไว้สำเร็จจะได้ 1 แต้มกิจกรรม
+2.ทุกครั้งที่ใช้ 1 แต้มกิจกรรม  จะได้สุ่มรางวัลที่หน้าสุ่มรางวัล
+3.เมื่อจบกิจกรรม แต้มกิจกรรมที่เหลือจะรีเซ็ตเป็น  0
+4. ทุกวัน 24:00 น. จะรีเฟรชตารางภารกิจ 
+5.หากมีข้อสงสัย โปรดติดต่อศูนย์ลูกค้าสัมพันธ์ 
+]]></th_th>
+        <zh_tw><![CDATA[1、完成指定任務即可獲得1點活動積分
+2、每次消費1點活動積分，即可於抽獎介面中抽取隨機獎勵！
+3、活動結束後，剩餘活動積分將清空歸0
+4、每日24:00刷新任務列表
+5、如有任何問題，請回報至客服中心，我們將竭誠為您服務
+        ]]></zh_tw>
+    </item>
+    <item id="402986">
+        <en_us><![CDATA[本次消耗:{0}积分]]></en_us>
+        <th_th><![CDATA[ครั้งนี้ใช้:{0}แต้ม]]></th_th>
+        <zh_tw><![CDATA[本次消耗:{0}積分]]></zh_tw>
+    </item>
+    <item id="402987">
+        <en_us><![CDATA[節日積分:{0}]]></en_us>
+        <th_th><![CDATA[แต้มเทศกาล:{0}]]></th_th>
+        <zh_tw><![CDATA[節日積分:{0}]]></zh_tw>
+    </item>
+    <item id="402988">
+        <en_us><![CDATA[节日好礼]]></en_us>
+        <th_th><![CDATA[ของขวัญเทศกาล]]></th_th>
+        <zh_tw><![CDATA[節日好禮]]></zh_tw>
+    </item>
+    
+    <item id="403100">
+        <en_us><![CDATA[赏金猎人]]></en_us>
+        <th_th><![CDATA[นักล่ารางวัล]]></th_th>
+        <zh_tw><![CDATA[賞金獵人]]></zh_tw>
+    </item>
+    <item id="403101">
+        <en_us><![CDATA[刷新任务[{0}]]]></en_us>
+        <th_th><![CDATA[รีเฟรช[{0}]]]></th_th>
+        <zh_tw><![CDATA[刷新任務[{0}]]]></zh_tw>
+    </item>
+    <item id="403102">
+        <en_us><![CDATA[一键完成[{0}]]]></en_us>
+        <th_th><![CDATA[สำเร็จ[{0}]]]></th_th>
+        <zh_tw><![CDATA[一鍵完成[{0}]]]></zh_tw>
+    </item>
+<!--     <item id="403103"> -->
+<!--         <en_us><![CDATA[一键完成{0}]]></en_us> -->
+<!--         <th_th><![CDATA[一键完成{0}]]></th_th> -->
+<!--         <zh_tw><![CDATA[一键完成{0}]]></zh_tw> -->
+<!--     </item> -->
+    <item id="403104">
+        <en_us><![CDATA[活动详情]]></en_us>
+        <th_th><![CDATA[กติกากิจกรรม]]></th_th>
+        <zh_tw><![CDATA[活動規則]]></zh_tw>
+    </item>
+    <item id="403105">
+        <en_us><![CDATA[活动详情des]]></en_us>
+        <th_th><![CDATA[1.ในช่วงกิจกรรม ภารกิจสำเร็จจะได้รับแต้มแอคทีฟ
+2.สามารถยืนยันจำนวนแต้มแอคทีฟสะสมที่แถบความก้าวหน้าในหน้าต่างกิจกรรม
+3.เมื่อสะสมแต้มแอคทีฟครบ สามารถแลกรับรางวัลได้
+4. หากมีข้อสงสัย โปรดติดต่อศูนย์ลูกค้าสัมพันธ์ ]]></th_th>
+        <zh_tw><![CDATA[1、在活動期間內，完成任務即可獲得相應之活躍點數。
+2、可經由確認活動介面上方之進度條，確認活躍點數累積狀況
+3、當活躍點數累積至可兌換獎勵時，即可領取相應之獎勵！
+4、如有任何問題，請回報至客服中心，我們將竭誠為您服務]]></zh_tw>
+    </item>
+    <item id="403106">
+        <en_us><![CDATA[进度:]]></en_us>
+        <th_th><![CDATA[ความก้าวหน้า:]]></th_th>
+        <zh_tw><![CDATA[進度:]]></zh_tw>
+    </item>
+    <item id="403107">
+        <en_us><![CDATA[前往]]></en_us>
+        <th_th><![CDATA[ต่อไป]]></th_th>
+        <zh_tw><![CDATA[前往]]></zh_tw>
+    </item>
+    <item id="403108">
+        <en_us><![CDATA[已领取]]></en_us>
+        <th_th><![CDATA[รับ]]></th_th>
+        <zh_tw><![CDATA[已領取]]></zh_tw>
+    </item>
+    <item id="403109">
+        <en_us><![CDATA[活跃点数:]]></en_us>
+        <th_th><![CDATA[แต้มแอคทีฟ:]]></th_th>
+        <zh_tw><![CDATA[活躍點數:]]></zh_tw>
+    </item>
+    <item id="403110">
+        <en_us><![CDATA[活动时间:]]></en_us>
+        <th_th><![CDATA[เวลากิจกรรม:]]></th_th>
+        <zh_tw><![CDATA[活動時間:]]></zh_tw>
+    </item>
+    <item id="403120">
+        <en_us><![CDATA[1.拼图碎片获得仅限在RingGame
+2.牌局结束后，有概率获得拼图碎片
+3.当原图100%还原后，即可领奖
+4.活动期间内，可重复兑换奖励
+]]></en_us>
+        <th_th><![CDATA[1.ในช่วงกิจกรรม เล่นไพ่โต๊ะใดก็ได้มีโอกาสรับชิ้นส่วนจิ๊กซอว์
+2.เล่นไพ่บลายด์ยิ่งสูง ยิ่งมีโอกาสรับชิ้นส่วนจิ๊กซอว์
+3.เมื่อรวบรวมชิ้นส่วนจิ๊กซอว์และต่อเป็นภาพสมบูรณ์ จะได้รับรางวัล
+4.ต่อจิ๊กซอว์เป็นภาพซ้ำได้ ของรางวัลรับซ้ำได้
+5.กิจกรรมนี้สามารถเข้าร่วมในโหมดทั่วไปเท่านั้น
+]]></th_th>
+        <zh_tw><![CDATA[1、活動期間內，於一般場任何場次打牌都有機率獲得拼圖碎片
+2、在盲注越高的場次打牌，獲得拼圖碎片的機率越高！
+3、當拼圖碎片全部集齊成一張完整圖片，即可獲得相應獎勵
+4、拼圖可重複完成，獎勵可重複領取
+5、本次活動僅限一般場模式可參與
+]]></zh_tw>
+    </item>
+    <item id="403111">
+        <en_us><![CDATA[游戏规则]]></en_us>
+        <th_th><![CDATA[กติกาเกม]]></th_th>
+        <zh_tw><![CDATA[遊戲規則]]></zh_tw>
+    </item>
+    <item id="403112">
+        <en_us><![CDATA[活动奖励]]></en_us>
+        <th_th><![CDATA[รางวัลกิจกรรม]]></th_th>
+        <zh_tw><![CDATA[活動獎勵]]></zh_tw>
+    </item>
+    <item id="403113">
+        <en_us><![CDATA[夺宝奇兵]]></en_us>
+        <th_th><![CDATA[นักล่าสมบัติ]]></th_th>
+        <zh_tw><![CDATA[奪寶奇兵]]></zh_tw>
+    </item>
+    <item id="403114">
+        <en_us><![CDATA[拼图碎片]]></en_us>
+        <th_th><![CDATA[ชิ้นส่วนจิ๊กซอว์]]></th_th>
+        <zh_tw><![CDATA[拼圖碎片]]></zh_tw>
+    </item>
+    <item id="403115">
+        <en_us><![CDATA[您在此牌局中获得:]]></en_us>
+        <th_th><![CDATA[รอบนี้คุณได้รับ:]]></th_th>
+        <zh_tw><![CDATA[您在此次牌局中獲得:]]></zh_tw>
+    </item>
+    <item id="403116">
+        <en_us><![CDATA[拼图进度:]]></en_us>
+        <th_th><![CDATA[ระดับจิ๊กซอว์:]]></th_th>
+        <zh_tw><![CDATA[拼圖進度:]]></zh_tw>
+    </item>
+    <item id="403117">
+        <en_us><![CDATA[领奖]]></en_us>
+        <th_th><![CDATA[รับรางวัล]]></th_th>
+        <zh_tw><![CDATA[領獎]]></zh_tw>
+    </item>
+    <item id="403118">
+        <en_us><![CDATA[活动时间:]]></en_us>
+        <th_th><![CDATA[เวลากิจกรรม:]]></th_th>
+        <zh_tw><![CDATA[活動時間:]]></zh_tw>
+    </item>
+    <item id="403151">
+        <en_us><![CDATA[比赛名称]]></en_us>
+        <th_th><![CDATA[ชื่อการแข่งขัน]]></th_th>
+        <zh_tw><![CDATA[比赛名称]]></zh_tw>
+    </item>
+    <item id="403152">
+        <en_us><![CDATA[奖励]]></en_us>
+        <th_th><![CDATA[รางวัล]]></th_th>
+        <zh_tw><![CDATA[獎勵]]></zh_tw>
+    </item>
+    <item id="403153">
+        <en_us><![CDATA[费用]]></en_us>
+        <th_th><![CDATA[ค่าสมัคร]]></th_th>
+        <zh_tw><![CDATA[費用]]></zh_tw>
+    </item>
+    <item id="403154">
+        <en_us><![CDATA[报名]]></en_us>
+        <th_th><![CDATA[สมัคร]]></th_th>
+        <zh_tw><![CDATA[報名]]></zh_tw>
+    </item>
+    <item id="403155">
+        <en_us><![CDATA[Competitors:]]></en_us>
+        <th_th><![CDATA[ผู้แข่งขัน:]]></th_th>
+        <zh_tw><![CDATA[報名人數:]]></zh_tw>
+    </item>
+    <item id="403156">
+        <en_us><![CDATA[{0}活动已结束]]></en_us>
+        <th_th><![CDATA[{0}กิจกรรมสิ้นสุดแล้ว ]]></th_th>
+        <zh_tw><![CDATA[{0}活動已結束]]></zh_tw>
+    </item>
+    <item id="403170">
+        <en_us><![CDATA[您在本次比赛中的统计信息]]></en_us>
+        <th_th><![CDATA[สถิติในกิจกรรมครั้งนี้ของคุณคือ]]></th_th>
+        <zh_tw><![CDATA[您在本次活動中統計如下]]></zh_tw>
+    </item>
+    <item id="403171">
+        <en_us><![CDATA[提示:个人资料]]></en_us>
+        <th_th><![CDATA[หมายเหตุ: กรุณากรอกข้อมูลในหน้า “ข้อมูลส่วนตัว” ให้เรียบร้อย เพื่อรับของรางวัล]]></th_th>
+        <zh_tw><![CDATA[提示：請在介面處完善"個人資料"以便客服與您聯繫發放獎勵]]></zh_tw>
+    </item>
+    <item id="403172">
+        <en_us><![CDATA[活动已于{0}结束，谢谢您的参与]]></en_us>
+        <th_th><![CDATA[กิจกรรมจะสิ้นสุดใน {0} ขอบคุณที่เข้าร่วม]]></th_th>
+        <zh_tw><![CDATA[活動已於{0}結束，感謝您的參與]]></zh_tw>
+    </item>
+<!--     <item id="403173"> -->
+<!--         <en_us><![CDATA[提示:活跃点清零]]></en_us> -->
+<!--         <th_th><![CDATA[提示:活跃点清零]]></th_th> -->
+<!--         <zh_tw><![CDATA[提示：活動結束後剩餘的活躍點數將會被歸零]]></zh_tw> -->
+<!--     </item> -->
+    <item id="403174">
+        <en_us><![CDATA[獎勵&排名]]></en_us>
+        <th_th><![CDATA[รางวัล&อันดับ]]></th_th>
+        <zh_tw><![CDATA[獎勵&排名]]></zh_tw>
+    </item>
+    <item id="403175">
+        <en_us><![CDATA[最终排名:{0}]]></en_us>
+        <th_th><![CDATA[อันดับรอบสุดท้าย:{0}]]></th_th>
+        <zh_tw><![CDATA[最終排名:{0}]]></zh_tw>
+    </item>
+    <item id="403176">
+        <en_us><![CDATA[獲得獎勵:{0}]]></en_us>
+        <th_th><![CDATA[ได้รับรางวัล:{0}]]></th_th>
+        <zh_tw><![CDATA[獲得獎勵:{0}]]></zh_tw>
+    </item>
+    <item id="403177">
+        <en_us><![CDATA[奖券总数:{0}]]></en_us>
+        <th_th><![CDATA[จำนวนคูปอง:{0}]]></th_th>
+        <zh_tw><![CDATA[獎劵總數:{0}]]></zh_tw>
+    </item>
+<!--     <item id="403178"> -->
+<!--         <en_us><![CDATA[礼券回收:{0}]]></en_us> -->
+<!--         <th_th><![CDATA[礼券回收:{0}]]></th_th> -->
+<!--         <zh_tw><![CDATA[礼券回收:{0}]]></zh_tw> -->
+<!--     </item> -->
+    <item id="403179">
+        <en_us><![CDATA[未获得奖励]]></en_us>
+        <th_th><![CDATA[0]]></th_th>
+        <zh_tw><![CDATA[0]]></zh_tw>
+    </item>
+    <item id="403180">
+        <en_us><![CDATA[獎劵回收：請查看郵件]]></en_us>
+        <th_th><![CDATA[ระบบได้รับคูปองลึกลับแล้ว กรุณาตรวจสอบจดหมายเพื่อรับชิป]]></th_th>
+        <zh_tw><![CDATA[神秘禮券已經由系統回收，請至郵箱查看，領取籌碼]]></zh_tw>
+    </item>
+    <item id="403181">
+        <en_us><![CDATA[其他信息]]></en_us>
+        <th_th><![CDATA[ข้อมูลอื่นๆ]]></th_th>
+        <zh_tw><![CDATA[其他訊息]]></zh_tw>
+    </item>
+    <item id="403182">
+        <en_us><![CDATA[是否要消費{0}金幣執行{1}功能]]></en_us>
+        <th_th><![CDATA[ต้องการใช้ {0} Gold ดำเนินการฟังก์ชั่น {1} ใช่หรือไม่]]></th_th>
+        <zh_tw><![CDATA[是否要消費{0}金幣執行{1}功能]]></zh_tw>
+    </item>
+    <item id="403183">
+        <en_us><![CDATA[刷新任务]]></en_us>
+        <th_th><![CDATA[รีเฟรช]]></th_th>
+        <zh_tw><![CDATA[刷新任務]]></zh_tw>
+    </item>
+    <item id="403184">
+        <en_us><![CDATA[一键完成任务]]></en_us>
+        <th_th><![CDATA[สำเร็จ]]></th_th>
+        <zh_tw><![CDATA[一鍵完成任務]]></zh_tw>
+    </item>
+    <item id="403185">
+        <en_us><![CDATA[提示:活跃点清零]]></en_us>
+        <th_th><![CDATA[หมายเหตุ : หลังกิจกรรมสิ้นสุดแต้มเทศกาลจะถูกปรับเหลือ 0]]></th_th>
+        <zh_tw><![CDATA[提示：活動結束後剩餘的節日積分將被歸零]]></zh_tw>
+    </item>
+    <item id="403186">
+        <en_us><![CDATA[提示:活跃点清零]]></en_us>
+        <th_th><![CDATA[หมายเหตุ : หลังกิจกรรมสิ้นสุดแต้มแอคทีฟจะถูกปรับเหลือ 0]]></th_th>
+        <zh_tw><![CDATA[提示：活動結束後剩餘的活躍點數將會被歸零]]></zh_tw>
+    </item>
+    <item id="403187">
+        <en_us><![CDATA[提示:活跃点清零]]></en_us>
+        <th_th><![CDATA[หมายเหตุ : เมื่อกิจกรรมสิ้นสุดชิ้นส่วนจิ๊กซอว์จะถูกปรับเหลือ 0]]></th_th>
+        <zh_tw><![CDATA[提示：活動結束後剩餘的拼圖碎片將會被清空]]></zh_tw>
+    </item>
+    <item id="403188">
+        <en_us><![CDATA[節日好禮結束禮券{0}*10000]]></en_us>
+        <th_th><![CDATA[กิจกรรมของขวัญลึกลับสิ้นสุดแล้ว ระบบได้รับคูปองลึกลับแล้ว คุณได้รับ {0}*10000 ชิป]]></th_th>
+        <zh_tw><![CDATA[神秘好禮活動已結束，神秘禮卷由系統回收，您獲得 {0}*10000 籌碼]]></zh_tw>
+    </item>
+    
+    
+    
+<!--     for mobile -->
+    <item id="500001">
+        <en_us><![CDATA[: {0}]]></en_us>
+        <th_th><![CDATA[: {0}]]></th_th>
+        <zh_tw><![CDATA[: {0}]]></zh_tw>
+    </item>
+    <item id="500002">
+        <en_us><![CDATA[+邀请]]></en_us>
+        <th_th><![CDATA[+邀请]]></th_th>
+        <zh_tw><![CDATA[+邀请]]></zh_tw>
+    </item>
+    <item id="500003">
+        <en_us><![CDATA[warning]]></en_us>
+        <th_th><![CDATA[warning]]></th_th>
+        <zh_tw><![CDATA[warning]]></zh_tw>
+    </item>
+    <item id="500004">
+        <en_us><![CDATA[房间号:{0}]]></en_us>
+        <th_th><![CDATA[房间号:{0}]]></th_th>
+        <zh_tw><![CDATA[房间号:{0}]]></zh_tw>
+    </item>
+    <item id="500101">
+        <en_us><![CDATA[每日任务]]></en_us>
+        <th_th><![CDATA[每日任务]]></th_th>
+        <zh_tw><![CDATA[每日任务]]></zh_tw>
+    </item>
+    <item id="500102">
+        <en_us><![CDATA[购买道具]]></en_us>
+        <th_th><![CDATA[购买道具]]></th_th>
+        <zh_tw><![CDATA[购买道具]]></zh_tw>
+    </item>
+    <item id="500103">
+        <en_us><![CDATA[购买礼物]]></en_us>
+        <th_th><![CDATA[购买礼物]]></th_th>
+        <zh_tw><![CDATA[购买礼物]]></zh_tw>
+    </item>
+    <item id="500104">
+        <en_us><![CDATA[购买vip]]></en_us>
+        <th_th><![CDATA[购买vip]]></th_th>
+        <zh_tw><![CDATA[购买vip]]></zh_tw>
+    </item>
+    <item id="500105">
+        <en_us><![CDATA[已拥有:]]></en_us>
+        <th_th><![CDATA[已拥有:]]></th_th>
+        <zh_tw><![CDATA[已拥有:]]></zh_tw>
+    </item>
+    <item id="500106">
+        <en_us><![CDATA[确  认]]></en_us>
+        <th_th><![CDATA[确  认]]></th_th>
+        <zh_tw><![CDATA[确  认]]></zh_tw>
+    </item>
+    <item id="500107">
+        <en_us><![CDATA[ring game]]></en_us>
+        <th_th><![CDATA[ring game]]></th_th>
+        <zh_tw><![CDATA[ring game]]></zh_tw>
+    </item>
+    <item id="500108">
+        <en_us><![CDATA[MTT]]></en_us>
+        <th_th><![CDATA[MTT]]></th_th>
+        <zh_tw><![CDATA[MTT]]></zh_tw>
+    </item>
+    <item id="500201">
+        <en_us><![CDATA[邮   件]]></en_us>
+        <th_th><![CDATA[邮   件]]></th_th>
+        <zh_tw><![CDATA[邮   件]]></zh_tw>
+    </item>
+    <item id="500202">
+        <en_us><![CDATA[系统消息]]></en_us>
+        <th_th><![CDATA[系统消息]]></th_th>
+        <zh_tw><![CDATA[系统消息]]></zh_tw>
+    </item>
+    <item id="500203">
+        <en_us><![CDATA[LV.]]></en_us>
+        <th_th><![CDATA[LV.]]></th_th>
+        <zh_tw><![CDATA[LV.]]></zh_tw>
+    </item>
+    <item id="500204">
+        <en_us><![CDATA[筹码排行]]></en_us>
+        <th_th><![CDATA[筹码排行]]></th_th>
+        <zh_tw><![CDATA[筹码排行]]></zh_tw>
+    </item>
+    <item id="500205">
+        <en_us><![CDATA[等级排行]]></en_us>
+        <th_th><![CDATA[等级排行]]></th_th>
+        <zh_tw><![CDATA[等级排行]]></zh_tw>
+    </item>
+    <item id="500206">
+        <en_us><![CDATA[成就排行]]></en_us>
+        <th_th><![CDATA[成就排行]]></th_th>
+        <zh_tw><![CDATA[成就排行]]></zh_tw>
+    </item>
+    <item id="500207">
+        <en_us><![CDATA[我的好友]]></en_us>
+        <th_th><![CDATA[我的好友]]></th_th>
+        <zh_tw><![CDATA[我的好友]]></zh_tw>
+    </item>
+    <item id="500208">
+        <en_us><![CDATA[使用成功]]></en_us>
+        <th_th><![CDATA[使用成功]]></th_th>
+        <zh_tw><![CDATA[使用成功]]></zh_tw>
+    </item>
+    <item id="500209">
+        <en_us><![CDATA[账号]]></en_us>
+        <th_th><![CDATA[账号]]></th_th>
+        <zh_tw><![CDATA[账号]]></zh_tw>
+    </item>
+    <item id="500210">
+        <en_us><![CDATA[音乐]]></en_us>
+        <th_th><![CDATA[音乐]]></th_th>
+        <zh_tw><![CDATA[音乐]]></zh_tw>
+    </item>
+    <item id="500211">
+        <en_us><![CDATA[音效]]></en_us>
+        <th_th><![CDATA[音效]]></th_th>
+        <zh_tw><![CDATA[音效]]></zh_tw>
+    </item>
+    <item id="500212">
+        <en_us><![CDATA[其他]]></en_us>
+        <th_th><![CDATA[其他]]></th_th>
+        <zh_tw><![CDATA[其他]]></zh_tw>
+    </item>
+    <item id="500213">
+        <en_us><![CDATA[版本号]]></en_us>
+        <th_th><![CDATA[版本号]]></th_th>
+        <zh_tw><![CDATA[版本号]]></zh_tw>
+    </item>
+    <item id="500214">
+        <en_us><![CDATA[白手起家]]></en_us>
+        <th_th><![CDATA[白手起家]]></th_th>
+        <zh_tw><![CDATA[白手起家]]></zh_tw>
+    </item>
+    <item id="500215">
+        <en_us><![CDATA[中产阶级]]></en_us>
+        <th_th><![CDATA[中产阶级]]></th_th>
+        <zh_tw><![CDATA[中产阶级]]></zh_tw>
+    </item>
+    <item id="500216">
+        <en_us><![CDATA[德州大亨]]></en_us>
+        <th_th><![CDATA[德州大亨]]></th_th>
+        <zh_tw><![CDATA[德州大亨]]></zh_tw>
+    </item>
+    <item id="500217">
+        <en_us><![CDATA[当前筹码]]></en_us>
+        <th_th><![CDATA[当前筹码]]></th_th>
+        <zh_tw><![CDATA[当前筹码]]></zh_tw>
+    </item>
+    <item id="500218">
+        <en_us><![CDATA[在线人数]]></en_us>
+        <th_th><![CDATA[在线人数]]></th_th>
+        <zh_tw><![CDATA[在线人数]]></zh_tw>
+    </item>
+    <item id="500219">
+        <en_us><![CDATA[生涯]]></en_us>
+        <th_th><![CDATA[生涯]]></th_th>
+        <zh_tw><![CDATA[生涯]]></zh_tw>
+    </item>
+    <item id="500220">
+        <en_us><![CDATA[战绩]]></en_us>
+        <th_th><![CDATA[战绩]]></th_th>
+        <zh_tw><![CDATA[战绩]]></zh_tw>
+    </item>
+    <item id="500221">
+        <en_us><![CDATA[社交]]></en_us>
+        <th_th><![CDATA[社交]]></th_th>
+        <zh_tw><![CDATA[社交]]></zh_tw>
+    </item>
+    <item id="500222">
+        <en_us><![CDATA[时间排序]]></en_us>
+        <th_th><![CDATA[时间排序]]></th_th>
+        <zh_tw><![CDATA[时间排序]]></zh_tw>
+    </item>
+    <item id="500223">
+        <en_us><![CDATA[输赢排序]]></en_us>
+        <th_th><![CDATA[输赢排序]]></th_th>
+        <zh_tw><![CDATA[输赢排序]]></zh_tw>
+    </item>
+    <item id="500224">
+        <en_us><![CDATA[第{0}盘]]></en_us>
+        <th_th><![CDATA[第{0}盘]]></th_th>
+        <zh_tw><![CDATA[第{0}盘]]></zh_tw>
+    </item>
+    <item id="500225">
+        <en_us><![CDATA[盈利:]]></en_us>
+        <th_th><![CDATA[盈利:]]></th_th>
+        <zh_tw><![CDATA[盈利:]]></zh_tw>
+    </item>
+    <item id="500226">
+        <en_us><![CDATA[{0}周前]]></en_us>
+        <th_th><![CDATA[{0}周前]]></th_th>
+        <zh_tw><![CDATA[{0}周前]]></zh_tw>
+    </item>
+    <item id="500227">
+        <en_us><![CDATA[{0}天前]]></en_us>
+        <th_th><![CDATA[{0}天前]]></th_th>
+        <zh_tw><![CDATA[{0}天前]]></zh_tw>
+    </item>
+    <item id="500228">
+        <en_us><![CDATA[{0}小时前]]></en_us>
+        <th_th><![CDATA[{0}小时前]]></th_th>
+        <zh_tw><![CDATA[{0}小时前]]></zh_tw>
+    </item>
+    <item id="500229">
+        <en_us><![CDATA[一小时内]]></en_us>
+        <th_th><![CDATA[一小时内]]></th_th>
+        <zh_tw><![CDATA[一小时内]]></zh_tw>
+    </item>
+    <item id="500230">
+        <en_us><![CDATA[@TA]]></en_us>
+        <th_th><![CDATA[@TA]]></th_th>
+        <zh_tw><![CDATA[@TA]]></zh_tw>
+    </item>
+    <item id="500231">
+        <en_us><![CDATA[添加好友]]></en_us>
+        <th_th><![CDATA[添加好友]]></th_th>
+        <zh_tw><![CDATA[添加好友]]></zh_tw>
+    </item>
+    <item id="500232">
+        <en_us><![CDATA[删除好友]]></en_us>
+        <th_th><![CDATA[删除好友]]></th_th>
+        <zh_tw><![CDATA[删除好友]]></zh_tw>
+    </item>
+    <item id="500233">
+        <en_us><![CDATA[DAY {0}]]></en_us>
+        <th_th><![CDATA[DAY {0}]]></th_th>
+        <zh_tw><![CDATA[DAY {0}]]></zh_tw>
+    </item>
+    <item id="500234">
+        <en_us><![CDATA[返回]]></en_us>
+        <th_th><![CDATA[返回]]></th_th>
+        <zh_tw><![CDATA[返回]]></zh_tw>
+    </item>
+    <item id="500235">
+        <en_us><![CDATA[换桌]]></en_us>
+        <th_th><![CDATA[换桌]]></th_th>
+        <zh_tw><![CDATA[换桌]]></zh_tw>
+    </item>
+    <item id="500236">
+        <en_us><![CDATA[站起]]></en_us>
+        <th_th><![CDATA[站起]]></th_th>
+        <zh_tw><![CDATA[站起]]></zh_tw>
+    </item>
+    <item id="500237">
+        <en_us><![CDATA[恭喜您获得签到奖励]]></en_us>
+        <th_th><![CDATA[恭喜您获得签到奖励]]></th_th>
+        <zh_tw><![CDATA[恭喜您获得签到奖励]]></zh_tw>
+    </item>
+    <item id="500238">
+        <en_us><![CDATA[累积{0}DAYS]]></en_us>
+        <th_th><![CDATA[累积{0}วัน]]></th_th>
+        <zh_tw><![CDATA[累积{0}天]]></zh_tw>
+    </item>
+    <item id="500239">
+        <en_us><![CDATA[奖励说明]]></en_us>
+        <th_th><![CDATA[奖励说明]]></th_th>
+        <zh_tw><![CDATA[奖励说明]]></zh_tw>
+    </item>
+    <item id="500240">
+        <en_us><![CDATA[确认]]></en_us>
+        <th_th><![CDATA[确认]]></th_th>
+        <zh_tw><![CDATA[确认]]></zh_tw>
+    </item>
+    <item id="500241">
+        <en_us><![CDATA[次数:]]></en_us>
+        <th_th><![CDATA[次数:]]></th_th>
+        <zh_tw><![CDATA[次数:]]></zh_tw>
+    </item>
+    <item id="500242">
+        <en_us><![CDATA[完成条件:]]></en_us>
+        <th_th><![CDATA[完成条件:]]></th_th>
+        <zh_tw><![CDATA[完成条件:]]></zh_tw>
+    </item>
+    <item id="500243">
+        <en_us><![CDATA[确定]]></en_us>
+        <th_th><![CDATA[确定]]></th_th>
+        <zh_tw><![CDATA[确定]]></zh_tw>
+    </item>
+    <item id="500244">
+        <en_us><![CDATA[存入]]></en_us>
+        <th_th><![CDATA[存入]]></th_th>
+        <zh_tw><![CDATA[存入]]></zh_tw>
+    </item>
+    <item id="500245">
+        <en_us><![CDATA[取出]]></en_us>
+        <th_th><![CDATA[取出]]></th_th>
+        <zh_tw><![CDATA[取出]]></zh_tw>
+    </item>
+    <item id="500246">
+        <en_us><![CDATA[资料修改]]></en_us>
+        <th_th><![CDATA[资料修改]]></th_th>
+        <zh_tw><![CDATA[资料修改]]></zh_tw>
+    </item>
+    <item id="500247">
+        <en_us><![CDATA[总成就:]]></en_us>
+        <th_th><![CDATA[总成就:]]></th_th>
+        <zh_tw><![CDATA[总成就:]]></zh_tw>
+    </item>
+    <item id="500248">
+        <en_us><![CDATA[输入密码:]]></en_us>
+        <th_th><![CDATA[输入密码:]]></th_th>
+        <zh_tw><![CDATA[输入密码:]]></zh_tw>
+    </item>
+    <item id="500249">
+        <en_us><![CDATA[再次输入密码:]]></en_us>
+        <th_th><![CDATA[再次输入密码:]]></th_th>
+        <zh_tw><![CDATA[再次输入密码:]]></zh_tw>
+    </item>
+    <item id="500250">
+        <en_us><![CDATA[新的密码:]]></en_us>
+        <th_th><![CDATA[新的密码:]]></th_th>
+        <zh_tw><![CDATA[新的密码:]]></zh_tw>
+    </item>
+    <item id="500251">
+        <en_us><![CDATA[提示:6-16位字符]]></en_us>
+        <th_th><![CDATA[提示:6-16位字符]]></th_th>
+        <zh_tw><![CDATA[提示:6-16位字符]]></zh_tw>
+    </item>
+    <item id="500252">
+        <en_us><![CDATA[最小]]></en_us>
+        <th_th><![CDATA[最小]]></th_th>
+        <zh_tw><![CDATA[最小]]></zh_tw>
+    </item>
+    <item id="500253">
+        <en_us><![CDATA[最大]]></en_us>
+        <th_th><![CDATA[最大]]></th_th>
+        <zh_tw><![CDATA[最大]]></zh_tw>
+    </item>
+    <item id="500254">
+        <en_us><![CDATA[旧密码错误]]></en_us>
+        <th_th><![CDATA[旧密码错误]]></th_th>
+        <zh_tw><![CDATA[旧密码错误]]></zh_tw>
+    </item>
+    <item id="500256">
+        <en_us><![CDATA[密码不一致]]></en_us>
+        <th_th><![CDATA[密码不一致]]></th_th>
+        <zh_tw><![CDATA[密码不一致]]></zh_tw>
+    </item>
+    <item id="500255">
+        <en_us><![CDATA[我的成就进度:]]></en_us>
+        <th_th><![CDATA[我的成就进度:]]></th_th>
+        <zh_tw><![CDATA[我的成就进度:]]></zh_tw>
+    </item>
+    <item id="500256">
+        <en_us><![CDATA[再玩{0},即可领取奖励]]></en_us>
+        <th_th><![CDATA[再玩{0},即可领取奖励]]></th_th>
+        <zh_tw><![CDATA[再玩{0},即可领取奖励]]></zh_tw>
+    </item>
+    <item id="500257">
+        <en_us><![CDATA[修改密码成功]]></en_us>
+        <th_th><![CDATA[修改密码成功]]></th_th>
+        <zh_tw><![CDATA[修改密码成功]]></zh_tw>
+    </item>
+    <item id="500258">
+        <en_us><![CDATA[操作成功！取出{0}筹码]]></en_us>
+        <th_th><![CDATA[操作成功！取出{0}筹码]]></th_th>
+        <zh_tw><![CDATA[操作成功！取出{0}筹码]]></zh_tw>
+    </item>
+    <item id="500259">
+        <en_us><![CDATA[操作成功！存入{0}筹码]]></en_us>
+        <th_th><![CDATA[操作成功！存入{0}筹码]]></th_th>
+        <zh_tw><![CDATA[操作成功！存入{0}筹码]]></zh_tw>
+    </item>
+    <item id="500260">
+        <en_us><![CDATA[邀请]]></en_us>
+        <th_th><![CDATA[邀请]]></th_th>
+        <zh_tw><![CDATA[邀请]]></zh_tw>
+    </item>
+    <item id="500261">
+        <en_us><![CDATA[邀请已经发送]]></en_us>
+        <th_th><![CDATA[邀请已经发送]]></th_th>
+        <zh_tw><![CDATA[邀请已经发送]]></zh_tw>
+    </item>
+    <item id="500262">
+        <en_us><![CDATA[基本]]></en_us>
+        <th_th><![CDATA[基本]]></th_th>
+        <zh_tw><![CDATA[基本]]></zh_tw>
+    </item>
+    <item id="500263">
+        <en_us><![CDATA[VIP]]></en_us>
+        <th_th><![CDATA[VIP]]></th_th>
+        <zh_tw><![CDATA[VIP]]></zh_tw>
+    </item>
+    <item id="500264">
+        <en_us><![CDATA[还未坐下]]></en_us>
+        <th_th><![CDATA[还未坐下]]></th_th>
+        <zh_tw><![CDATA[还未坐下]]></zh_tw>
+    </item>
+</language>

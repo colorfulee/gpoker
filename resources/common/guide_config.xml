@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<guide>
+		<item index='1'>
+			<text x='420' y='280' width='196' height='78' arrowX='0' arrowY='0' arrowDirection='1'/>
+			<hole x='430' y='280' width='0' height='0' />
+		</item>
+		<item index='2'>
+			<text x='465' y='344' width='180' height='95' arrowX='475' arrowY='432' arrowDirection='1'/>
+			<hole x='465' y='450' width='110' height='55' />
+		</item>
+		<item index='3'>
+			<text x='455' y='433' width='220' height='104' arrowX='475' arrowY='530' arrowDirection='1'/>
+			<hole x='480' y='545' width='81' height='22' />
+		</item>
+		<item index='4'>
+			<text x='520' y='372' width='196' height='90' arrowX='550' arrowY='456' arrowDirection='1'/>
+			<hole x='554 ' y='475' width='64' height='56' />
+		</item>
+		<item index='5'>
+			<text x='210' y='327' width='160' height='70' arrowX='227' arrowY='390' arrowDirection='1'/>
+			<hole x='235' y='406' width='24' height='24' />
+		</item>
+		
+		<item index='7'>
+			<text x='317' y='171' width='195' height='104' arrowX='325' arrowY='177' arrowDirection='4'/>
+			<hole x='322' y='106' width='53' height='53' />
+		</item>
+		<item index='8'>
+			<text x='650' y='171' width='195' height='94' arrowX='660' arrowY='177' arrowDirection='4'/>
+			<hole x='654' y='106' width='53' height='53' />
+		</item>
+		<item index='9'>
+			<text x='284' y='310' width='200' height='144' arrowX='300' arrowY='317' arrowDirection='4'/>
+			<hole x='295' y='240' width='47' height='53' />
+		</item>
+		<item index='10'>
+			<text x='615' y='310' width='196' height='104' arrowX='637' arrowY='317' arrowDirection='4'/>
+			<hole x='624' y='240' width='47' height='53' />
+		</item>
+		<item index='11'>
+			<text x='715' y='276' width='210' height='95' arrowX='870' arrowY='364' arrowDirection='1'/>
+			<hole x='878' y='378' width='53' height='53' />
+		</item>
+		<item index='12'>
+			<text x='472' y='366' width='196' height='95' arrowX='494' arrowY='453' arrowDirection='1'/>
+			<hole x='490' y='479' width='55' height='55' />
+		</item>
+		<item index='13'>
+			<text x='460' y='391' width='196' height='69' arrowX='494' arrowY='453' arrowDirection='1'/>
+			<hole x='490' y='477' width='55' height='55' />
+		</item>
+		<item index='14'>
+			<text x='312' y='548' width='210' height='80' arrowX='331' arrowY='621' arrowDirection='1'/>
+			<hole x='311' y='640' width='192' height='37' />
+		</item>
+		<item index='15'>
+			<text x='92' y='281' width='196' height='89' arrowX='112' arrowY='363' arrowDirection='1'/>
+			<hole x='93' y='380' width='53' height='53' />
+		</item>
+		<item index='16'>
+			<text x='400' y='179' width='196' height='95' arrowX='432' arrowY='266' arrowDirection='1'/>
+			<hole x='374' y='284' width='160' height='74' />
+		</item>
+		<item index='17'>
+			<text x='400' y='187' width='196' height='84' arrowX='432' arrowY='265' arrowDirection='1'/>
+			<hole x='374' y='284' width='160' height='74' />
+		</item>
+		<item index='18'>
+			<text x='317' y='171' width='195' height='104' arrowX='325' arrowY='177' arrowDirection='4'/>
+			<hole x='322' y='106' width='53' height='53' />
+		</item>
+		<item index='19'>
+			<text x='650' y='171' width='195' height='94' arrowX='660' arrowY='177' arrowDirection='4'/>
+			<hole x='654' y='106' width='53' height='53' />
+		</item>
+		<item index='20'>
+			<text x='715' y='281' width='210' height='90' arrowX='870' arrowY='364' arrowDirection='1'/>
+			<hole x='878' y='378' width='53' height='53' />
+		</item>
+		<item index='21'>
+			<text x='472' y='366' width='196' height='95' arrowX='494' arrowY='453' arrowDirection='1'/>
+			<hole x='490' y='479' width='55' height='55' />
+		</item>
+		<item index='22'>
+			<text x='460' y='356' width='196' height='105' arrowX='494' arrowY='453' arrowDirection='1'/>
+			<hole x='490' y='479' width='55' height='55' />
+		</item>
+		<item index='23'>
+			<text x='312' y='548' width='210' height='80' arrowX='331' arrowY='621' arrowDirection='1'/>
+			<hole x='311' y='640' width='192' height='37' />
+		</item>
+		<item index='24'>
+			<text x='312' y='548' width='210' height='80' arrowX='331' arrowY='621' arrowDirection='1'/>
+			<hole x='311' y='640' width='192' height='37' />
+		</item>
+		<item index='25'>
+			<text x='515' y='606' width='225' height='70' arrowX='544' arrowY='670' arrowDirection='1'/>
+			<hole x='518' y='684' width='192' height='37' />
+		</item>
+		<item index='26'>
+			<text x='460' y='366' width='196' height='95' arrowX='477' arrowY='453' arrowDirection='1'/>
+			<hole x='490' y='377' width='55' height='55' />
+		</item>
+		<item index='27'>
+			<text x='312' y='548' width='210' height='80' arrowX='331' arrowY='621' arrowDirection='1'/>
+			<hole x='311' y='640' width='192' height='37' />
+		</item>
+		<item index='28'>
+			<text x='430' y='280' width='196' height='90' arrowX='0' arrowY='0' arrowDirection='1'/>
+			<hole x='430' y='280' width='0' height='0' />
+		</item>
+		<item index='29'>
+			<text x='430' y='280' width='196' height='120' arrowX='0' arrowY='0' arrowDirection='1'/>
+			<hole x='430' y='280' width='0' height='0' />
+		</item>
+		<item index='30'>
+			<text x='430' y='280' width='196' height='120' arrowX='0' arrowY='0' arrowDirection='1'/>
+			<hole x='430' y='280' width='196' height='104' />
+		</item>
+		
+		<cardInfo>
+			<item index='1' shadow="0" card="48,44,40,36,32"/>
+			<item index='2' shadow="0" card="37,33,29,25,21"/>
+			<item index='3' shadow="0" card="48,49,50,51,40"/>
+			<item index='4' shadow="0" card="44,45,46,34,35"/>
+			<item index='5' shadow="0" card="49,45,37,29,1"/>
+			<item index='6' shadow="0" card="34,31,25,21,19"/>
+			<item index='7' shadow="2" card="40,41,42,48,33"/>
+			<item index='8' shadow="1" card="49,51,45,46,24"/>
+			<item index='9' shadow="3" card="36,39,45,12,6"/>
+			<item index='10' shadow="4" card="48,47,37,28,3"/>
+		</cardInfo>
+</guide>

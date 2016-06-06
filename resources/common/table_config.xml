@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table>
+		<item index='1'>
+			<chip x='602' y='192'/>
+			<collectChip x='308' y='223'/>
+			<dealer x='569' y='158'/>
+			<seat x='605' y='44'/>
+			<pokerBack x='676' y='126'/>
+			<handPoker x='676' y='126'/>
+		</item>
+		<item index='2'>
+			<chip x='793' y='248'/>
+			<collectChip x='428' y='222'/>
+			<dealer x='760' y='214'/>
+			<seat x='798' y='100'/>
+			<pokerBack x='868' y='181'/>
+			<handPoker x='868' y='181'/>
+		</item>
+		<item index='3'>
+			<chip x='735' y='296'/>
+			<collectChip x='548' y='223'/>
+			<dealer x='813' y='392'/>
+			<seat x='851' y='279'/>
+			<pokerBack x='921' y='359'/>
+			<handPoker x='921' y='359'/>
+		</item>
+		<item index='4'>
+			<chip x='669' y='368'/>
+			<collectChip x='307' y='345'/>
+			<dealer x='635' y='399'/>
+			<seat x='674' y='398'/>
+			<pokerBack x='744' y='479'/>
+			<handPoker x='744' y='479'/>
+		</item>
+		<item index='5'>
+			<chip x='426' y='368'/>
+			<collectChip x='427' y='345'/>
+			<dealer x='391' y='399'/>
+			<seat x='431' y='398'/>
+			<pokerBack x='515' y='446'/>
+			<handPoker x='515' y='446'/>
+		</item>
+		<item index='6'>
+			<chip x='182' y='368'/>
+			<collectChip x='547' y='345'/>
+			<dealer x='293' y='399'/>
+			<seat x='186' y='398'/>
+			<pokerBack x='183' y='479'/>
+			<handPoker x='183' y='479'/>
+		</item>
+		<item index='7'>
+			<chip x='115' y='305'/>
+			<collectChip x='660' y='270'/>
+			<dealer x='117' y='391'/>
+			<seat x='9' y='279'/>
+			<pokerBack x='3' y='359'/>
+			<handPoker x='155' y='376'/>
+		</item>
+		<item index='8'>
+			<chip x='58' y='248'/>
+			<collectChip x='660' y='270'/>
+			<dealer x='171' y='214'/>
+			<seat x='63' y='100'/>
+			<pokerBack x='59' y='181'/>
+			<handPoker x='59' y='181'/>
+		</item>
+		<item index='9'>
+			<chip x='250' y='191'/>
+			<collectChip x='660' y='248'/>
+			<dealer x='361' y='157'/>
+			<seat x='253' y='44'/>
+			<pokerBack x='250' y='126'/>
+			<handPoker x='250' y='126'/>
+		</item>
+</table>

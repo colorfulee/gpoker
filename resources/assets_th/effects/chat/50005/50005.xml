@@ -1,0 +1,7 @@
+<TextureAtlas imagePath="50005.png">
+  <SubTexture name="img_ 4" x="0" y="96" width="65" height="39" frameX="0" frameWidth="66" frameY="0" frameHeight="40"/>
+  <SubTexture name="img_ 5" x="90" y="75" width="23" height="31" frameX="0" frameWidth="24" frameY="0" frameHeight="32"/>
+  <SubTexture name="img_ 1" x="0" y="0" width="88" height="94"/>
+  <SubTexture name="img_ 3" x="90" y="0" width="25" height="35" frameX="0" frameWidth="26" frameY="0" frameHeight="36"/>
+  <SubTexture name="img_ 2" x="90" y="37" width="20" height="36"/>
+</TextureAtlas>
